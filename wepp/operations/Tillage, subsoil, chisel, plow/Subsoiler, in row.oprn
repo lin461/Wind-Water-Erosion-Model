@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Subsoiler, in row</path>
+   <name>Subsoiler, in row</name>
+   <comments>'In-row chisel or subsoiler shanks that disturb less than 40% of the surface but lift and fracture the soil to a depth below the plow layer.  Shank spacing varies but is typically 30 .  )-08-02 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, in row</path>
+         <name>Subsoiler, in row</name>
+         <comment>In-row chisel or subsoiler shanks that disturb less than 40% of the surface but lift and fracture the soil to a depth below the plow layer. Shank spacing varies but is typically 30</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.40</surdis>
+         <tdmean>0.381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>11.7</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

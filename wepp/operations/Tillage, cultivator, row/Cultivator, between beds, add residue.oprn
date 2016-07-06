@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Cultivator, between beds, add residue</path>
+   <name>Cultivator, between beds, add residue</name>
+   <comments>&amp;quot;'Cultivator used on beds covered with plastic mulch.  This operation cultivates between the beds and adds other cover.  User must specify type of residue cover, ie.,  weed residue   and dry weight.  Rev 043008 DTL '&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Cultivator, between beds, add residue</path>
+         <name>Cultivator, between beds, add residue</name>
+         <comment>"Cultivator used on beds covered with plastic mulch. This operation cultivates between the beds and adds other cover. User must specify type of residue cove, ie, weed residue and dry weight."</comment>
+         <weppkey />
+         <mfo1>0.9</mfo1>
+         <mfo2>0.9</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.9</rmfo1>
+         <rmfo2>0.9</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.50</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>9.75</ostir><oenergyarea>4.0221877</oenergyarea></wepstags></weppoperation>

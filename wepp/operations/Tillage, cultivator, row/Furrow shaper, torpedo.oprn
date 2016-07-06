@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Furrow shaper, torpedo</path>
+   <name>Furrow shaper, torpedo</name>
+   <comments>'Furrow shaping operation on existing beds.  Torpedo shaped device used to shape the furrows for furrow irrigation.  11/17/01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Furrow shaper, torpedo</path>
+         <name>Furrow shaper, torpedo</name>
+         <comment>Furrow shaping operation on existing beds. Torpedo shaped device used to shape the furrows for furrow irrigation</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.75</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.60</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>2.19</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

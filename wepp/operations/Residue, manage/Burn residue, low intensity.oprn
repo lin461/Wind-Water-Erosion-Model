@@ -1,0 +1,10 @@
+<weppoperation>
+   <path>operations\Burn residue, low intensity</path>
+   <name>Burn residue, low intensity</name>
+   <comments>'Burn residue 50% of flat biomass and 80% of standing residue affected 11/08/01 DTL'</comments>
+   <process>
+      <burning>
+         <name />
+      </burning>
+   </process>
+<wepstags><ostir>0</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

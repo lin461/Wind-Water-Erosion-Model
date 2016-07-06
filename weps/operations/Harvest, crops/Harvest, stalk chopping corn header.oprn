@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Harvest, stalk chopping corn header</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>14.966279</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>.15</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Represents modern harvest equipment like a combine with a corn head or grain header.
+Low stubble height. Rev090104 DTL
+Adjusted flattening large residue to .10  MAS 2-10-09
+
+Copied from Harvest 30% cut.
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+
+</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Represents modern harvest equipment like a combine with a corn head or grain header.
+Low stubble height. Rev090104 DTL
+Adjusted flattening large residue to .10  MAS 2-10-09
+
+Copied from Harvest 30% cut.
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>31</id>
+		</identity>
+		<param>
+			<name>kilflag</name>
+			<value>2</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>42</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>cutflag</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>cutvalh</name>
+			<value>127.00025</value>
+		</param>
+		<param>
+			<name>cyldrmh</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>cplrmh</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>cstrmh</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>34</id>
+		</identity>
+		<param>
+			<name>frselpool</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>ratemultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt5</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt5</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>24</id>
+		</identity>
+		<param>
+			<name>fbioflagvt</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>massflatvt1</name>
+			<value>0.2</value>
+		</param>
+		<param>
+			<name>massflatvt2</name>
+			<value>0.2</value>
+		</param>
+		<param>
+			<name>massflatvt3</name>
+			<value>0.10</value>
+		</param>
+		<param>
+			<name>massflatvt4</name>
+			<value>0.2</value>
+		</param>
+		<param>
+			<name>massflatvt5</name>
+			<value>1</value>
+		</param>
+	</actionvalue>
+</operationDB>

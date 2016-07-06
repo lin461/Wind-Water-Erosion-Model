@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Chisel, st. pt.</path>
+   <name>Chisel, st. pt.</name>
+   <comments>'060701 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Chisel, st. pt.</path>
+         <name>Chisel, st. pt.</name>
+         <comment>Chisel plow with 12 to 16 inch low crown sweeps operating at 3 to 4 inch depth</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1524</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>45.5</ostir><oenergyarea>9.353924</oenergyarea></wepstags></weppoperation>

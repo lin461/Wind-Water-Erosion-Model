@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Seeding, planter</path>
+<name>Planter, into growing cover</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>2.44</ostir><oenergyarea>4.1157265</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,65 @@
+<weppoperation>
+   <path>operations\Coulter tiller, 10 degree angle, coiled tine harrow, rolling basket</path>
+   <name>Coulter tiller, 10 degree angle, coiled tine harrow, rolling basket</name>
+   <comments>'Like Salford RTS machine with multiple ranks of staggered   fluted coulters preloaded on a 10 degree angle followed by a coiled tine harrow and a rolling basket.     103107 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Coulter tiller, 10 degree angle, coiled tine harrow, rolling basket</path>
+         <name>Coulter tiller, 10 degree angle, coiled tine harrow, rolling basket</name>
+         <comment>Like Salford RTS machine with multiple ranks of staggered fluted coulters preloaded on a 10 degree angle followed by a coiled tine harrow and a rolling basket</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Coulter tiller, 10 degree angle, coiled tine harrow, rolling basket</path>
+         <name>Coulter tiller, 10 degree angle, coiled tine harrow, rolling basket</name>
+         <comment>Like Salford RTS machine with multiple ranks of staggered fluted coulters preloaded on a 10 degree angle followed by a coiled tine harrow and a rolling basket</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Coulter tiller, 10 degree angle, coiled tine harrow, rolling basket</path>
+         <name>Coulter tiller, 10 degree angle, coiled tine harrow, rolling basket</name>
+         <comment>Like Salford RTS machine with multiple ranks of staggered fluted coulters preloaded on a 10 degree angle followed by a coiled tine harrow and a rolling basket</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>18.53</ostir><oenergyarea>7.9508357</oenergyarea></wepstags></weppoperation>

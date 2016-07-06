@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Harvest, forage sorghum</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>op_notes4</name>
+			<value>Use this operation when regrowth is desired and expected.  It will not kill annual or perennial crops.
+It cuts to a 5 in ht.   Will not calibrated yield.  MAS 6-30-08
+Harvest forage sorghum 11/18/01 DTL
+
+ARS record - filename is:  Harvest Corn - silage (silage cutter).oprn
+This operation record is designed to represent a harvesting operation, e.g., a "silage cutter",
+that remove all of the above ground crop biomass above a specified cutting height.
+Examples would be cutting corn for silage and alfalfa for hay.
+This harvesting operation record removes all crop plant material above the specified cut height.
+The remaining above ground crop material below the specified cut height becomes standing residue
+for annual crops.  Perennial crops like alfalfa will automatically regrow.
+The default "Kill or Defoliate Growing Crop" parameter is set to kill annual crops but to allow
+regrowth of perennial crops.  Thus the default value is acceptable for perennial crops
+like alfalfa and most annual crops like corn harvested for silage.  There are situations where
+one might want to change this parameter value for specific types of crops and conditions.
+See additional info below in the "Detailed info regarding this operation record" section.
+No standing stalks (crop or residue) are flattened.  This record is assuming a row crop
+silage harvester, where the tires are tracking in between the rows.
+200x	Created - Fred Fox
+Oct 31, 2005	Updated notes - Larry Wagner
+Detailed info regarding this operation record:
+This operation template has the "Kill or Defoliate Growing Crop" process parameter defaulting to
+"Annual crop killed, perennial crop regrows" value.  Thus the default value is acceptable for use
+with perennial crops like alfalfa and annual crops like corn harvested for silage.  However, if one
+intends to harvest (green chop) an annual crop that has the capacity to regrow after such a cutting,
+then one needs to change the value to "No crop killed" to allow the crop to regrow afterwards.
+Due to the way WEPS reports crop yields, the crop record selected for this type of harvesting
+operation should specify the "yield" component of the crop to be the "above ground stems, leaves
+and reproductive elements of  the plant".  This will ensure proper reporting of harvested yields
+by WEPS.  However, using a crop record that does not specify the "yield" component in this manner
+will not affect the erosion estimate or change any other simulation run results, except to incorrectly
+report the true "yield" component being removed from the field.  An example of a crop that may be
+harvested for two different types of "yield" components is corn.  There are corn crop records defined
+that specify the yield as the reproductive element (grain) and others that are defined for harvesting
+the crop as silage.
+
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>oenergyarea</name>
+			<value>8.886228</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>.15</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Use this operation when regrowth is desired and expected.  It will not kill annual or perennial crops.
+It cuts to a 5 in ht.   Will not calibrated yield.  MAS 6-30-08
+Harvest forage sorghum 11/18/01 DTL
+
+ARS record - filename is:  Harvest Corn - silage (silage cutter).oprn
+This operation record is designed to represent a harvesting operation, e.g., a "silage cutter",
+that remove all of the above ground crop biomass above a specified cutting height.
+Examples would be cutting corn for silage and alfalfa for hay.
+This harvesting operation record removes all crop plant material above the specified cut height.
+The remaining above ground crop material below the specified cut height becomes standing residue
+for annual crops.  Perennial crops like alfalfa will automatically regrow.
+The default "Kill or Defoliate Growing Crop" parameter is set to kill annual crops but to allow
+regrowth of perennial crops.  Thus the default value is acceptable for perennial crops
+like alfalfa and most annual crops like corn harvested for silage.  There are situations where
+one might want to change this parameter value for specific types of crops and conditions.
+See additional info below in the "Detailed info regarding this operation record" section.
+No standing stalks (crop or residue) are flattened.  This record is assuming a row crop
+silage harvester, where the tires are tracking in between the rows.
+200x	Created - Fred Fox
+Oct 31, 2005	Updated notes - Larry Wagner
+Detailed info regarding this operation record:
+This operation template has the "Kill or Defoliate Growing Crop" process parameter defaulting to
+"Annual crop killed, perennial crop regrows" value.  Thus the default value is acceptable for use
+with perennial crops like alfalfa and annual crops like corn harvested for silage.  However, if one
+intends to harvest (green chop) an annual crop that has the capacity to regrow after such a cutting,
+then one needs to change the value to "No crop killed" to allow the crop to regrow afterwards.
+Due to the way WEPS reports crop yields, the crop record selected for this type of harvesting
+operation should specify the "yield" component of the crop to be the "above ground stems, leaves
+and reproductive elements of  the plant".  This will ensure proper reporting of harvested yields
+by WEPS.  However, using a crop record that does not specify the "yield" component in this manner
+will not affect the erosion estimate or change any other simulation run results, except to incorrectly
+report the true "yield" component being removed from the field.  An example of a crop that may be
+harvested for two different types of "yield" components is corn.  There are corn crop records defined
+that specify the yield as the reproductive element (grain) and others that are defined for harvesting
+the crop as silage.
+
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>42</id>
+		</identity>
+		<param>
+			<name>cutflag</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>cutvalh</name>
+			<value>127.00025</value>
+		</param>
+		<param>
+			<name>cyldrmh</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>cplrmh</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>cstrmh</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>34</id>
+		</identity>
+		<param>
+			<name>frselpool</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>ratemultvt1</name>
+			<value>1.1</value>
+		</param>
+		<param>
+			<name>ratemultvt2</name>
+			<value>1.08</value>
+		</param>
+		<param>
+			<name>ratemultvt3</name>
+			<value>1.06</value>
+		</param>
+		<param>
+			<name>ratemultvt4</name>
+			<value>1.04</value>
+		</param>
+		<param>
+			<name>ratemultvt5</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt5</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>24</id>
+		</identity>
+		<param>
+			<name>fbioflagvt</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>massflatvt1</name>
+			<value>.6</value>
+		</param>
+		<param>
+			<name>massflatvt2</name>
+			<value>.50</value>
+		</param>
+		<param>
+			<name>massflatvt3</name>
+			<value>.4</value>
+		</param>
+		<param>
+			<name>massflatvt4</name>
+			<value>.3</value>
+		</param>
+		<param>
+			<name>massflatvt5</name>
+			<value>1</value>
+		</param>
+	</actionvalue>
+</operationDB>

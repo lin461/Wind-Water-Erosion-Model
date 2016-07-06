@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Residue removal by wind</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>9.353924E-8</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>This operation was added to model fields where all the leaves (100%), chaff (Grain portion 100 %), and 95% of the stem mass is blown away.
+This includes current residue pool and older pool loose on the surface.
+This operation removes only flat residue, no standing or root mass is removed.
+CAUTION: THIS IS ONLY TO BE USED WHEN FIELD INVENTORY SHOWS RESIDUE LOSS DUE TO WIND.
+WEPS does not account for residue removal due to wind blowing it off the field.
+Example: Heron Co. MI.  A winter wheat field was straight point chiseled (fall) and sweep cultivated 3 times (1 in the fall and 2 in spring).
+Sugar Beets were planted.  Then wind damaged the beets and blew away 1/2 inch of soil.
+The model showed 800 lbs/ac cover of WW straw at that time.  Field inventory at seeding time showed low residue cover.
+This operation is used to reduce the WW residue due to wind in the spring critical period..
+In this example the operation should be applied after the all tillages. Some may only need one period.
+Apply this only when all other operations have been accounted for.
+MAS 10-4-11
+Changed the P61 to a P62 MAS 12-19-11
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>ofuel</name>
+			<value/>
+			</param>
+			<param>
+				<name>op_devnotes4</name>
+				<value>This operation was added to model fields where all the leaves (100%), chaff (Grain portion 100 %), and 95% of the stem mass is blown away.
+This includes current residue pool and older pool loose on the surface.
+This operation removes only flat residue, no standing or root mass is removed.
+CAUTION: THIS IS ONLY TO BE USED WHEN FIELD INVENTORY SHOWS RESIDUE LOSS DUE TO WIND.
+WEPS does not account for residue removal due to wind blowing it off the field.
+Example: Heron Co. MI.  A winter wheat field was straight point chiseled (fall) and sweep cultivated 3 times (1 in the fall and 2 in spring).
+Sugar Beets were planted.  Then wind damaged the beets and blew away 1/2 inch of soil.
+The model showed 800 lbs/ac cover of WW straw at that time.  Field inventory at seeding time showed low residue cover.
+This operation is used to reduce the WW residue due to wind in the spring critical period..
+In this example the operation should be applied after the all tillages. Some may only need one period.
+Apply this only when all other operations have been accounted for.
+MAS 10-4-11
+Changed the P61 to a P62 MAS 12-19-11
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+			</param>
+		</actionvalue>
+		<actionvalue>
+			<identity>
+				<code>G</code>
+				<id>02</id>
+			</identity>
+			<param>
+				<name>gbioarea</name>
+				<value>1</value>
+			</param>
+		</actionvalue>
+		<actionvalue>
+			<identity>
+				<code>P</code>
+				<id>61</id>
+			</identity>
+			<param>
+				<name>selpos</name>
+				<value>2</value>
+			</param>
+			<param>
+				<name>selpool</name>
+				<value>4</value>
+			</param>
+			<param>
+				<name>rstore</name>
+				<value>1.0</value>
+			</param>
+			<param>
+				<name>rleaf</name>
+				<value>1.0</value>
+			</param>
+			<param>
+				<name>rstem</name>
+				<value>0.95</value>
+			</param>
+			<param>
+				<name>rrootstore</name>
+				<value>0.0</value>
+			</param>
+			<param>
+				<name>rrootfiber</name>
+				<value>0.0</value>
+			</param>
+		</actionvalue>
+		<actionvalue>
+			<identity>
+				<code>P</code>
+				<id>62</id>
+			</identity>
+			<param>
+				<name>harv_report_flg</name>
+				<value>0</value>
+			</param>
+			<param>
+				<name>harv_calib_flg</name>
+				<value>0</value>
+			</param>
+			<param>
+				<name>harv_unit_flg</name>
+				<value>1</value>
+			</param>
+			<param>
+				<name>mature_warn_flg</name>
+				<value>0</value>
+			</param>
+			<param>
+				<name>selpos</name>
+				<value>2</value>
+			</param>
+			<param>
+				<name>selpool</name>
+				<value>6</value>
+			</param>
+			<param>
+				<name>selagepool</name>
+				<value>2</value>
+			</param>
+			<param>
+				<name>rstore</name>
+				<value>1.0</value>
+			</param>
+			<param>
+				<name>rleaf</name>
+				<value>1.0</value>
+			</param>
+			<param>
+				<name>rstem</name>
+				<value>0.95</value>
+			</param>
+			<param>
+				<name>rrootstore</name>
+				<value>0.0</value>
+			</param>
+			<param>
+				<name>rrootfiber</name>
+				<value>0.0</value>
+			</param>
+		</actionvalue>
+	</operationDB>

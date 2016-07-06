@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Chisel, twisted shovel, coil tine har</path>
+   <name>Chisel, twisted shovel, coil tine har</name>
+   <comments>&amp;quot;'Chisel, twisted shovel 060701 DTL with a coiled tine harrow dragged behind 09-13-11 GGF'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Chisel, twisted shovel, coil tine har</path>
+         <name>Chisel, twisted shovel, coil tine har</name>
+         <comment>"Chisel, twisted shovel with a coiled tine harrow dragged behind"</comment>
+         <weppkey />
+         <mfo1>0.9</mfo1>
+         <mfo2>0.9</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1524</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.9</rmfo1>
+         <rmfo2>0.9</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1524</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Chisel, twisted shovel, coil tine har</path>
+         <name>Chisel, twisted shovel, coil tine har</name>
+         <comment>"Chisel, twisted shovel with a coiled tine harrow dragged behind"</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>47.9375 </ostir><oenergyarea>12.160101</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>BFM application</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>op_notes4</name>
+			<value>Applicator applies straw or curlex erosion control blanket application covering 100% of the surface.
+Applied after seeding operation such as drill, cultipacker roller seeder or broadcast seeder.
+Specify straw mulch as residue type and specify the dry weight of material being applied.  06-24-03 DTL
+For example:S75® Single Net Straw Blanket
+Lightweight photodegradable polypropylene 2.1 lbs/1000 ft2 (1.02 kg/100 m2) approx wt
+STRAW FIBER 0.5 lbs/yd2 (0.27 kg/m2)
+THREAD: Degradable
+Aprox 2500 lbs/ac Straw.
+MAS 11-27-07
+LMOD and WEPS update correlation; new WEPS operation record, clone
+Erosion blanket existing WEPS, correctly spelled name changed to match LMOD, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>oenergyarea</name>
+			<value>9.353924E-8</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>.15</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Applicator applies straw or curlex erosion control blanket application covering 100% of the surface.
+Applied after seeding operation such as drill, cultipacker roller seeder or broadcast seeder.
+Specify straw mulch as residue type and specify the dry weight of material being applied.  06-24-03 DTL
+For example:S75® Single Net Straw Blanket
+Lightweight photodegradable polypropylene 2.1 lbs/1000 ft2 (1.02 kg/100 m2) approx wt
+STRAW FIBER 0.5 lbs/yd2 (0.27 kg/m2)
+THREAD: Degradable
+Aprox 2500 lbs/ac Straw.
+MAS 11-27-07
+LMOD and WEPS update correlation; new WEPS operation record, clone
+Erosion blanket existing WEPS, correctly spelled name changed to match LMOD, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>03</id>
+		</identity>
+		<param>
+			<name>gcropname</name>
+			<value>small grain straw</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>65</id>
+		</identity>
+		<param>
+			<name>numst</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rstandht</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rstandmass</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rflatmass</name>
+			<value>0.44834003</value>
+		</param>
+		<param>
+			<name>rbc</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>rburiedmass</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rburieddepth</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootmass</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootdepth</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>standdk</name>
+			<value>0.0080</value>
+		</param>
+		<param>
+			<name>surfdk</name>
+			<value>0.0080</value>
+		</param>
+		<param>
+			<name>burieddk</name>
+			<value>0.0080</value>
+		</param>
+		<param>
+			<name>rootdk</name>
+			<value>0.0080</value>
+		</param>
+		<param>
+			<name>stemnodk</name>
+			<value>0.169</value>
+		</param>
+		<param>
+			<name>stemdia</name>
+			<value>0.0050000004</value>
+		</param>
+		<param>
+			<name>thrddys</name>
+			<value>17.1</value>
+		</param>
+		<param>
+			<name>covfact</name>
+			<value>5.2279425</value>
+		</param>
+		<param>
+			<name>resevapa</name>
+			<value>2.08165</value>
+		</param>
+		<param>
+			<name>resevapb</name>
+			<value>0.548606</value>
+		</param>
+		<param>
+			<name>crop_notes</name>
+			<value>This record is a clone from ARS add resiude.  MAS 10-3-06
+Added factors to simulate 4000 lbs/ac small grain straw  MAS 7-7-11</value>
+		</param>
+	</actionvalue>
+</operationDB>

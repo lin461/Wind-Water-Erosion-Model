@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Mulch treader</path>
+   <name>Mulch treader</name>
+   <comments>&amp;quot;'Mulch Treader flattens and achors straw and stubble by placing some soil on loose residue.  Also called skew treader, or picker treader. 101806  DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Mulch treader</path>
+         <name>Mulch treader</name>
+         <comment>"Mulch Treader flattens and achors straw and stubble by placing some soil on loose residue. Also called skew treader, or picker treader."</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0.05</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>10.4</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

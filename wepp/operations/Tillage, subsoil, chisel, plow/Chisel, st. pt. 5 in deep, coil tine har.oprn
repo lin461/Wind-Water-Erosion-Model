@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Chisel, st. pt. 5 in deep, coil tine har</path>
+   <name>Chisel, st. pt. 5 in deep, coil tine har</name>
+   <comments>'Chisel plow with straight points operated at 5 inch depth.  012605 DTL with a coiled tine harrow dragged behind 09-13-11 GGF'</comments>
+   <process>
+      <tillage>
+         <path>operations\Chisel, st. pt. 5 in deep, coil tine har</path>
+         <name>Chisel, st. pt. 5 in deep, coil tine har</name>
+         <comment>Chisel plow with straight points operated at 5 inch depth. 012605 DTL with a coiled tine harrow dragged behind</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.127</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Chisel, st. pt. 5 in deep, coil tine har</path>
+         <name>Chisel, st. pt. 5 in deep, coil tine har</name>
+         <comment>Chisel plow with straight points operated at 5 inch depth. 012605 DTL with a coiled tine harrow dragged behind</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>35</ostir><oenergyarea>8.979767</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Rice, AR, flooded</path>
+<name>Rice, AR, flooded</name>
+<comments>'4/93, ldf, hcb, gaw Rice grown in Arkansas (EI 98) rotation w/ other crops. Rice flooded after emergence, then drained before harvest  REV 61801 DTLThis vegetation record has utilized the old rice residue record which internally accounts for the effects of flooding on residue decomposition.  No water is to be applied by the user in the Examine Irrigation box in the profile screen. Corrected weight of bushel of rice  110206 DTL'</comments>
+<weppkey>L_643_Rice</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>5.2</bb>
+<bbb>2.65</bbb>
+<beinp>35</beinp>
+<btemp>4</btemp>
+<cf>5.4</cf>
+<crit>45</crit>
+<critvm>0.1</critvm>
+<cuthgt>0.15</cuthgt>
+<decfct>1</decfct>
+<diam>0.006</diam>
+<dlai>0.8</dlai>
+<dropfc>1</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>3</flivmx>
+<gddmax>1500</gddmax>
+<hi>0.42</hi>
+<hmax>0.91</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0085</oratea>
+<orater>0.0085</orater>
+<otemp>20</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.005</pltsp>
+<rdmax>0.3</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>cwt/ac</hyldunits><tgtyield>55</tgtyield><grf>0.8</grf><hyldflag>0</hyldflag><hmx>1.2192148</hmx><rdmx>0.9</rdmx><topt>25.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>9.7</hyldwater></wepstags></weppcrop>

@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Harvest, lavender bundles</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>op_notes4</name>
+			<value>Harvest greens with no regrowth. Use to harvest crops like    Spinach, kale, chard, beet greens 12-10-01 DTL
+Crops are not killed to allow winter annuals like spinach to regrow through the winter months.  MAS 8-13-07
+LMOD and WEPS update correlation; new WEPS operation record, clone Harvest, leafy veg, no kill crop, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>oenergyarea</name>
+			<value>3.2738733</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>.15</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Harvest greens with no regrowth. Use to harvest crops like    Spinach, kale, chard, beet greens 12-10-01 DTL
+Crops are not killed to allow winter annuals like spinach to regrow through the winter months.  MAS 8-13-07
+LMOD and WEPS update correlation; new WEPS operation record, clone Harvest, leafy veg, no kill crop, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>31</id>
+		</identity>
+		<param>
+			<name>kilflag</name>
+			<value>0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>62</id>
+		</identity>
+		<param>
+			<name>selpos</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selpool</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>rstore</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>rleaf</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>rstem</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootstore</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootfiber</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>selagepool</name>
+			<value>0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>34</id>
+		</identity>
+		<param>
+			<name>frselpool</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>ratemultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt5</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt5</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>24</id>
+		</identity>
+		<param>
+			<name>fbioflagvt</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>massflatvt1</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>massflatvt2</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>massflatvt3</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>massflatvt4</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>massflatvt5</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+</operationDB>

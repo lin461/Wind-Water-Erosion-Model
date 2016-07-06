@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Strip till bed conditioner</path>
+   <name>Strip till bed conditioner</name>
+   <comments>&amp;quot;'Striptill bed conditioner smoothes, firms and prepares a seedbed following an in-row subsoiler operation.  050802 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Strip till bed conditioner</path>
+         <name>Strip till bed conditioner</name>
+         <comment>"Strip till bed conditioner smooths, firms, and prepares a seedbed following an in-row subsoiler operation."</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.30</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>4.88</ostir><oenergyarea>2.9932556</oenergyarea></wepstags></weppoperation>

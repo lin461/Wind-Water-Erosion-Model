@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Seeder, high density vegetable</path>
+   <name>Seeder, high density vegetable</name>
+   <comments>&amp;quot;'Seeder, high density vegetable.  Seeds close spaced rows on top of a preformed bed leaving furrows or wheel tracks un-seeded on about a 40 to 48inch spacing 111705 DTL  '&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Seeder, high density vegetable</path>
+         <name>Seeder, high density vegetable</name>
+         <comment>"Seeder, high density vegetable. Seeds close spaced rows on top of a performed bed leaving furrows or wheel tracks un-seeded on about a 40 to 48 inch spacing."</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1524</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.75</surdis>
+         <tdmean>0.0254</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>0.73</ostir><oenergyarea>4.1157265</oenergyarea></wepstags></weppoperation>

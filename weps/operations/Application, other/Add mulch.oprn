@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Add mulch</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>op_notes4</name>
+			<value>General application of mulch material.  Little to no soil disturbance.
+Operation calls for user to define associated mulch material and amount added.
+LMOD and WEPS DB correlation, existing WEPS operation record, 160410 jp
+</value>
+		</param>
+		<param>
+			<name>oenergyarea</name>
+			<value>9.353924E-8</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>General application operation of mulch material.  Little to no soil disturbance.
+Operation calls for user to define associated mulch material and amount added.
+LMOD and WEPS DB correlation, existing WEPS operation record, 160410 jp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>03</id>
+		</identity>
+		<param>
+			<name>gcropname</name>
+			<value>small grain straw</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>65</id>
+		</identity>
+		<param>
+			<name>numst</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rstandht</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rstandmass</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rflatmass</name>
+			<value>0.22417001</value>
+		</param>
+		<param>
+			<name>rbc</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>rburiedmass</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rburieddepth</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootmass</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootdepth</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>standdk</name>
+			<value>0.0080</value>
+		</param>
+		<param>
+			<name>surfdk</name>
+			<value>0.0080</value>
+		</param>
+		<param>
+			<name>burieddk</name>
+			<value>0.0080</value>
+		</param>
+		<param>
+			<name>rootdk</name>
+			<value>0.0080</value>
+		</param>
+		<param>
+			<name>stemnodk</name>
+			<value>0.169</value>
+		</param>
+		<param>
+			<name>stemdia</name>
+			<value>0.0050000004</value>
+		</param>
+		<param>
+			<name>thrddys</name>
+			<value>17.1</value>
+		</param>
+		<param>
+			<name>covfact</name>
+			<value>5.2279425</value>
+		</param>
+		<param>
+			<name>resevapa</name>
+			<value>-2.08165</value>
+		</param>
+		<param>
+			<name>resevapb</name>
+			<value>0.548606</value>
+		</param>
+		<param>
+			<name>crop_notes</name>
+			<value>This record is a clone from ARS add resiude.  MAS 10-3-06</value>
+		</param>
+	</actionvalue>
+</operationDB>

@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Chisel plow, disk, st. pts.</path>
+   <name>Chisel plow, disk, st. pts.</name>
+   <comments>'Disk chisel plow with straight points. 061206 DTL REV 110207 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Chisel plow, disk, st. pts.</path>
+         <name>Chisel plow, disk, st. pts.</name>
+         <comment>Disk chisel plow with straight points</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Chisel plow, disk, st. pts.</path>
+         <name>Chisel plow, disk, st. pts.</name>
+         <comment>Disk chisel plow with straight points</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1524</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>65</ostir><oenergyarea>14.030887</oenergyarea></wepstags></weppoperation>

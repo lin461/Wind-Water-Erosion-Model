@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Fert. applic., strip-till 30 in</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>5.36</ostir><oenergyarea>8.418531</oenergyarea></wepstags></weppoperation>

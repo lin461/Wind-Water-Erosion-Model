@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, narrow slot w/smooth or rippled coulter</path>
+   <name>Planter, narrow slot w/smooth or rippled coulter</name>
+   <comments>&amp;quot;'Narrow no-till planter on 30 inch row spacing.  Minimal disturbance and burial.  052302  DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, narrow slot w/smooth or rippled coulter</path>
+         <name>Planter, narrow slot w/smooth or rippled coulter</name>
+         <comment>"Narrow no-till planter on 30 inch row spacing. Minimal disturbance and burial. 052302 DTL, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.2</mfo1>
+         <mfo2>0.2</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.2</rmfo1>
+         <rmfo2>0.2</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.05</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>0.81</ostir><oenergyarea>3.6480303</oenergyarea></wepstags></weppoperation>

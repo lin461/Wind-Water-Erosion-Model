@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Residue, row cleaner</path>
+   <name>Residue, row cleaner</name>
+   <comments>'Used to move  or sweep residue from rows to row middles as in unburned sugarcane systems.  02-28-02 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Residue, row cleaner</path>
+         <name>Residue, row cleaner</name>
+         <comment>Used to move or sweep residue from rows to row middles as in unburned sugarcane systems.</comment>
+         <weppkey />
+         <mfo1>0.2</mfo1>
+         <mfo2>0.2</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.2</rmfo1>
+         <rmfo2>0.2</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.20</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>1.14</ostir><oenergyarea>2.9932556</oenergyarea></wepstags></weppoperation>

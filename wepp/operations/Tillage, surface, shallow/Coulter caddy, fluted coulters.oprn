@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Coulter caddy, w/ fluted coulters</path>
+   <name>Coulter caddy, w/ fluted coulters</name>
+   <comments>'Coulter Caddy fluted coulters on 7 to 10 inch spacing.  040405 DTL rev 103107DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Coulter caddy, w/ fluted coulters</path>
+         <name>Coulter caddy, w/ fluted coulters</name>
+         <comment>Coulter Caddy fluted coulters on 7 to 10 inch spacing</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.55</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>8.58</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

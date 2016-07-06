@@ -1,0 +1,10 @@
+<weppoperation>
+   <path>operations\Burn residue, moderate intensity</path>
+   <name>Burn residue, moderate intensity</name>
+   <comments>'Burn residue 100% standing stubble and 75% flat. 020904 DTL'</comments>
+   <process>
+      <burning>
+         <name />
+      </burning>
+   </process>
+<wepstags><ostir>0</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

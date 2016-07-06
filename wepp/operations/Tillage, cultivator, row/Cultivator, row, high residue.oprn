@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Cultivator, row, high residue</path>
+   <name>Cultivator, row, high residue</name>
+   <comments>'High residue cultivator w/ single 24  sweep per row.  12-18-01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Cultivator, row, high residue</path>
+         <name>Cultivator, row, high residue</name>
+         <comment>High residue cultivator w/ single 24 sweep per row</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.50</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>8.13</ostir><oenergyarea>4.0221877</oenergyarea></wepstags></weppoperation>

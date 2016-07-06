@@ -1,0 +1,40 @@
+<weppcrop>
+<path>.\wepp\crops</path>
+<name>Sorghum, sudangrass, hay</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>3.6</bb>
+<bbb>3</bbb>
+<beinp>25</beinp>
+<btemp>10</btemp>
+<cf>2.9</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.609</cuthgt>
+<decfct>0.9</decfct>
+<diam>0.032</diam>
+<dlai>0.8</dlai>
+<dropfc>0.9</dropfc>
+<extnct>0.6</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1450</gddmax>
+<hi>0.5</hi>
+<hmax>1.01</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0074</oratea>
+<orater>0.0074</orater>
+<otemp>27.5</otemp>
+<pltol>0</pltol>
+<pltsp>0.13</pltsp>
+<rdmax>1.5</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>40</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>ton/ac</hyldunits><tgtyield>3</tgtyield><grf>1</grf><hyldflag>2</hyldflag><hmx>1.8</hmx><rdmx>2</rdmx><topt>27.5</topt><cbaflag>0</cbaflag><hyconfact /><stemdia>0.01</stemdia><hyldwater>15</hyldwater></wepstags></weppcrop>

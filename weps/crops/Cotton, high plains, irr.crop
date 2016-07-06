@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="crop_db.xsl"?>
+<!DOCTYPE cropDB SYSTEM "crop_db.dtd">
+<!-- crop_db.dtd: Provided here for reference-->
+<!--
+<!ELEMENT cropDB (cropname, param*)>
+<!ELEMENT cropname (#PCDATA)>
+<!ELEMENT param (name,value)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT value (#PCDATA)>
+-->
+<cropDB>
+	<cropname>Cotton, high plains, irr</cropname>
+	<param>
+		<name>plantpop</name>
+		<value>10.378827</value>
+	</param>
+	<param>
+		<name>dmaxshoot</name>
+		<value>1.0</value>
+	</param>
+	<param>
+		<name>cbaflag</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>tgtyield</name>
+		<value>1500</value>
+	</param>
+	<param>
+		<name>cbafact</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>cyrafact</name>
+		<value>1.0</value>
+	</param>
+	<param>
+		<name>hyldflag</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>hyldunits</name>
+		<value>lb/ac lint</value>
+	</param>
+	<param>
+		<name>hyldwater</name>
+		<value>7.5</value>
+	</param>
+	<param>
+		<name>hyconfact</name>
+		<value>3435.0</value>
+	</param>
+	<param>
+		<name>idc</name>
+		<value>4</value>
+	</param>
+	<param>
+		<name>grf</name>
+		<value>0.8</value>
+	</param>
+	<param>
+		<name>ck</name>
+		<value>1.05</value>
+	</param>
+	<param>
+		<name>hui0</name>
+		<value>0.8</value>
+	</param>
+	<param>
+		<name>hmx</name>
+		<value>1.0</value>
+	</param>
+	<param>
+		<name>growdepth</name>
+		<value>0.05</value>
+	</param>
+	<param>
+		<name>rdmx</name>
+		<value>2.0</value>
+	</param>
+	<param>
+		<name>tbas</name>
+		<value>12.0</value>
+	</param>
+	<param>
+		<name>topt</name>
+		<value>30.0</value>
+	</param>
+	<param>
+		<name>thudf</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>dtm</name>
+		<value>145</value>
+	</param>
+	<param>
+		<name>thum</name>
+		<value>2500.0</value>
+	</param>
+	<param>
+		<name>frsx1</name>
+		<value>-5.0</value>
+	</param>
+	<param>
+		<name>frsx2</name>
+		<value>-15.0</value>
+	</param>
+	<param>
+		<name>frsy1</name>
+		<value>0.01</value>
+	</param>
+	<param>
+		<name>frsy2</name>
+		<value>0.95</value>
+	</param>
+	<param>
+		<name>verndel</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>bceff</name>
+		<value>17.5</value>
+	</param>
+	<param>
+		<name>a_lf</name>
+		<value>0.0177</value>
+	</param>
+	<param>
+		<name>b_lf</name>
+		<value>0.6365</value>
+	</param>
+	<param>
+		<name>c_lf</name>
+		<value>0.4472</value>
+	</param>
+	<param>
+		<name>d_lf</name>
+		<value>-0.0639</value>
+	</param>
+	<param>
+		<name>a_rp</name>
+		<value>0.0029</value>
+	</param>
+	<param>
+		<name>b_rp</name>
+		<value>0.7649</value>
+	</param>
+	<param>
+		<name>c_rp</name>
+		<value>0.5759</value>
+	</param>
+	<param>
+		<name>d_rp</name>
+		<value>0.0596</value>
+	</param>
+	<param>
+		<name>a_ht</name>
+		<value>0.4472</value>
+	</param>
+	<param>
+		<name>b_ht</name>
+		<value>-0.0639</value>
+	</param>
+	<param>
+		<name>ssaa</name>
+		<value>0.0535108</value>
+	</param>
+	<param>
+		<name>ssab</name>
+		<value>0.61779262</value>
+	</param>
+	<param>
+		<name>sla</name>
+		<value>20.0</value>
+	</param>
+	<param>
+		<name>huie</name>
+		<value>0.05</value>
+	</param>
+	<param>
+		<name>transf</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>diammax</name>
+		<value>1.2</value>
+	</param>
+	<param>
+		<name>storeinit</name>
+		<value>125.0</value>
+	</param>
+	<param>
+		<name>mshoot</name>
+		<value>125.0</value>
+	</param>
+	<param>
+		<name>leafstem</name>
+		<value>1.5</value>
+	</param>
+	<param>
+		<name>fshoot</name>
+		<value>0.02</value>
+	</param>
+	<param>
+		<name>leaf2stor</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>stem2stor</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>stor2stor</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>rbc</name>
+		<value>3</value>
+	</param>
+	<param>
+		<name>standdk</name>
+		<value>0.017</value>
+	</param>
+	<param>
+		<name>surfdk</name>
+		<value>0.017</value>
+	</param>
+	<param>
+		<name>burieddk</name>
+		<value>0.017</value>
+	</param>
+	<param>
+		<name>rootdk</name>
+		<value>0.017</value>
+	</param>
+	<param>
+		<name>stemnodk</name>
+		<value>0.08</value>
+	</param>
+	<param>
+		<name>stemdia</name>
+		<value>0.015</value>
+	</param>
+	<param>
+		<name>thrddys</name>
+		<value>20.0</value>
+	</param>
+	<param>
+		<name>covfact</name>
+		<value>2.0965297</value>
+	</param>
+	<param>
+		<name>resevapa</name>
+		<value>-0.604267</value>
+	</param>
+	<param>
+		<name>resevapb</name>
+		<value>0.711259</value>
+	</param>
+	<param>
+		<name>yield_coefficient</name>
+		<value>1.6154 </value>
+	</param>
+	<param>
+		<name>residue_intercept</name>
+		<value>0.025219128</value>
+	</param>
+	<param>
+		<name>regrow_location</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>noparam3</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>noparam2</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>noparam1</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>crop_notes</name>
+		<value>Cloned from southern upland file.  Adjusted the plant population and yield to match information from Dr Boman, TX extension service, Lubbock, TX.
+The crop is supplementally irrigated at about 60% of crop ET.  MAS 8-14-08
+
+Jackson MS, Picker Cotton.
+
+Harvest Yield Conversion Factor was changed from 8930 to 3435.  This is to account for the seed trash/lint split.  1-31-08 MAS
+Adjusted the Res:Yied factor (2.6 was the multiplyer) to match RUSLE with the added seed trash to the harvest mass 2-26-08 MAS
+Adjusted the Mass to Cover Factor (ac/lb) to match the Cotton curve in Ag Handbook 703 for Cotton. 11-8-10 MAS
+
+Stem silhouette was adjusted to reduce the diameter of the stem.  a went from 2.83 to 0.2, b went from 1.0 to 0.7.
+All hts were changed to 3.2808 ft. to work with the new stem numbers.  MAS 12-27-10
+
+Fred Fox recommended that we further change all Cotton records to the Stem Silhouettes, a to 0.0535108 and b to 0.6177926.
+This will insure that the stem dia. does not become too large.  MAS 2-24-11</value>
+	</param>
+	<param>
+		<name>crop_devnotes</name>
+		<value>Enter dev notes here.</value>
+	</param>
+</cropDB>

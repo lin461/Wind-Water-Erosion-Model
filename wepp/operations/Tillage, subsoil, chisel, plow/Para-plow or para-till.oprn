@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Para-plow or para-till</path>
+   <name>Para-plow or para-till</name>
+   <comments>'Paratill or Paraplow  consisting of bent leg shanks that disturb less than 30% of the surface but the  legs  lift and fracture at least 75% of the soil between the shanks to a depth below the plow layer.  This fracturing is considered surface disturbance.  Shank spacing varies but is typically 30 .  05-21-02 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Para-plow or para-till</path>
+         <name>Para-plow or para-till</name>
+         <comment>Paratill or Paraplow consisting of bent leg shanks that disturb less than 30% of the surface by the legs lift and fracture at least 75% of the soil between the shanks to a depth below the plow layer. This fracturing is considered surface disturbance. Shank spacing varies but is typically 30.</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.75</surdis>
+         <tdmean>0.3175</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>17.55</ostir><oenergyarea>14.592121</oenergyarea></wepstags></weppoperation>

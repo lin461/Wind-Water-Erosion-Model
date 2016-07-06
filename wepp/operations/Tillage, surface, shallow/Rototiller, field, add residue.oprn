@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Rototiller, field, add residue</path>
+   <name>Rototiller, field, add residue</name>
+   <comments>'Rototiller used as a full width tillage operation with additional cover added such as weed growth.  Includes the  Add other cover  process in order to account for weeds or other cover incidental to the residue added by the previous crop.   When used in a management record the user must select the residue type and amount being added.  rev043008 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Rototiller, field, add residue</path>
+         <name>Rototiller, field, add residue</name>
+         <comment>Rototiller used as a full width tillage operation with additional cover added such as weed growth. Includes the Add other cover process in order to account for weeds or other cover incidental to the residue added by the previous crop. When used in a management record that user must select the residue type and amount being added.</comment>
+         <weppkey>ROTO2</weppkey>
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1016</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>18.2</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

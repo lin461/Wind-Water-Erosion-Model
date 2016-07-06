@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Fert applic. shank low disturbance, 12 in</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>3.25</ostir><oenergyarea>8.418531</oenergyarea></wepstags></weppoperation>

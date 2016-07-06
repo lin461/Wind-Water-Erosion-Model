@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Plow, moldboard, conservation</path>
+   <name>Plow, moldboard, conservation</name>
+   <comments>'rev. 5/8/96 ErTechCom dkm PNW Only.  Moldboard Plow. Dry soil. Slow speed. 8  deep. Non-fragile residue. Depth = depth residue incorp.'</comments>
+   <process>
+      <tillage>
+         <path>operations\Plow, moldboard, conservation</path>
+         <name>Plow, moldboard, conservation</name>
+         <comment>Moldboard Plow. Dry soil speed 8 deep. Non-fragile residue. Depth = depth residue incorp</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.4</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.2032</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>41.6</ostir><oenergyarea>17.491838</oenergyarea></wepstags></weppoperation>

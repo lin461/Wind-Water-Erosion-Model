@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Bed shaper</path>
+   <name>Bed shaper</name>
+   <comments>'Bed shaping operation on existing beds.  May include drip tape installation. 10/28/01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Bed shaper</path>
+         <name>Bed shaper</name>
+         <comment>Bed shaping operation on existing beds. May include drip tape installation.</comment>
+         <weppkey />
+         <mfo1>0.6</mfo1>
+         <mfo2>0.6</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.6</rmfo1>
+         <rmfo2>0.6</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.75</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>19.5</ostir><oenergyarea>3.554491</oenergyarea></wepstags></weppoperation>

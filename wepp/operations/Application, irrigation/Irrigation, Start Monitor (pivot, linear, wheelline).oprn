@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, irrigation</path>
+<name>Irrigation, Start Monitor (pivot, linear, wheelline)</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0</ostir><oenergyarea>0.0</oenergyarea></wepstags></weppoperation>

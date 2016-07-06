@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Tree spade, holes plugged</path>
+   <name>Tree spade, holes plugged</name>
+   <comments>'Tree spade used to dig nursery stock.  Assumes trees in sod or cover crop cover and holes plugged with plug from tree planting site.  Regrowth file requested should be permanent cover not harvested.  071403 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Tree spade, holes plugged</path>
+         <name>Tree spade, holes plugged</name>
+         <comment>Tree spade used to dig nursery stock. Assumes trees in sod or cover crop cover and and holes plugged with plug from tree planting site. Regrowth file requested should be permanent cover not harvested.</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.75</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>10</surdis>
+         <tdmean>0.9144</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>0.01</ostir><oenergyarea>0.01</oenergyarea></wepstags></weppoperation>

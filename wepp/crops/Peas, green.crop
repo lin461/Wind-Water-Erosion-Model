@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Peas, green, drilled</path>
+<name>Peas, green, drilled</name>
+<comments>'canning peas, english 3400 lb yield.  drilled rows.  Base location Madison, Wi.'</comments>
+<weppkey>L_566_Peas</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>14</bb>
+<bbb>3</bbb>
+<beinp>25</beinp>
+<btemp>9</btemp>
+<cf>7.2</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.15</cuthgt>
+<decfct>0.35</decfct>
+<diam>0.01</diam>
+<dlai>0.9</dlai>
+<dropfc>0.1</dropfc>
+<extnct>0.45</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1150</gddmax>
+<hi>0.6</hi>
+<hmax>0.6</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0101</oratea>
+<orater>0.0101</orater>
+<otemp>20</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.05</pltsp>
+<rdmax>1</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lbs/ac</hyldunits><tgtyield>2860</tgtyield><grf>1.0</grf><hyldflag>0</hyldflag><hmx>0.8</hmx><rdmx>1.2192148</rdmx><topt>14.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>90.0</hyldwater></wepstags></weppcrop>

@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Carrot, hybrid seed production</path>
+<name>Carrot, hybrid seed production</name>
+<comments>'Hybrid carrot planted for seed crop production.  Planting is in mid-summer to early fall with seed harvest made the following summer.  Source location is central and eastern Oregon.  Use this record for transplants as well as for seeded stands. Use in CMZs 49, 50, 55 and other CMZs with similar production system for Carrot seed production. 011105 DTL'</comments>
+<weppkey>L_194_Carrot</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>6</bb>
+<bbb>4</bbb>
+<beinp>25</beinp>
+<btemp>4</btemp>
+<cf>3</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.152</cuthgt>
+<decfct>1</decfct>
+<diam>0.05</diam>
+<dlai>0.5</dlai>
+<dropfc>0.9</dropfc>
+<extnct>0.8</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1700</gddmax>
+<hi>0.01</hi>
+<hmax>1.01</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.013</oratea>
+<orater>0.013</orater>
+<otemp>25</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.025</pltsp>
+<rdmax>1.5</rdmax>
+<rsr>0.33</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lb/ac</hyldunits><tgtyield>350</tgtyield><grf>0.5</grf><hyldflag>1</hyldflag><hmx>0.45720553</hmx><rdmx>0.7</rdmx><topt>29.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>10</hyldwater></wepstags></weppcrop>

@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, double disk opnr w/fluted coulter, 15 inch row spacing</path>
+   <name>Planter, double disk opnr w/fluted coulter, 15 inch row spacing</name>
+   <comments>&amp;quot;'No-till planter with double disk openers and fluted coulters on 15 inch row spacing.  Typical of planters with splitter uints or as separate planting operations done with guidance systems by doubling back over the field to split the original row middles with a second set of 30 inch rows to create a 15 inch effective row spacing. 080806 DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, double disk opnr w/fluted coulter, 15 inch row spacing</path>
+         <name>Planter, double disk opnr w/fluted coulter, 15 inch row spacing</name>
+         <comment>"No-till planter with double disk openers and fluted coulters on 15 inch row spacing. Typical of planters with splitter units or as seperate planting operations done with guidance systems by doubling back over the field to split the original row middles with a second set of 30 inch rows to create a 15 inch effective row spacing. 080806 DTL, deleted kill process."</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.30</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>4.88</ostir><oenergyarea>6.921904</oenergyarea></wepstags></weppoperation>

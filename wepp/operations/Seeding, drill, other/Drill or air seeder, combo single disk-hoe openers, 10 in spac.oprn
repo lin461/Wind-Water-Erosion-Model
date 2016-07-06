@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Drill or air seeder, combo single disk-hoe openers, 10 in spac</path>
+   <name>Drill or air seeder, combo single disk-hoe openers, 10 in spac</name>
+   <comments>&amp;quot;'Drill or Airseeder, single disk openers with fertilizer in the row  using a combo single disk/hoe opener. 092409 DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Drill or air seeder, combo single disk-hoe openers, 10 in spac</path>
+         <name>Drill or air seeder, combo single disk-hoe openers, 10 in spac</name>
+         <comment>"Drill or Airseeder, single disk openers with fertilizer in the row using a combo single disk/hoe opener. 092409 DTL, deleted kill process."</comment>
+         <weppkey />
+         <mfo1>0.6</mfo1>
+         <mfo2>0.6</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.6</rmfo1>
+         <rmfo2>0.6</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.70</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>16.38</ostir><oenergyarea>6.921904</oenergyarea></wepstags></weppoperation>

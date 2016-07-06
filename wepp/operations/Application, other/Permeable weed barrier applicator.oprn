@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Permeable weed barrier applicator</path>
+   <name>Permeable weed barrier applicator</name>
+   <comments>'Permeable weed barrier covering 40% of the surface having 50% permeability. 12-19-01 DTL rev06/25/10 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Permeable weed barrier applicator</path>
+         <name>Permeable weed barrier applicator</name>
+         <comment>Permeable weed barrier covering 40% of the surface having 50% permeability.</comment>
+         <weppkey />
+         <mfo1>0.6</mfo1>
+         <mfo2>0.6</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0</rint>
+         <rmfo1>0.6</rmfo1>
+         <rmfo2>0.6</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.20</surdis>
+         <tdmean>0.0889</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>1.56</ostir><oenergyarea>2.5255597</oenergyarea></wepstags></weppoperation>

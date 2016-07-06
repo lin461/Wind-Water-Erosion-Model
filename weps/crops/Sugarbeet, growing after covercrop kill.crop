@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="crop_db.xsl"?>
+<!DOCTYPE cropDB SYSTEM "crop_db.dtd">
+<!-- crop_db.dtd: Provided here for reference-->
+<!--
+<!ELEMENT cropDB (cropname, param*)>
+<!ELEMENT cropname (#PCDATA)>
+<!ELEMENT param (name,value)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT value (#PCDATA)>
+-->
+<cropDB>
+	<cropname>Sugarbeet, growing after covercrop kill</cropname>
+	<param>
+		<name>plantpop</name>
+		<value>6.0</value>
+	</param>
+	<param>
+		<name>dmaxshoot</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>cbaflag</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>tgtyield</name>
+		<value>20</value>
+	</param>
+	<param>
+		<name>cbafact</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>cyrafact</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>hyldflag</name>
+		<value>5</value>
+	</param>
+	<param>
+		<name>hyldunits</name>
+		<value>ton/ac</value>
+	</param>
+	<param>
+		<name>hyldwater</name>
+		<value>82</value>
+	</param>
+	<param>
+		<name>hyconfact</name>
+		<value>4.465</value>
+	</param>
+	<param>
+		<name>idc</name>
+		<value>7</value>
+	</param>
+	<param>
+		<name>grf</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>ck</name>
+		<value>0.65</value>
+	</param>
+	<param>
+		<name>hui0</name>
+		<value>0.9</value>
+	</param>
+	<param>
+		<name>hmx</name>
+		<value>0.6</value>
+	</param>
+	<param>
+		<name>growdepth</name>
+		<value>0.025</value>
+	</param>
+	<param>
+		<name>rdmx</name>
+		<value>2</value>
+	</param>
+	<param>
+		<name>tbas</name>
+		<value>2.0</value>
+	</param>
+	<param>
+		<name>topt</name>
+		<value>21.0</value>
+	</param>
+	<param>
+		<name>thudf</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>dtm</name>
+		<value>145</value>
+	</param>
+	<param>
+		<name>thum</name>
+		<value>2300</value>
+	</param>
+	<param>
+		<name>frsx1</name>
+		<value>-5</value>
+	</param>
+	<param>
+		<name>frsx2</name>
+		<value>-15</value>
+	</param>
+	<param>
+		<name>frsy1</name>
+		<value>0.01</value>
+	</param>
+	<param>
+		<name>frsy2</name>
+		<value>0.95</value>
+	</param>
+	<param>
+		<name>verndel</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>bceff</name>
+		<value>35</value>
+	</param>
+	<param>
+		<name>a_lf</name>
+		<value>0.05</value>
+	</param>
+	<param>
+		<name>b_lf</name>
+		<value>0.935</value>
+	</param>
+	<param>
+		<name>c_lf</name>
+		<value>0.25</value>
+	</param>
+	<param>
+		<name>d_lf</name>
+		<value>-0.06</value>
+	</param>
+	<param>
+		<name>a_rp</name>
+		<value>0.02</value>
+	</param>
+	<param>
+		<name>b_rp</name>
+		<value>0.9</value>
+	</param>
+	<param>
+		<name>c_rp</name>
+		<value>0.3537</value>
+	</param>
+	<param>
+		<name>d_rp</name>
+		<value>0.08</value>
+	</param>
+	<param>
+		<name>a_ht</name>
+		<value>0.2206</value>
+	</param>
+	<param>
+		<name>b_ht</name>
+		<value>-0.066</value>
+	</param>
+	<param>
+		<name>ssaa</name>
+		<value>2</value>
+	</param>
+	<param>
+		<name>ssab</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>sla</name>
+		<value>20</value>
+	</param>
+	<param>
+		<name>huie</name>
+		<value>0.05</value>
+	</param>
+	<param>
+		<name>transf</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>diammax</name>
+		<value>0.6449227</value>
+	</param>
+	<param>
+		<name>storeinit</name>
+		<value>392.3003</value>
+	</param>
+	<param>
+		<name>mshoot</name>
+		<value>20.833334</value>
+	</param>
+	<param>
+		<name>leafstem</name>
+		<value>1.3</value>
+	</param>
+	<param>
+		<name>fshoot</name>
+		<value>0.01</value>
+	</param>
+	<param>
+		<name>leaf2stor</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>stem2stor</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>stor2stor</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>rbc</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>standdk</name>
+		<value>0.02</value>
+	</param>
+	<param>
+		<name>surfdk</name>
+		<value>0.02</value>
+	</param>
+	<param>
+		<name>burieddk</name>
+		<value>0.02</value>
+	</param>
+	<param>
+		<name>rootdk</name>
+		<value>0.02</value>
+	</param>
+	<param>
+		<name>stemnodk</name>
+		<value>0.2</value>
+	</param>
+	<param>
+		<name>stemdia</name>
+		<value>0.0050</value>
+	</param>
+	<param>
+		<name>thrddys</name>
+		<value>20</value>
+	</param>
+	<param>
+		<name>covfact</name>
+		<value>5.227942</value>
+	</param>
+	<param>
+		<name>resevapa</name>
+		<value>-1.20379</value>
+	</param>
+	<param>
+		<name>resevapb</name>
+		<value>0.604887</value>
+	</param>
+	<param>
+		<name>yield_coefficient</name>
+		<value>0.09</value>
+	</param>
+	<param>
+		<name>residue_intercept</name>
+		<value>0.0448340021071981</value>
+	</param>
+	<param>
+		<name>regrow_location</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>noparam3</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>noparam2</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>noparam1</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>crop_notes</name>
+		<value>Data sources:
+Kropff, M.J. adn C.J.T. Spitters. 1992. An eco-physiological model for interspecific competition,
+applied to the influence of Chenopodium album L on sugar beet. I. Model description and parameterization.
+Weed Research, Volume 32, 437-450
+Reference provided growth temperatures, partitioning curves, light extinction coefficient, specific leaf area, dry matter partitioning, and plant height.
+Data in the article also shows that the hard coded fibrous root partitioning does not properly account for sugar beet fibrous partitioning. The model
+partition to fibrous root is 0.4 at the season start, and 0.2 at season end. The article shows it starting at 0.2 and ending at 0.0 This should be
+compensated but would require significant model changes.
+
+Davidoff, B. and R. J. Hanks. 1989. Sugar beet production as influenced by limited irrigation. Irrigation Science, vol 10:1-17
+Rooting depth inferred from water extraction data in the 1.8 to 2.4 meter depth.
+
+Doering, E. J. 1976. Sugarbeet Yield and Theoretical Photosynthesis in the Northern Great Plains. Journal of the American Society of Sugar Beet
+Technologists, vol 19, no 2, pp. 163-175
+Noted that the Sugar Beet will give higher yields, and grow for a longer season, in Ft. Collins CO, and give lower yields and grow for a shorter season
+in Carrington North Dakota. It is probably not best modeled with a fixed heat unit total season sum. The article seems to imply that once it reaches the
+root filling stage, extending that stage results in increased yields. At present the model cannot handle that mode of growth. It is probably best handled
+by adjusting the season length to the location. As configured, longer seasons do give higher yields.
+
+This record was review and is now certified to grow in Clay Co. MN, and Lapeer Co. MN.  Changing the soil texture in the runs causes considerable yield change.
+The MN runs were set to 20 ton/ac yields.  The biomass eff factor was 33 and has been adjusted to 35.  Calibration will likely need to be done in other locations
+MAS 10-2-07
+
+Adjusted the planted mass, dry wt to 0.013838 based on Cristal Sugar's two year clipping study at the 40 day growth period.
+They measured 21 lbs/ac above ground growth of the sugarbeets. 21lbs x 16 oz = 336 oz/ac / 24280 plant/ac = 0.013838 oz/plant
+MAS 10-2-07</value>
+	</param>
+	<param>
+		<name>crop_devnotes</name>
+		<value>Enter dev notes here.</value>
+	</param>
+</cropDB>

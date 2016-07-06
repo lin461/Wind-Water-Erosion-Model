@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Sweep, single under row, regrow perennial</path>
+   <name>Sweep, single under row, regrow perennial</name>
+   <comments>'Single low crown cultivator sweep run on each row to undercut and kill the above ground growth of crops such as Artichoke or Asparagus  and stimulate new growth from the roots or crowns.  Run 1 to 2  inches deep under each row lifting and fracturing a zone about a foot wide on 38 to 40 inch centers. Very little disturbance of existing surface residue cover.  041608 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Sweep, single under row, regrow perennial</path>
+         <name>Sweep, single under row, regrow perennial</name>
+         <comment>Single low crown cultivator sweep run on each row to undercut and kill the above ground growth of crops such as Artichoke or Asparagus and stimulate new growth from the roots or crowns. Run 1 to 2 inches deep under each row lifting and fracturing a zone about a foot wide on 38 to 40 inch centers. Very little disturbance of existing surface residue cover.</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.50</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>3.9</ostir><oenergyarea>5.986511</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Manure, liquid irrigation</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>.15</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

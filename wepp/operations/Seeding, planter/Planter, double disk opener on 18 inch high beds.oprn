@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, double disk opener on 18 inch high beds</path>
+   <name>Planter, double disk opener on 18 inch high beds</name>
+   <comments>&amp;quot;'Double disk opener planter on existing 18 inch high beds or ridges leaving a 16 inch ridge after planting.  11/13/02 DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, double disk opener on 18 inch high beds</path>
+         <name>Planter, double disk opener on 18 inch high beds</name>
+         <comment>"Double disk opener planter on existing 18 inch high beds or ridges leaving a 16 inch ridge after planting. 11/13/02 DTL, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.4064</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.15</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>2.44</ostir><oenergyarea>4.1157265</oenergyarea></wepstags></weppoperation>

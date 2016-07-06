@@ -1,0 +1,65 @@
+<weppoperation>
+   <path>operations\Subsoil disk ripper</path>
+   <name>Subsoil disk ripper</name>
+   <comments>'Subsoil ripper with tandem disk gangs in front and leveling disks behind.  Similar to DMI ecolo-tiger TM 730B and 9300  101606 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Subsoil disk ripper</path>
+         <name>Subsoil disk ripper</name>
+         <comment>Subsoil ripper with tandem disk gangs in front and leveling disks behind. Similar to DMI Ecolo-tiger TM 730B and 9300</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoil disk ripper</path>
+         <name>Subsoil disk ripper</name>
+         <comment>Subsoil ripper with tandem disk gangs in front and leveling disks behind. Similar to DMI Ecolo-tiger TM 730B and 9300</comment>
+         <weppkey />
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.75</surdis>
+         <tdmean>0.4572</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoil disk ripper</path>
+         <name>Subsoil disk ripper</name>
+         <comment>Subsoil ripper with tandem disk gangs in front and leveling disks behind. Similar to DMI Ecolo-tiger TM 730B and 9300</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>58</ostir><oenergyarea>23.384811</oenergyarea></wepstags></weppoperation>

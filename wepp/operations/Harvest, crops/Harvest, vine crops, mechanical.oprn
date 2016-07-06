@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harvest, vine crops, mechanical</path>
+   <name>Harvest, vine crops, mechanical</name>
+   <comments>&amp;quot;'Represents harvest equipment like a tomato harvester that pulls the vine and runs the entire plant through, separating the fruits from the residue and placing the residue back on the ground. Some slight soil disturbance .   121604DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, vine crops, mechanical</path>
+         <name>Harvest, vine crops, mechanical</name>
+         <comment>"Represents harvest equipment like a tomato harvester that pulls the vine and runs the entire plant through, seperating the fruits from the residue and placing the residue back on the ground. Some slight disturbance"</comment>
+         <weppkey />
+         <mfo1>0.2</mfo1>
+         <mfo2>0.2</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0127</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.2</rmfo1>
+         <rmfo2>0.2</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.20</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>2.6</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Drip tape injection shank on beds</path>
+   <name>Drip tape injection shank on beds</name>
+   <comments>'Drip tape injection shank on lister beds.  112707 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Drip tape injection shank on beds</path>
+         <name>Drip tape injection shank on beds</name>
+         <comment>Drip tape injection shank on lister beds</comment>
+         <weppkey />
+         <mfo1>0.6</mfo1>
+         <mfo2>0.6</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>1.27</rint>
+         <rmfo1>0.6</rmfo1>
+         <rmfo2>0.6</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.20</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>2.6</ostir><oenergyarea>7.4831395</oenergyarea></wepstags></weppoperation>

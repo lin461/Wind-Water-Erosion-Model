@@ -1,0 +1,10 @@
+<weppoperation>
+   <path>operations\Bale Corn husk, cob and chaff windrows</path>
+   <name>Bale Corn husk, cob and chaff windrows</name>
+   <comments>&amp;quot;'Bale corn husks, cobs and chaff windrows behind combine.  The combine chaff speader is removed and husks,cobs and chaff are dropped out of back of combine on center rows of the header swath.  Baler removes primnarily only the loose residue over these rows.  Other rows are skipped.  03132013 DTL'&amp;quot;</comments>
+   <process>
+      <remove-residue>
+         <name />
+      </remove-residue>
+   </process>
+<wepstags><ostir>.15</ostir><oenergyarea>3.554491</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Rotary hoe, on  heavy soil</path>
+   <name>Rotary hoe, on  heavy soil</name>
+   <comments>&amp;quot;'040110 DTL Rotary hoe on heavy, cloddy, clay soils'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Rotary hoe, on  heavy soil</path>
+         <name>Rotary hoe, on  heavy soil</name>
+         <comment>"Rotary hoe on heavy, cloddy, clay soils"</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.85</surdis>
+         <tdmean>0.04445</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>16.58</ostir><oenergyarea>2.338481</oenergyarea></wepstags></weppoperation>

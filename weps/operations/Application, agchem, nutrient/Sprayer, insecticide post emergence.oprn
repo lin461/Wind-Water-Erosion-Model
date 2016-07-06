@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Sprayer, insecticide post emergence</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>1.2160101</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>0.15</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Sprayer operation, general use, in season, pesticide application on growing crops.
+Crop is not killed. </value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Spray pest control chemicals on growing crop.   Crop is not killed.  11/17/01 DTL
+
+Added to the DB.  This assumes no crop flattening.  4-5-12 MAS
+LMOD and WEPS DB correlation, existing WEPS operation record, 160410 jp</value>
+		</param>
+	</actionvalue>
+</operationDB>

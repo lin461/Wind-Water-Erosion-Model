@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harrow, disk chain</path>
+   <name>Harrow, disk chain</name>
+   <comments>&amp;quot;'Disk chain harrow (represented by Kelly disk mulch chain)   with two gangs of heavy concave disk blades linked with heavy chain on a heavy folding tool bar.  Gangs are pulled on an angle across the surface. Breaks crusts, lifts and redeposits residue, levels surface, lightly incorporates seed, fertilizer or chemicals.  06072012 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Harrow, disk chain</path>
+         <name>Harrow, disk chain</name>
+         <comment>"Disk chain harrow (represented by Kelly disk mulch chain) with two gangs of heavy concave disk blades linked with heavy chain on a heavy folding tool bar. Gangs are pulled on an angle across the surface. Breaks crusts, lifts and redoposits residue levels surface, lightly incorporates seed, fertilizer, or chemicals."</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.08</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>19.5</ostir><oenergyarea>3.7415698</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,65 @@
+<weppoperation>
+   <path>operations\Seedbed finisher, fld cult, coil tine har, rollng bskt</path>
+   <name>Seedbed finisher, fld cult, coil tine har, rollng bskt</name>
+   <comments>&amp;quot;'Combination Finishing Tool  consisting of a field cultivator,  coil tine harrow and a rolling basket incorporator reel.  103107 DTL rev 091611 ggf'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Seedbed finisher, fld cult, coil tine har, rollng bskt</path>
+         <name>Seedbed finisher, fld cult, coil tine har, rollng bskt</name>
+         <comment>"Combination Finishing Tool consisting of a field cultivator, coil tine harrow, and a rolling basket incorporator reel."</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.15</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1016</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Seedbed finisher, fld cult, coil tine har, rollng bskt</path>
+         <name>Seedbed finisher, fld cult, coil tine har, rollng bskt</name>
+         <comment>"Combination Finishing Tool consisting of a field cultivator, coil tine harrow, and a rolling basket incorporator reel."</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.15</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Seedbed finisher, fld cult, coil tine har, rollng bskt</path>
+         <name>Seedbed finisher, fld cult, coil tine har, rollng bskt</name>
+         <comment>"Combination Finishing Tool consisting of a field cultivator, coil tine harrow, and a rolling basket incorporator reel."</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.15</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>36.32</ostir><oenergyarea>10.289317</oenergyarea></wepstags></weppoperation>

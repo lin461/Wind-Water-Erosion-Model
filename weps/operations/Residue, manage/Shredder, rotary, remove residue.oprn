@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Shredder, rotary. remove residue</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>03</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>6.828365</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>.15</value>
+		</param>
+		<param>
+			<name>ospeed</name>
+			<value>2.2351363</value>
+		</param>
+		<param>
+			<name>odirect</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>ostdspeed</name>
+			<value>2.2351363</value>
+		</param>
+		<param>
+			<name>ominspeed</name>
+			<value>1.7881091</value>
+		</param>
+		<param>
+			<name>omaxspeed</name>
+			<value>2.6821637</value>
+		</param>
+		<param>
+			<name>op_notes3</name>
+			<value>Rusle Note: Rotary mower or flail shredder used to defoliate root crops such as sugarbeets before harvest or on cotton or
+other crop residue where crop has been previously harvested and
+residue is shredded  and spread flat..   10/3/01 DTL 11/15/01
+
+P42 is used to set a height of cut and removed the flattening P24.
+The 0.90 fraction used in RUSLE is by mass.  WEPS fraction is by height.
+It is not the same as RUSLE and cannot be used.
+Set the height to 2 inches per the conversation the Dave Lightle.  He said that most
+corn shredders are set to 2 inches.  Cotton shredding is much higher, use the 6 in shredder.
+A new operation was also created for root crop defoliation where all of the green tops
+are flatten to residue without killing the crop, "Shredder, beet topper".
+Kill crop was removed because of the interference with most harvest operations
+if used before harvest.  MAS 1-5-11
+LMOD and WEPS update correlation; new WEPS operation record, as previous translate,
+Shredder, rotary, remove residue|renameAndDeleteCrop|Shredder, flail or rotary, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>op_devnotes3</name>
+			<value>Rusle Note: Rotary mower or flail shredder used to defoliate root crops such as sugarbeets before harvest or on cotton or
+other crop residue where crop has been previously harvested and
+residue is shredded  and spread flat..   10/3/01 DTL 11/15/01
+
+P42 is used to set a height of cut and removed the flattening P24.
+The 0.90 fraction used in RUSLE is by mass.  WEPS fraction is by height.
+It is not the same as RUSLE and cannot be used.
+Set the height to 2 inches per the conversation the Dave Lightle.  He said that most
+corn shredders are set to 2 inches.  Cotton shredding is much higher, use the 6 in shredder.
+A new operation was also created for root crop defoliation where all of the green tops
+are flatten to residue without killing the crop, "Shredder, beet topper".
+Kill crop was removed because of the interference with most harvest operations
+if used before harvest.  MAS 1-5-11
+LMOD and WEPS update correlation; new WEPS operation record, as previous translate,
+Shredder, rotary, remove residue|renameAndDeleteCrop|Shredder, flail or rotary, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>42</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>cutflag</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>cutvalh</name>
+			<value>50.800102</value>
+		</param>
+		<param>
+			<name>cyldrmh</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>cplrmh</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>cstrmh</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+</operationDB>

@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Rototiller, on beds</path>
+   <name>Rototiller, on beds</name>
+   <comments>'Rototiller on top of Beds for destroying sugarcane stubble.  Any growing crop or weeds are killed. About 60% of the surface is disturbed.  About half of the bed height is flattened leaving a ridge height of about 6 inches.  082107 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Rototiller, on beds</path>
+         <name>Rototiller, on beds</name>
+         <comment>Rototiller on top of beds for destroying sugarcane stubble. Any growing crop or weeds are killed. About 60% of the surface is disturbed. About half of the bed height is flattened leaving a ridge height of about 6 inches.</comment>
+         <weppkey>ROTO3</weppkey>
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1524</rho>
+         <rint>0</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.60</surdis>
+         <tdmean>0.1016</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>8.19</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

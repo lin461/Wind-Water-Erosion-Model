@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Cantaloupe, HI PROD</path>
+<name>Cantaloupe, HI PROD</name>
+<comments>'4/15/03 gaw Cantaloupe and honeydew melon - High production, related to one or more of the following - irrigation, high fertility, favorable climate, productive soils and varieties.  Transplants.  Type location- AZ, CA, CO, IN, TX. '</comments>
+<weppkey>L_191_Cantaloupe</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>12</bb>
+<bbb>7</bbb>
+<beinp>25</beinp>
+<btemp>10</btemp>
+<cf>2.1</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.05</cuthgt>
+<decfct>0.65</decfct>
+<diam>0.01</diam>
+<dlai>0.8</dlai>
+<dropfc>0.98</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1700</gddmax>
+<hi>0.5</hi>
+<hmax>0.5</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0065</oratea>
+<orater>0.0065</orater>
+<otemp>25</otemp>
+<pltol>0</pltol>
+<pltsp>1</pltsp>
+<rdmax>1.52</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>30</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lbs/ac</hyldunits><tgtyield>25000</tgtyield><grf>0.8</grf><hyldflag>0</hyldflag><hmx>0.6096074</hmx><rdmx>1.3</rdmx><topt>32.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>89.8</hyldwater></wepstags></weppcrop>

@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Bed shaper, low flattening, high disturbance</path>
+   <name>Bed shaper, low flattening, high disturbance</name>
+   <comments>&amp;quot;'Bed shaping operation on existing 10  high beds in standing row crop residue.  Since no crop is planted in the furrows the residue flattening is minimal.  When reshaping beds following drilled or broadcast crops use Bed shaper, 12 in  03112010 DTL   Bed shaping operation on existing beds with high disturbance.  (Similar to Middle Buster machines) with inversion tillage.  Cloned from Bed shaper high disturbance.  Flattening changed to 0.1 because the machine is run in row middles and leaves the standing residue on the bed. 3-11-10 MAS  '&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Bed shaper, low flattening, high disturbance</path>
+         <name>Bed shaper, low flattening, high disturbance</name>
+         <comment>"Bed shaping operation on existing 10 high beds in the standing row crop residue. Since no crop is planted in the furrows the residue flattening is minimal. When reshaping beds following drilled or broadcast crops use Bed shaper, 12 in. Bed shaping operation on existing beds with high disturbance. (Similar to Middle Buster machines) with inversion tillage. Cloned from Bed shaper high disturbance. Flattening changed to 0.1 because the machine is run in row middles and leaves the standing residue on the bed."</comment>
+         <weppkey />
+         <mfo1>0.6</mfo1>
+         <mfo2>0.6</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.6</rmfo1>
+         <rmfo2>0.6</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>26</ostir><oenergyarea>4.2092657</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Clover white seed; fall planted</path>
+<name>Clover white seed; fall planted</name>
+<comments>'White clover seed production. Fall planted in pure stand; no grass. Record  ends at August seed harvest.  Follow with record; Clover white seed; fall senes 2yr. hay/graze.  Based on seed production in CA and OR. tmg; 7/14/06. '</comments>
+<weppkey>L_214_Clover</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>14</bb>
+<bbb>23</bbb>
+<beinp>15</beinp>
+<btemp>4</btemp>
+<cf>5</cf>
+<crit>30</crit>
+<critvm>0.1</critvm>
+<cuthgt>0.152</cuthgt>
+<decfct>0.7</decfct>
+<diam>0.0045</diam>
+<dlai>0.85</dlai>
+<dropfc>0.9</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>12</flivmx>
+<gddmax>0</gddmax>
+<hi>0.9</hi>
+<hmax>0.8</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.015</oratea>
+<orater>0.015</orater>
+<otemp>20</otemp>
+<pltol>0</pltol>
+<pltsp>0.006</pltsp>
+<rdmax>2.43</rdmax>
+<rsr>0.33</rsr>
+<rtmmax>0.6</rtmmax>
+<spriod>14</spriod>
+<tmpmax>32</tmpmax>
+<tmpmin>0.5</tmpmin>
+<xmxlai>6</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lb/ac</hyldunits><tgtyield>1500.0</tgtyield><grf>0.5</grf><hyldflag>0</hyldflag><hmx>0.45720553</hmx><rdmx>2.0</rdmx><topt>25.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>8.0</hyldwater></wepstags></weppcrop>

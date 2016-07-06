@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Stalk slicer</path>
+   <name>Stalk slicer</name>
+   <comments>'Stalk slicer.  A pair of flat disk blades mounted in a Vee configuration and spaced to run directly on the previous crop row to cut the stalk and root ball and also lightly till a zone into which the next crop is no-tilled or striptilled.  Same tool as a stalk puller except it is set to cut the stalk and root ball rather than pull it out.  Rev101306 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Stalk slicer</path>
+         <name>Stalk slicer</name>
+         <comment>Stalk slicer. A pair of flat disk blades mounted in a V configuration and spaced to run directly on the previous crop row to cut the stalk and root ball and also lightly till a zone into which the next crop is no-tilled or striptilled. Same tool as a stalk puller except it is set to cut the stalk and root ball rather than pull it out.</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0127</rho>
+         <rint>0.6</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.40</surdis>
+         <tdmean>0.04445</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>6.63</ostir><oenergyarea>4.2092657</oenergyarea></wepstags></weppoperation>

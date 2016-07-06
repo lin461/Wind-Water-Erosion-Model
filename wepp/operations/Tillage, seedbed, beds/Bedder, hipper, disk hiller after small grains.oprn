@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Tillage, seedbed, beds</path>
+<name>Bedder, hipper, disk hiller after small grains</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>26</ostir><oenergyarea>4.2092657</oenergyarea></wepstags></weppoperation>

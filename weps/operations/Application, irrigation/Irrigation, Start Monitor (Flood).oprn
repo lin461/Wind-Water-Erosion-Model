@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Irrigation, Start Monitor (Flood)</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>op_notes4</name>
+			<value>The height of application is 0 (ie. the surface).
+The time and duration (rate) of water application are set to be generally applicable to surface type systems.
+Minimum application depth is higher than other type systems.
+Minimum irrigation interval is long as if the supply must be rotated among other fields.
+LMOD and WEPS DB correlation, existing WEPS operation record, 160410 jp</value>
+		</param>
+		<param>
+			<name>oenergyarea</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>The height of application is 0 (ie. the surface).
+The time and duration (rate) of water application are set to be generally applicable to surface type systems.
+Minimum application depth is higher than other type systems.
+Minimum irrigation interval is long as if the supply must be rotated among other fields.
+LMOD and WEPS DB correlation, existing WEPS operation record, 160410 jp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>gamdname</name>
+			<value>water</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>72</id>
+		</identity>
+		<param>
+			<name>irrmonflag</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>irrmaxapp</name>
+			<value>50.8</value>
+		</param>
+		<param>
+			<name>irrrate</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>irrduration</name>
+			<value>24</value>
+		</param>
+		<param>
+			<name>irrapploc</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>irrminapp</name>
+			<value>50.8</value>
+		</param>
+		<param>
+			<name>irrmad</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>irrminint</name>
+			<value>1</value>
+		</param>
+	</actionvalue>
+</operationDB>

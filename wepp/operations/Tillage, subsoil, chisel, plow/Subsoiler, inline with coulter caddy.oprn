@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Subsoiler, inline with coulter caddy</path>
+   <name>Subsoiler, inline with coulter caddy</name>
+   <comments>'Inline subsoiler.  Straight or flutted coulters are used to cut and size residue in front of narrow straight leg shanks mounted parallel to each other on a straight toolbar thus fracturing more of the inter-row area.     Rev 012407 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, inline with coulter caddy</path>
+         <name>Subsoiler, inline with coulter caddy</name>
+         <comment>Inline subsoiler. Straight or fluted coulters are used to cut and size residue in front of narrow straight leg shanks mounted parallel to each other on a straight toolbar this fracturing more of the inter-row area.</comment>
+         <weppkey />
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.80</surdis>
+         <tdmean>0.381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>35.1</ostir><oenergyarea>21.514025</oenergyarea></wepstags></weppoperation>

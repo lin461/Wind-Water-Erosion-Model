@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Land plane; orchard and vine crops</path>
+   <name>Land plane; orchard and vine crops</name>
+   <comments>&amp;quot;'Land plane or land leveler in alley ways or rows of tree fruits, nuts, vineyards, etc. Leveling may be for surface irrigation or to smooth surface for nut harvest. 3/17/06; tmgRev 032006 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Land plane; orchard and vine crops</path>
+         <name>Land plane; orchard and vine crops</name>
+         <comment>"Land plane or land leveler in alley ways or rows of tree fruits, nuts, vineyards, etc. Leveling may be for surface irrigation or to smooth surface for nut harvest."</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.00254</rho>
+         <rint>0.15</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.60</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>6.24</ostir><oenergyarea>8.418531</oenergyarea></wepstags></weppoperation>

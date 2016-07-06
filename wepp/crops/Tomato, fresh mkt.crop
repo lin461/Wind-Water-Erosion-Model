@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Tomato, fresh mkt</path>
+<name>Tomato, fresh mkt</name>
+<comments>'Rev gaw 5/23/01 Tomato, fresh market.  Yield = 300 cwt  Base location Columbia, MO  Yield revised to match 2005 national average yield of fresh mkt tomato.  030607 DTL'</comments>
+<weppkey>L_834_Tomato</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>12</bb>
+<bbb>6.92</bbb>
+<beinp>20</beinp>
+<btemp>13.5</btemp>
+<cf>2.1</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.1</cuthgt>
+<decfct>1</decfct>
+<diam>0.025</diam>
+<dlai>1</dlai>
+<dropfc>1</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1500</gddmax>
+<hi>0.6</hi>
+<hmax>0.66</hmax>
+<mfocod>Fragile</mfocod>
+<oratea>0.015</oratea>
+<orater>0.006</orater>
+<otemp>25</otemp>
+<pltol>0</pltol>
+<pltsp>0.076</pltsp>
+<rdmax>1.2</rdmax>
+<rsr>0.33</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>4.5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>cwt/ac</hyldunits><tgtyield>300</tgtyield><grf>1.0</grf><hyldflag>0</hyldflag><hmx>0.8</hmx><rdmx>1.5</rdmx><topt>27.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>94.0</hyldwater></wepstags></weppcrop>

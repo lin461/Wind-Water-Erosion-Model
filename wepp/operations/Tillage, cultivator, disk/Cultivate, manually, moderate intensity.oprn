@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Cultivate, manually, moderate intensity</path>
+   <name>Cultivate, manually, moderate intensity</name>
+   <comments>&amp;quot;'6/20/06 MPR Manually till small fields with hoe or similary hand tool at less intensity (75% disturbance) than existing  Cultivate, manually  file. Use this operation before planting, as all veg. killed.'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Cultivate, manually, moderate intensity</path>
+         <name>Cultivate, manually, moderate intensity</name>
+         <comment>"Manually till small fields with hoe or similar hand tool at less intensity (75% disturbance) than existing Cultivate, manually file. Use this operation before planting, as all veg. Killed"</comment>
+         <weppkey />
+         <mfo1>0.9</mfo1>
+         <mfo2>0.9</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.9</rmfo1>
+         <rmfo2>0.9</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.75</surdis>
+         <tdmean>0.0889</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>3.0</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

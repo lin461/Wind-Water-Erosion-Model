@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Drill or air seeder, hoe opener in hvy residue w/ fert openers</path>
+   <name>Drill or air seeder, hoe opener in hvy residue w/ fert openers</name>
+   <comments>&amp;quot;'Airseeder, hoe opener on 10 to 15  row spacing and 3 wide presswheels operated in sod or more than 4000# residue mass.  Based on Drill, hoe opener. 01-10-02 DTL with fertilizer openers 09-16-11  GGF rev order of processes of combination tool 121311 LOS, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Drill or air seeder, hoe opener in hvy residue w/ fert openers</path>
+         <name>Drill or air seeder, hoe opener in hvy residue w/ fert openers</name>
+         <comment>"Airseeder, hoe openers on 10 to 15 row spacing and 3 wide presswheels operated in sod or more than 4000# residue mass. Based on drill, hoe opener."</comment>
+         <weppkey />
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.25</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Drill or air seeder, hoe opener in hvy residue w/ fert openers</path>
+         <name>Drill or air seeder, hoe opener in hvy residue w/ fert openers</name>
+         <comment>"Airseeder, hoe openers on 10 to 15 row spacing and 3 wide presswheels operated in sod or more than 4000# residue mass. Based on drill, hoe opener."</comment>
+         <weppkey />
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.65</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>20.15</ostir><oenergyarea>12.534259</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Rototiller, row cult add residue</path>
+   <name>Rototiller, row cult add residue</name>
+   <comments>&amp;quot;'Rototiller for weed control in row middles of growing crop.  Current crop is not killed.  Incidental residue from weeds or growing cover is added by the  add other cover  process.  When this operation is used in a management record, the user must enter the residue type and amount.  043008 DTL  '&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Rototiller, row cult add residue</path>
+         <name>Rototiller, row cult add residue</name>
+         <comment>"Rototiller for weed control in row middles of growing crops. Current crop is not killed. Incidental residue from weeds or growing cover is added by the Add other cover process. When this operation is used in a management record, the user must enter the residue type and amount."</comment>
+         <weppkey>ROTO4</weppkey>
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.85</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>11.6</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

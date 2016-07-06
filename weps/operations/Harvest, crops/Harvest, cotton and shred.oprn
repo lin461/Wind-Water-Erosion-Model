@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Harvest, cotton and shred</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>21.981722</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>.15</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Represents cotton picking harvest equipment (bowls left on the plant) followed immediately by a shredder.
+10/26/01 DTL
+Changed to No Crop Kill 5/3/07 MAS
+Moved P40 to the end of the processes, and changed the P24 90% to a P32 cut to a 6 inch Ht.
+MAS 8-26-10
+
+Changed the P32 to P42 and the same 6 in Ht.  Changed back to kill crop.   MAS 7-26-11
+Changed report harvest to "no report" to better work with the crop yr interval MAS 7-26-11
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>ofuel</name>
+			<value> </value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Represents cotton picking harvest equipment (bowls left on the plant) followed immediately by a shredder.
+10/26/01 DTL
+Changed to No Crop Kill 5/3/07 MAS
+Moved P40 to the end of the processes, and changed the P24 90% to a P32 cut to a 6 inch Ht.
+MAS 8-26-10
+
+Changed the P32 to P42 and the same 6 in Ht.  Changed back to kill crop.   MAS 7-26-11
+Changed report harvest to "no report" to better work with the crop yr interval MAS 7-26-11
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>31</id>
+		</identity>
+		<param>
+			<name>kilflag</name>
+			<value>2</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>62</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selpos</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selpool</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>selagepool</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>rstore</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>rleaf</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rstem</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootstore</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootfiber</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>34</id>
+		</identity>
+		<param>
+			<name>frselpool</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>ratemultvt1</name>
+			<value>2.5</value>
+		</param>
+		<param>
+			<name>ratemultvt2</name>
+			<value>2.0</value>
+		</param>
+		<param>
+			<name>ratemultvt3</name>
+			<value>1.5</value>
+		</param>
+		<param>
+			<name>ratemultvt4</name>
+			<value>1.25</value>
+		</param>
+		<param>
+			<name>ratemultvt5</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt1</name>
+			<value>0.6</value>
+		</param>
+		<param>
+			<name>threshmultvt2</name>
+			<value>0.7</value>
+		</param>
+		<param>
+			<name>threshmultvt3</name>
+			<value>0.8</value>
+		</param>
+		<param>
+			<name>threshmultvt4</name>
+			<value>0.9</value>
+		</param>
+		<param>
+			<name>threshmultvt5</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>42</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>cutflag</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>cutvalh</name>
+			<value>152.4003</value>
+		</param>
+		<param>
+			<name>cyldrmh</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>cplrmh</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>cstrmh</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+</operationDB>

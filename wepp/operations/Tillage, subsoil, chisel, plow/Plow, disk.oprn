@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Plow, disk</path>
+   <name>Plow, disk</name>
+   <comments>'Disk plow 11-30-01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Plow, disk</path>
+         <name>Plow, disk</name>
+         <comment>Disk plow</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.2</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1524</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>39.0</ostir><oenergyarea>12.160101</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Continuous disturbance and smoothing</path>
+   <name>Continuous disturbance and smoothing</name>
+   <comments>'Not a real operation.  For use in continous disturbance for Potential erodibility estimation purposes only 092408 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Continuous disturbance and smoothing</path>
+         <name>Continuous disturbance and smoothing</name>
+         <comment>Not a real operation. For use in continous disturbance for potential erodibility estimation purposes only</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0889</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Continuous disturbance and smoothing</path>
+         <name>Continuous disturbance and smoothing</name>
+         <comment>Not a real operation. For use in continous disturbance for potential erodibility estimation purposes only</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0254</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>19.18</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

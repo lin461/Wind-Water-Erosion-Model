@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Roller, residue incorporator</path>
+   <name>Roller, residue incorporator</name>
+   <comments>'Smooth roller w/ 3 inch spade lugs used to flatten and hair pin residue into wet soil in a flooded rice field after harvest.  Typified by tool known as a  water buffalo  used in southern rice production.   030705 DTL   '</comments>
+   <process>
+      <tillage>
+         <path>operations\Roller, residue incorporator</path>
+         <name>Roller, residue incorporator</name>
+         <comment>Smooth roller with 3 inch space lugs used to flatten and hair pin residue into wet soil in a flooded rice field after harvest. Typified by tool known as a water buffalo used in souther rice production.</comment>
+         <weppkey />
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0.08</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.80</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>1.56</ostir><oenergyarea>4.4898834</oenergyarea></wepstags></weppoperation>

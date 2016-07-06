@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Hilling, manual hoe</path>
+   <name>Hilling, manual hoe</name>
+   <comments>'Manually hip or hill rootcrops in small fields using hoe or similar tool that disturbs soil  in the furrows and pitches soil to the top of the beds around the plants.  This operation does not kill existing crop.  102109DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Hilling, manual hoe</path>
+         <name>Hilling, manual hoe</name>
+         <comment>Manually hip or hill rootcrops in small fields using hoe or similar tool that disturbs soil in the furrows and pitches soil to the top of the beds around the plants. This operation does not kill existing crop.</comment>
+         <weppkey />
+         <mfo1>0.9</mfo1>
+         <mfo2>0.9</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.3048</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.9</rmfo1>
+         <rmfo2>0.9</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.85</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>3.315</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

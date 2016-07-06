@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Harvest, hay, no regrowth</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>op_notes4</name>
+			<value>Hay harvest with no regrowth. Use to harvest crops like oat hay or other annuals which are killed by hay harvest.  10/27/01 DTL
+All crops killed.  MAS 5/9/07
+
+Reset the fuel use to 1.92 gal/ac MAS 10-21-11
+
+Removed the warnings and changed it so it can not be used to calibrate.  4-3-12 MAS
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+		</param>
+		<param>
+			<name>oenergyarea</name>
+			<value>17.959534</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>.15</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Hay harvest with no regrowth. Use to harvest crops like oat hay or other annuals which are killed by hay harvest.  10/27/01 DTL
+All crops killed.  MAS 5/9/07
+
+Reset the fuel use to 1.92 gal/ac MAS 10-21-11
+
+Removed the warnings and changed it so it can not be used to calibrate.  4-3-12 MAS
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>31</id>
+		</identity>
+		<param>
+			<name>kilflag</name>
+			<value>2</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>42</id>
+		</identity>
+		<param>
+			<name>cutflag</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>cutvalh</name>
+			<value>50.800102</value>
+		</param>
+		<param>
+			<name>cyldrmh</name>
+			<value>.9</value>
+		</param>
+		<param>
+			<name>cplrmh</name>
+			<value>.9</value>
+		</param>
+		<param>
+			<name>cstrmh</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>24</id>
+		</identity>
+		<param>
+			<name>fbioflagvt</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>massflatvt1</name>
+			<value>0.25</value>
+		</param>
+		<param>
+			<name>massflatvt2</name>
+			<value>0.25</value>
+		</param>
+		<param>
+			<name>massflatvt3</name>
+			<value>0.25</value>
+		</param>
+		<param>
+			<name>massflatvt4</name>
+			<value>0.25</value>
+		</param>
+		<param>
+			<name>massflatvt5</name>
+			<value>0.25</value>
+		</param>
+	</actionvalue>
+</operationDB>

@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Power mulcher bed conditioner</path>
+   <name>Power mulcher bed conditioner</name>
+   <comments>'Power mulcher or power cultivator or Strip Rototiller bed conditioner on beds.  121704 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Power mulcher bed conditioner</path>
+         <name>Power mulcher bed conditioner</name>
+         <comment>Power mulcher or power cultivator or Strip Rototiller bed conditioner on beds.</comment>
+         <weppkey />
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.05</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.85</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>9.95</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

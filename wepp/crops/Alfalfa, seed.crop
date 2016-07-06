@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Alfalfa seed nw, spring plant</path>
+<name>Alfalfa seed nw, spring plant</name>
+<comments>'Alfalfa, spring planted for seed production.  For use in ID, MT, OR, NV, UT, WA and WY where cold winters occur. Typically, irrigated with plants on 24 -30  rows.  Planting dates from 4/1-5/1.  Record ends at first seed harvest. Follow with record;  Alfalfa seed nw, yr2 senes to yr3 regrowth; tmg; 082406.Alfalfa seeded 4/1/0 . Base location Columbia, MO. The yield represents the amount of forage available at the first cutting.  REV 070705 DTL'</comments>
+<weppkey>L_23_Alfalfa</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>14</bb>
+<bbb>23</bbb>
+<beinp>15</beinp>
+<btemp>4</btemp>
+<cf>5</cf>
+<crit>30</crit>
+<critvm>0.1</critvm>
+<cuthgt>0.152</cuthgt>
+<decfct>0.7</decfct>
+<diam>0.0045</diam>
+<dlai>0.85</dlai>
+<dropfc>0.9</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>12</flivmx>
+<gddmax>0</gddmax>
+<hi>0.9</hi>
+<hmax>0.8</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.015</oratea>
+<orater>0.015</orater>
+<otemp>20</otemp>
+<pltol>0</pltol>
+<pltsp>0.006</pltsp>
+<rdmax>2.43</rdmax>
+<rsr>0.33</rsr>
+<rtmmax>0.6</rtmmax>
+<spriod>14</spriod>
+<tmpmax>32</tmpmax>
+<tmpmin>0.5</tmpmin>
+<xmxlai>6</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lbs/ac</hyldunits><tgtyield>1200</tgtyield><grf>0.5</grf><hyldflag>0</hyldflag><hmx>1.0</hmx><rdmx>2.0</rdmx><topt>30.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0020</stemdia><hyldwater>15.0</hyldwater></wepstags></weppcrop>

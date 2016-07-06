@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Knife, windrow dry beans
+	</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>03</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>17.491838</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>6.5</value>
+		</param>
+		<param>
+			<name>ospeed</name>
+			<value>2.2351363</value>
+		</param>
+		<param>
+			<name>odirect</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>ostdspeed</name>
+			<value>2.2351363</value>
+		</param>
+		<param>
+			<name>ominspeed</name>
+			<value>1.5645955</value>
+		</param>
+		<param>
+			<name>omaxspeed</name>
+			<value>2.9056773</value>
+		</param>
+		<param>
+			<name>op_notes3</name>
+			<value>Created operation to harvest dry beans by under cutting, windrowing
+and then combining using a pickup header all in one operation.
+Was not sucessful in making these separate operations
+since the undercutting made crop all residue, which is not properly harvested,
+in that some critical crop properties for harvesting are not carried over to residue pool.
+Fred Fox
+RUSLE Notes:2/95 DDB MN &amp; ND Knife or undercut field beans.   Bean stems and some roots placed  in a windrow for harvest.
+Rev for RUSLE2 10/11/01 DTL
+This operation can be used for WA dry bean harvest and Peanut harvest also.  MAS 8/8/07
+
+Update editing in process jkp 160113
+updated process parameters to work separate followed by combine windrow operation 160113:
+clone from Knife windrow combine oprn remove combine portion
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+User followed by combine windrows
+
+</value>
+		</param>
+		<param>
+			<name>ofuel</name>
+			<value/>
+			</param>
+			<param>
+				<name>op_devnotes3</name>
+				<value>Created operation to harvest dry beans by under cutting, windrowing
+and then combining using a pickup header all in one operation.
+Was not sucessful in making these separate operations
+since the undercutting made crop all residue, which is not properly harvested,
+in that some critical crop properties for harvesting are not carried over to residue pool.
+Fred Fox
+RUSLE Notes:2/95 DDB MN &amp; ND Knife or undercut field beans.   Bean stems and some roots placed  in a windrow for harvest.
+Rev for RUSLE2 10/11/01 DTL
+This operation can be used for WA dry bean harvest and Peanut harvest also.  MAS 8/8/07
+
+Update editing in process jkp 160113
+updated process parameters to work separate followed by combine windrow operation 160113:
+clone from Knife windrow combine oprn remove combine portion
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+			</param>
+		</actionvalue>
+		<actionvalue>
+			<identity>
+				<code>G</code>
+				<id>01</id>
+			</identity>
+			<param>
+				<name>gtdepth</name>
+				<value>50.800102</value>
+			</param>
+			<param>
+				<name>gtilint</name>
+				<value>0.5</value>
+			</param>
+			<param>
+				<name>gtilArea</name>
+				<value>1.0</value>
+			</param>
+			<param>
+				<name>gtstddepth</name>
+				<value>50.800102</value>
+			</param>
+			<param>
+				<name>gtmindepth</name>
+				<value>50.800102</value>
+			</param>
+			<param>
+				<name>gtmaxdepth</name>
+				<value>76.20015</value>
+			</param>
+		</actionvalue>
+		<actionvalue>
+			<identity>
+				<code>P</code>
+				<id>01</id>
+			</identity>
+		</actionvalue>
+		<actionvalue>
+			<identity>
+				<code>P</code>
+				<id>02</id>
+			</identity>
+			<param>
+				<name>rroughflag</name>
+				<value>1</value>
+			</param>
+			<param>
+				<name>rrough</name>
+				<value>10.160021</value>
+			</param>
+		</actionvalue>
+		<actionvalue>
+			<identity>
+				<code>P</code>
+				<id>05</id>
+			</identity>
+			<param>
+				<name>rdgflag</name>
+				<value>1</value>
+			</param>
+			<param>
+				<name>rdghit</name>
+				<value>76.20015</value>
+			</param>
+			<param>
+				<name>rdgspac</name>
+				<value>762.0015</value>
+			</param>
+			<param>
+				<name>rdgwidth</name>
+				<value>304.8006</value>
+			</param>
+			<param>
+				<name>dkhit</name>
+				<value>0.0</value>
+			</param>
+			<param>
+				<name>dkspac</name>
+				<value>0.0</value>
+			</param>
+		</actionvalue>
+		<actionvalue>
+			<identity>
+				<code>P</code>
+				<id>11</id>
+			</identity>
+			<param>
+				<name>asdf</name>
+				<value>2.4</value>
+			</param>
+			<param>
+				<name>crif</name>
+				<value>-2.0</value>
+			</param>
+		</actionvalue>
+		<actionvalue>
+			<identity>
+				<code>P</code>
+				<id>12</id>
+			</identity>
+			<param>
+				<name>soilos</name>
+				<value>0.7</value>
+			</param>
+		</actionvalue>
+		<actionvalue>
+			<identity>
+				<code>P</code>
+				<id>13</id>
+			</identity>
+			<param>
+				<name>laymix</name>
+				<value>0.25</value>
+			</param>
+		</actionvalue>
+	</operationDB>

@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Bean, field 7in rows</path>
+<name>Bean, field 7in rows</name>
+<comments>'rev 061801 dtlField Beans fair yield-1400 lbs narrow row Rev.2/6/95 DTL  REV61801 DTL'</comments>
+<weppkey>L_112_Bean</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>14</bb>
+<bbb>3</bbb>
+<beinp>20</beinp>
+<btemp>5</btemp>
+<cf>7.2</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.152</cuthgt>
+<decfct>0.5</decfct>
+<diam>0.0095</diam>
+<dlai>0.9</dlai>
+<dropfc>0.8</dropfc>
+<extnct>0.45</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1200</gddmax>
+<hi>0.5</hi>
+<hmax>1.01</hmax>
+<mfocod>Fragile</mfocod>
+<oratea>0.013</oratea>
+<orater>0.013</orater>
+<otemp>25</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.1778</pltsp>
+<rdmax>1.5</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lb/ac</hyldunits><tgtyield>1400</tgtyield><grf>0.8</grf><hyldflag>0</hyldflag><hmx>0.6</hmx><rdmx>0.91441107</rdmx><topt>27.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>16</hyldwater></wepstags></weppcrop>

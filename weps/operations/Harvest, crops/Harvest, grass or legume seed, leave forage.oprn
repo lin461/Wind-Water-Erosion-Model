@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Harvest, grass or legume seed, leave forage</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>14.311503</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>.15</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Harvest grass or legume seed at 12 to 15 in cutter bar height with a swather, running this material though the seperator and
+blowing it out the back of the combine and leaving this forage on the field as flat residue.
+Represents a combine with pickup header. 7/18/07  DTL
+
+Harvest, grass or legume seed, leave forage - Changed the P43 process to a P42 cut to height.
+It will remove 85% of green biomass and 85% of the standing residue from previous year's growth.
+Use this harvest with the appropriate grass seed crop file.
+Cool season grass need to be used in cool season areas, and warm season grass in warm season areas.
+Do not try to calibrate the yield by changing the Biomass adjustment factor as with most crops.
+The user can adjust the Biomass adjustment factor to get appropriate fall green growth the first year.
+There will be an imbalance in the Residue to Grain ratio.  The yield will be high compared to the residue produced.
+It now cuts the crop at 12 inches of height.  MAS 3-27-2012
+LMOD and WEPS update correlation; new WEPS operation record, as previous translate,
+Harvest, grass or legume seed, leave forage|renameAndDeleteCrop|Harvest, grass or legume seed, leave forage, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>ofuel</name>
+			<value> </value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Harvest grass or legume seed at 12 to 15 in cutter bar height with a swather, running this material though the seperator and
+blowing it out the back of the combine and leaving this forage on the field as flat residue.
+Represents a combine with pickup header. 7/18/07  DTL
+
+Harvest, grass or legume seed, leave forage - Changed the P43 process to a P42 cut to height.
+It will remove 85% of green biomass and 85% of the standing residue from previous year's growth.
+Use this harvest with the appropriate grass seed crop file.
+Cool season grass need to be used in cool season areas, and warm season grass in warm season areas.
+Do not try to calibrate the yield by changing the Biomass adjustment factor as with most crops.
+The user can adjust the Biomass adjustment factor to get appropriate fall green growth the first year.
+There will be an imbalance in the Residue to Grain ratio.  The yield will be high compared to the residue produced.
+It now cuts the crop at 12 inches of height.  MAS 3-27-2012
+LMOD and WEPS update correlation; new WEPS operation record, as previous translate,
+Harvest, grass or legume seed, leave forage|renameAndDeleteCrop|Harvest, grass or legume seed, leave forage, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>31</id>
+		</identity>
+		<param>
+			<name>kilflag</name>
+			<value>0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>42</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>cutflag</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>cutvalh</name>
+			<value>304.8006</value>
+		</param>
+		<param>
+			<name>cyldrmh</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>cplrmh</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>cstrmh</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>34</id>
+		</identity>
+		<param>
+			<name>frselpool</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>ratemultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt5</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt5</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>24</id>
+		</identity>
+		<param>
+			<name>fbioflagvt</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>massflatvt1</name>
+			<value>0.4</value>
+		</param>
+		<param>
+			<name>massflatvt2</name>
+			<value>0.4</value>
+		</param>
+		<param>
+			<name>massflatvt3</name>
+			<value>0.4</value>
+		</param>
+		<param>
+			<name>massflatvt4</name>
+			<value>0.75</value>
+		</param>
+		<param>
+			<name>massflatvt5</name>
+			<value>1</value>
+		</param>
+	</actionvalue>
+</operationDB>

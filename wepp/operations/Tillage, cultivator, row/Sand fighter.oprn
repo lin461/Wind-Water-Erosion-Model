@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Sand fighter</path>
+   <name>Sand fighter</name>
+   <comments>'Sandfighter  Makes roughened surface with spade points mounted on spiderwheels mounted on a shaft.  Similar to a rotary hoe except spade points are further apart and not pointed.  Also similar to a mulch treader but not as agressive and not operated on a skew.  04-01-10 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Sand fighter</path>
+         <name>Sand fighter</name>
+         <comment>Sandfighter makes roughened surface with spade points mounted on spiderwheels mounted on a shaft. Similar to a rotary hoe except spade points are further apart and not pointed. Also similar to a mulch treader but not as aggressive and not operated on a skew.</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>1.016</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.85</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>19.89</ostir><oenergyarea>4.1157265</oenergyarea></wepstags></weppoperation>

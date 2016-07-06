@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Scarifier</path>
+   <name>Scarifier</name>
+   <comments>'Scarifier with straight points.from RUSLE1.06.  062403 gaw.'</comments>
+   <process>
+      <tillage>
+         <path>operations\Scarifier</path>
+         <name>Scarifier</name>
+         <comment>Scarifier with straight points</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1524</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>0.01</ostir><oenergyarea>0.01</oenergyarea></wepstags></weppoperation>

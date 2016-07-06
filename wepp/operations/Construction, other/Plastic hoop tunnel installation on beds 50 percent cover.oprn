@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Plastic hoop tunnel installation on beds 50 percent cover</path>
+   <name>Plastic hoop tunnel installation on beds 50 percent cover</name>
+   <comments>'Plastic hoop tunnel application covering 50% of the surface on beds. Used to protect plans from frost and cold temperatures 041708 DTL rev06/25/10 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Plastic hoop tunnel installation on beds 50 percent cover</path>
+         <name>Plastic hoop tunnel installation on beds 50 percent cover</name>
+         <comment>Plastic hoop tunnel application covering 50% of the surface on beds. Used to protect plans from frost and cold temperatures.</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1524</rho>
+         <rint>1.036</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>10</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>0.04875</ostir><oenergyarea>2.5255597</oenergyarea></wepstags></weppoperation>

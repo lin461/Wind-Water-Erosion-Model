@@ -1,0 +1,10 @@
+<weppoperation>
+   <path>operations\Bale straw or residue</path>
+   <name>Bale straw or residue</name>
+   <comments>'Bale straw or residue. Revised flattening fractions. Affects all residue 03132012 DTL'</comments>
+   <process>
+      <remove-residue>
+         <name />
+      </remove-residue>
+   </process>
+<wepstags><ostir>.15</ostir><oenergyarea>3.554491</oenergyarea></wepstags></weppoperation>

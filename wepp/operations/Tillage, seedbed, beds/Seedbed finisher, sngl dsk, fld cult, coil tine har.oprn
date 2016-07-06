@@ -1,0 +1,65 @@
+<weppoperation>
+   <path>operations\Seedbed finisher, sngl dsk, fld cult, coil tine har</path>
+   <name>Seedbed finisher, sngl dsk, fld cult, coil tine har</name>
+   <comments>&amp;quot;'Seedbed finisher consisting of a single disk gang, field cultivator and coiled tine harrow.   Combo mulch finisher   103107 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Seedbed finisher, sngl dsk, fld cult, coil tine har</path>
+         <name>Seedbed finisher, sngl dsk, fld cult, coil tine har</name>
+         <comment>"Seedbed finisher consisting of a single disk gang, field cultivator, and a coiled tine harrow. Combo mulch finisher"</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Seedbed finisher, sngl dsk, fld cult, coil tine har</path>
+         <name>Seedbed finisher, sngl dsk, fld cult, coil tine har</name>
+         <comment>"Seedbed finisher consisting of a single disk gang, field cultivator, and a coiled tine harrow. Combo mulch finisher"</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1016</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Seedbed finisher, sngl dsk, fld cult, coil tine har</path>
+         <name>Seedbed finisher, sngl dsk, fld cult, coil tine har</name>
+         <comment>"Seedbed finisher consisting of a single disk gang, field cultivator, and a coiled tine harrow. Combo mulch finisher"</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>35.75</ostir><oenergyarea>12.160101</oenergyarea></wepstags></weppoperation>

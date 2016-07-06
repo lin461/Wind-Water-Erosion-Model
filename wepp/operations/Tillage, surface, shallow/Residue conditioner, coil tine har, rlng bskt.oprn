@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Residue conditioner, coil tine har, rlng bskt</path>
+   <name>Residue conditioner, coil tine har, rlng bskt</name>
+   <comments>&amp;quot;'Residue conditioner consisting of a coiled tine harrow and a rolling basket incorporator   Same machine as seedbed conditioner, coiled tine harrow and a rolling basket  except operated in heavy residue with harrow set at ground surface or slightly above.  051007 DTL rev 110107 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Residue conditioner, coil tine har, rlng bskt</path>
+         <name>Residue conditioner, coil tine har, rlng bskt</name>
+         <comment>"Residue conditioner consisting of a coiled tine harrow and a rolling basket incorporator. Same machine as seedbed conditioner, coiled tine harrow, and a rolling basket except operated in heavy residue with harrow set at ground surface or slightly above."</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>10</surdis>
+         <tdmean>0.0254</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Residue conditioner, coil tine har, rlng bskt</path>
+         <name>Residue conditioner, coil tine har, rlng bskt</name>
+         <comment>"Residue conditioner consisting of a coiled tine harrow and a rolling basket incorporator. Same machine as seedbed conditioner, coiled tine harrow, and a rolling basket except operated in heavy residue with harrow set at ground surface or slightly above."</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>14.83</ostir><oenergyarea>7.0154433</oenergyarea></wepstags></weppoperation>

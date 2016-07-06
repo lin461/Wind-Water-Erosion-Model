@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Soybean, groups V, VI, VII, and VIII 7in rows</path>
+<name>Soybean, groups V, VI, VII, and VIII 7in rows</name>
+<comments>'Soybeans in maturity groups V, VI, VII, and VIII.  7 inch row spacing Southern growing conditions  REV1071104 DTL '</comments>
+<weppkey>L_727_Soybean</weppkey>
+<iplant>cropland</iplant>
+<crunit>weppwillset</crunit>
+<bb>14</bb>
+<bbb>3</bbb>
+<beinp>20</beinp>
+<btemp>10</btemp>
+<cf>7.2</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.152</cuthgt>
+<decfct>0.6</decfct>
+<diam>0.01</diam>
+<dlai>1</dlai>
+<dropfc>0.6</dropfc>
+<extnct>0.45</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1150</gddmax>
+<hi>0.666666667</hi>
+<hmax>1.5</hmax>
+<mfocod>Fragile</mfocod>
+<oratea>0.025</oratea>
+<orater>0.025</orater>
+<otemp>25</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.1778</pltsp>
+<rdmax>1.5240185</rdmax>
+<rsr>0.154166667</rsr>
+<rtmmax>1</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>bu/ac</hyldunits><tgtyield>30</tgtyield><grf>0.8</grf><hyldflag>0</hyldflag><hmx>1.5</hmx><rdmx>1.5240185</rdmx><topt>25.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.01</stemdia><hyldwater>13</hyldwater></wepstags></weppcrop>

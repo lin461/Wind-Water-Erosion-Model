@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Plastic mulch, 50 percent  removal</path>
+   <name>Plastic mulch, 50 percent  removal</name>
+   <comments>'Partially remove plastic mulch  (50% removal)   02-28-02 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Plastic mulch, 50 percent  removal</path>
+         <name>Plastic mulch, 50 percent  removal</name>
+         <comment>Partially remove plastic mulch (50% removal)</comment>
+         <weppkey />
+         <mfo1>0.6</mfo1>
+         <mfo2>0.6</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.05</rint>
+         <rmfo1>0.6</rmfo1>
+         <rmfo2>0.6</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.20</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>.52</ostir><oenergyarea>3.6480303</oenergyarea></wepstags></weppoperation>

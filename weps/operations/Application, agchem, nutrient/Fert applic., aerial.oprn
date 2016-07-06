@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Fert applic., aerial</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>1.4966278</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>0.15</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Aerial application, broadcast fertilizer.
+Example uses:  Flooded rice fields and field conditions that prevent operation of field equipment.
+Little to no effect, placeholder operation for energy calcultion.
+
+</value>
+		</param>
+		<param>
+			<name>ofuel</name>
+			<value> </value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Aerial broadcast fertilizer.  Although used for aerial application of Fertilizer into flooded rice fields or
+other situations where conditions prevent the operation of field equipment,
+this operation doesn't actually do anything other than serve as a placeholder for energy calculation. 11-29-2011 DTL
+Added to WEPS DB 12-27-11 MAS
+LMOD and WEPS update correlation; existing WEPS operation record 160410 jkp</value>
+		</param>
+	</actionvalue>
+</operationDB>

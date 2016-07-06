@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Tree spade, holes left</path>
+   <name>Tree spade, holes left</name>
+   <comments>'Tree spade used to dig nursery stock. Assumes bare soil condition and holes left open.  071403 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Tree spade, holes left</path>
+         <name>Tree spade, holes left</name>
+         <comment>Tree spade used to dig nursery stock. Assumes bare soil condition and holes left open.</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.75</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.40</surdis>
+         <tdmean>0.9144</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>0.01</ostir><oenergyarea>0.01</oenergyarea></wepstags></weppoperation>

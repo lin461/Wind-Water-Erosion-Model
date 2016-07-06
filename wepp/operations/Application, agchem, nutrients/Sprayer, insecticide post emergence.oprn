@@ -1,0 +1,10 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Sprayer, insecticide post emergence</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<process>
+<none>
+</none>
+</process>
+<wepstags><ostir>0.15</ostir><oenergyarea>1.2160101</oenergyarea></wepstags></weppoperation>

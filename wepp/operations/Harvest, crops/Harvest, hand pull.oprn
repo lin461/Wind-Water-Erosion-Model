@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harvest, hand pull</path>
+   <name>Harvest, hand pull</name>
+   <comments>'Hand harvest bulb crops like onions or garlic  leaving 4  diameter holes that are 3 to 5  deep.   rev021109 DTL rev energy use 121311 LOS'</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, hand pull</path>
+         <name>Harvest, hand pull</name>
+         <comment />
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.35</surdis>
+         <tdmean>0.1397</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>2.275 </ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

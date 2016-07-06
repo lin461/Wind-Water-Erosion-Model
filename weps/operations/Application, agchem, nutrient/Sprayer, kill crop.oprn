@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Sprayer, kill crop</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>1.2160101</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>0.15</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Sprayer operation, General use:  herbicides, All crop types are killed day of application,
+Growing biomass converted to residue.
+</value>
+		</param>
+		<param>
+			<name>ofuel</name>
+			<value> </value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>All crop types are killed, green grow turned to residue, standing.  MAS 12-27-11
+
+Added Flattening to the operation to match R2 (P-24).  This will tend to increase erosion on systems that using
+cover crops by causing less standing residue from the crop or cover crop killed.  MAS 4-3-12
+
+After a conference call, Linda Scheffe, Dave Lightle, Mike Sporcic, and Fred Fox, we decided to change the flattening
+from 0.7-0.5 to 0.05 for all residue type due to wheel traffic only.  Plant canopy change over time is not considered.
+Normal plant senescence built into the model will handle plant changes.  MAS 4-5-12
+LMOD and WEPS DB correlation, existing WEPS operation record, 160410 jp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>24</id>
+		</identity>
+		<param>
+			<name>fbioflagvt</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>massflatvt1</name>
+			<value>0.05</value>
+		</param>
+		<param>
+			<name>massflatvt2</name>
+			<value>0.05</value>
+		</param>
+		<param>
+			<name>massflatvt3</name>
+			<value>0.05</value>
+		</param>
+		<param>
+			<name>massflatvt4</name>
+			<value>0.05</value>
+		</param>
+		<param>
+			<name>massflatvt5</name>
+			<value>0.05</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>31</id>
+		</identity>
+		<param>
+			<name>kilflag</name>
+			<value>2</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+</operationDB>

@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Seedbed finisher, fld cult, mlch trdr</path>
+   <name>Seedbed finisher, fld cult, mlch trdr</name>
+   <comments>'Seedbed finisher consisting of a field cultivator and a mulch treader or rotary cultivator 092305 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Seedbed finisher, fld cult, mlch trdr</path>
+         <name>Seedbed finisher, fld cult, mlch trdr</name>
+         <comment>Seedbed finisher consisting of a field cultivator and a mulch treader or rotary cultivator</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1016</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Seedbed finisher, fld cult, mlch trdr</path>
+         <name>Seedbed finisher, fld cult, mlch trdr</name>
+         <comment>Seedbed finisher consisting of a field cultivator and a mulch treader or rotary cultivator</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0381</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.85</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>22.04</ostir><oenergyarea>10.289317</oenergyarea></wepstags></weppoperation>

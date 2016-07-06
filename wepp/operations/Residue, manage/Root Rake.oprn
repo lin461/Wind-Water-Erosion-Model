@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Root rake</path>
+   <name>Root rake</name>
+   <comments>'Root Rake  Depth represents depth of incorporated residue. 11-30-01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Root rake</path>
+         <name>Root rake</name>
+         <comment>Root Rake. Depth represents depth of incorporated residue</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.33</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1524</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>36</ostir><oenergyarea>17.491838</oenergyarea></wepstags></weppoperation>

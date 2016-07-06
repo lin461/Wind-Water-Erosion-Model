@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Seeding, drill, other</path>
+<name>Seeder-Broadcast</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>.15</ostir><oenergyarea>1.2160101</oenergyarea></wepstags></weppoperation>

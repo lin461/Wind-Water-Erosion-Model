@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Drill or airseeder, double disk</path>
+   <name>Drill or airseeder, double disk</name>
+   <comments>&amp;quot;'Drill or air seeder with double disk openers on 7 to 10 inch spacings.  Rev102403 DTL  Added 40 lbs. start storage biomass default for new veg.  022212 DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Drill or airseeder, double disk</path>
+         <name>Drill or airseeder, double disk</name>
+         <comment>"Drill or air seeder with double disk openers on 7 to 10 inch spacings. Rev102403 DTL Added 40 lbs. Start storage biomass default for new veg. 022212 DTL, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.65</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>6.34</ostir><oenergyarea>3.3674128</oenergyarea></wepstags></weppoperation>

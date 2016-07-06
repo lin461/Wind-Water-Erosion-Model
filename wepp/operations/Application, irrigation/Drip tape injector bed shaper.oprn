@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Drip tape injector bed shaper</path>
+   <name>Drip tape injector bed shaper</name>
+   <comments>'Drip Tape injector bed shaper (similar to Sundance Tape Injector) 112707 DTL '</comments>
+   <process>
+      <tillage>
+         <path>operations\Drip tape injector bed shaper</path>
+         <name>Drip tape injector bed shaper</name>
+         <comment>Drip tape bed shaper (similar to Sundance  Tape Injector)</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>1.27</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>26</ostir><oenergyarea>4.2092657</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,12 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Sprayer, pre-emergence</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<process>
+<add-residue>
+<name>Residue\weed residue; 0-3 mo</name>
+<amount>0.0</amount>
+</add-residue>
+</process>
+<wepstags><ostir>.15</ostir><oenergyarea>1.2160101</oenergyarea></wepstags></weppoperation>

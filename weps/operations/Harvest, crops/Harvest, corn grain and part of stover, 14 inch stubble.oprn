@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Harvest, corn grain and part of stover, 14 inch stubble</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>op_notes4</name>
+			<value>Derived from:
+ARS template (tool type) record - filename is:  Harvest Tool (combine row head - fraction crop height cut - limited height).oprn
+This operation record is designed to represent actual field harvesting operations such as
+removing the grain yield of a crop like wheat with a cutter bar head on a combine.
+This harvesting operation record defaults to removing all the reproductive component of a crop
+above the cutting height.  Typically this is specified as the "yield" component in the crop record.
+The cut height  is determined based upon a parameter value specified as a fraction of
+the crop heght.  Ttherefore taller crops get harvested at a higher cut height than shorter crops.
+The non-harvested crop plant material above the specified cut height becomes flat residue.
+The remaining above ground crop material below the specified cut height becomes standing residue.
+Given that machinery does not have an unlimited cut height, a second cut height, set as a fixed
+distance above the ground, brings the maximum cut height down. All material that is cut by this process
+(after the preceeding cut) is made into residue.
+Flattening is set to assume that wheels do not flatten the rows.
+Note that the harvested component can be changed from the "reproductive material"
+to other plant parts, so it can be used for non-grain type harvesting operations as well.
+Any crops harvested with this operation will default to killing the crop unless the appropriate
+"kill" process parameter is changed.
+200x	Created - Fred Fox
+Oct 31, 2005	Updated notes - Larry Wagner
+Nov 30, 2005     Updated notes - Fred Fox
+Detailed info regarding this operation record:
+This harvest record determines the cut height based upon the height of the crop
+being harvested.  This helps ensure that the crop will be harvested, even if the
+normal crop height is severely reduced due to water/temperature stress since
+the crop height will auto-adjust based upon the actual height of the crop each
+season at harvest time.
+If one wants a fixed cut height, regardless of the crop height, they should use the
+"Harvest Template (fixed height cut and remove)" operation.
+Some standing crop stalks could be flattened during the harvesting process,
+e.g. by the harvester's tire tracks.  Therefore, a flattening process is also a part of this
+operation record.  The default values are set to zero, assuming no flattening of standing
+stalks are occuring.  However, these can be set as necessary for the specific harvesting
+device used in the operation.
+The harvesting operation could also have an effect on the "standing stalk"
+fall rate and fall threshold values.  The default "biomass pool" flag parameter
+is set to "No adjustments applied" so that no "stalk residue decay rate change" will occur.
+However, this flag value can be changed along with the default parameter values
+to change the "stalk residue decay processes".
+LMOD and WEPS update correlation; new WEPS operation record, as previous translate,
+Harvest, corn grain and part of stover, 14 inch stubble|rename|Harvest, grain and part of residue, specify, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>oenergyarea</name>
+			<value>14.311503</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>0.15</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Derived from:
+ARS template (tool type) record - filename is:  Harvest Tool (combine row head - fraction crop height cut - limited height).oprn
+This operation record is designed to represent actual field harvesting operations such as
+removing the grain yield of a crop like wheat with a cutter bar head on a combine.
+This harvesting operation record defaults to removing all the reproductive component of a crop
+above the cutting height.  Typically this is specified as the "yield" component in the crop record.
+The cut height  is determined based upon a parameter value specified as a fraction of
+the crop heght.  Ttherefore taller crops get harvested at a higher cut height than shorter crops.
+The non-harvested crop plant material above the specified cut height becomes flat residue.
+The remaining above ground crop material below the specified cut height becomes standing residue.
+Given that machinery does not have an unlimited cut height, a second cut height, set as a fixed
+distance above the ground, brings the maximum cut height down. All material that is cut by this process
+(after the preceeding cut) is made into residue.
+Flattening is set to assume that wheels do not flatten the rows.
+Note that the harvested component can be changed from the "reproductive material"
+to other plant parts, so it can be used for non-grain type harvesting operations as well.
+Any crops harvested with this operation will default to killing the crop unless the appropriate
+"kill" process parameter is changed.
+200x	Created - Fred Fox
+Oct 31, 2005	Updated notes - Larry Wagner
+Nov 30, 2005     Updated notes - Fred Fox
+Detailed info regarding this operation record:
+This harvest record determines the cut height based upon the height of the crop
+being harvested.  This helps ensure that the crop will be harvested, even if the
+normal crop height is severely reduced due to water/temperature stress since
+the crop height will auto-adjust based upon the actual height of the crop each
+season at harvest time.
+If one wants a fixed cut height, regardless of the crop height, they should use the
+"Harvest Template (fixed height cut and remove)" operation.
+Some standing crop stalks could be flattened during the harvesting process,
+e.g. by the harvester's tire tracks.  Therefore, a flattening process is also a part of this
+operation record.  The default values are set to zero, assuming no flattening of standing
+stalks are occuring.  However, these can be set as necessary for the specific harvesting
+device used in the operation.
+The harvesting operation could also have an effect on the "standing stalk"
+fall rate and fall threshold values.  The default "biomass pool" flag parameter
+is set to "No adjustments applied" so that no "stalk residue decay rate change" will occur.
+However, this flag value can be changed along with the default parameter values
+to change the "stalk residue decay processes".
+LMOD and WEPS update correlation; new WEPS operation record, as previous translate,
+Harvest, corn grain and part of stover, 14 inch stubble|rename|Harvest, grain and part of residue, specify, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>31</id>
+		</identity>
+		<param>
+			<name>kilflag</name>
+			<value>2</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>42</id>
+		</identity>
+		<param>
+			<name>cutflag</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>cutvalh</name>
+			<value>914.4018</value>
+		</param>
+		<param>
+			<name>cyldrmh</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>cplrmh</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>cstrmh</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>1</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>34</id>
+		</identity>
+		<param>
+			<name>frselpool</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>ratemultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt5</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt5</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>24</id>
+		</identity>
+		<param>
+			<name>fbioflagvt</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>massflatvt1</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>massflatvt2</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>massflatvt3</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>massflatvt4</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>massflatvt5</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+</operationDB>

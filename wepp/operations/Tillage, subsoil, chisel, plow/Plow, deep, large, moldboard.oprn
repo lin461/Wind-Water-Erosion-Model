@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Plow, deep, large, moldboard</path>
+   <name>Plow, deep, large, moldboard</name>
+   <comments>'Deep Moldboard plow 30 inch operating depth.  used to bury large amouns of residue or undesireable soil such as sand deposition or to bring heavy textured matural to the surface.  111705 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Plow, deep, large, moldboard</path>
+         <name>Plow, deep, large, moldboard</name>
+         <comment>Deep Moldboard plow 30 inch operating depth. Used to bury large amounts of residue or undesirable soil such as sand deposition or to bring heavy textured material to the surface.</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.254</rho>
+         <rint>0.4</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>102.38</ostir><oenergyarea>33.674126</oenergyarea></wepstags></weppoperation>

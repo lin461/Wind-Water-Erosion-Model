@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Harvest, biomass, residue</path>
+<name>Graze, green, 75 pct removal</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0.4875 </ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

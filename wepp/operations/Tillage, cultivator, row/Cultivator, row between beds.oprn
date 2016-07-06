@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Cultivator, row between beds</path>
+   <name>Cultivator, row between beds</name>
+   <comments>'Cultivator w/ opposing gangs of disk hillers.  Used to cultivate between Sugarcane beds. 020106 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Cultivator, row between beds</path>
+         <name>Cultivator, row between beds</name>
+         <comment>Cultivator w/ opposing gangs of disk hillers. Used to cultivate between Sugarcane beds.</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.65</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>10.56</ostir><oenergyarea>5.799433</oenergyarea></wepstags></weppoperation>

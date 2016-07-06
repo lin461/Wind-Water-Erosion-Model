@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Plow, oxen, strip 60 pct disturb</path>
+   <name>Plow, oxen, strip 60 pct disturb</name>
+   <comments>'Single bottom plow shank pulled by oxen.60% disturbed in strips Puerto Rico.  082704 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Plow, oxen, strip 60 pct disturb</path>
+         <name>Plow, oxen, strip 60 pct disturb</name>
+         <comment>Single bottom plow shank pulled by oxen. 60% distributed in strips. Puerto Rico</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.4</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.60</surdis>
+         <tdmean>0.1397</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>9.4</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

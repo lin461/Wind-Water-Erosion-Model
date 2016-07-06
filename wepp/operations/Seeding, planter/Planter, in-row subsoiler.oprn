@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, in-row subsoiler</path>
+   <name>Planter, in-row subsoiler</name>
+   <comments>&amp;quot;'Planter, in-row chisel or subsoiler consisting of double disk opener planter units running behind  shanks that disturb less than 40% of the surface but lift and fracture the soil to a depth below the plow layer.  Shank spacing varies but is typically 30 .  050802 DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, in-row subsoiler</path>
+         <name>Planter, in-row subsoiler</name>
+         <comment>"Planter , in-row chisel or subsoil consisting of double disk opener planter units running behind shanks that disturb less than 40% of the surface but lift and fracture the soil to a depth below the plow layer. Shank spacing varies but is typically 30. 050802 DTL, deleted the kill process"</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.40</surdis>
+         <tdmean>0.381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>11.7</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

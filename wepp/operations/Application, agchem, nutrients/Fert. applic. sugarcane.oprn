@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Fert. applic. sugarcane</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>1.5</ostir><oenergyarea>6.5477467</oenergyarea></wepstags></weppoperation>

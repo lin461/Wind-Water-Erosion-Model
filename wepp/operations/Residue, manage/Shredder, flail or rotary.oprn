@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Residue, manage</path>
+<name>Shredder, flail or rotary</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>.15</ostir><oenergyarea>6.828365</oenergyarea></wepstags></weppoperation>

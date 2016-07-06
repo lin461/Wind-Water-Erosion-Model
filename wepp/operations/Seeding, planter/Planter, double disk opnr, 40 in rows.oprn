@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, double disk opnr, 40 in rows</path>
+   <name>Planter, double disk opnr, 40 in rows</name>
+   <comments>&amp;quot;'Row crop planter on 40 inch row spacing not on ridges or beds.  040808 DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, double disk opnr, 40 in rows</path>
+         <name>Planter, double disk opnr, 40 in rows</name>
+         <comment>"Row crop planter on 40 inch row spacing not on ridges or beds. 040808 DTL, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.10</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>1.625</ostir><oenergyarea>4.1157265</oenergyarea></wepstags></weppoperation>

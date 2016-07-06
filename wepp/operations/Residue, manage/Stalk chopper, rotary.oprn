@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Stalk chopper, rotary</path>
+   <name>Stalk chopper, rotary</name>
+   <comments>&amp;quot;'Stalk chopper, rotary same as  Stalk chopper, rolling .  Ground driven with double rotor gangs covering the full width of the machine.  This record represents operation on unridged ground where the weight of the machine is distriibuted across 100% of the working width. 110906 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Stalk chopper, rotary</path>
+         <name>Stalk chopper, rotary</name>
+         <comment>"Stalk Chopper, rotary same as Stalk chopper, rolling. Ground driven with double rotor gangs covering the full width of the machine. This record represents operation on unridged ground where the weight of the machine is distributed across 100% of the working width."</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.6</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>31.2</ostir><oenergyarea>6.828365</oenergyarea></wepstags></weppoperation>

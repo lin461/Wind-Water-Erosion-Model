@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Harvest, vine crops</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>3.2738733</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>.15</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>RUSLE notes: Hand pick melons, cucumbers, pumpkins or similar crops.  03-12-02 DTL
+Build 3-16-07 MAS
+Reworked the values MAS 2-24-09
+Changed the parts harvested to include flat to correct yield-residue issue with GA run on
+watermelons.  8-27-10  MAS
+Corrected the Diesel Energy gal/ac to 0.35 12-27-11 MAS
+
+ARS template record - filename is:  Harvest  Template (pick and remove).oprn
+This operation record is designed to represent harvesting operations that
+remove the specified "yield" of a crop without cutting the crop stalks.
+However, it may flatten and/or disturb the remaining stalks
+(i.e., causing a change in the rate standing stalks decay and go flat).
+Eamples of harvesting operations that can be represented with this operation template are:
+hand harvesting corn,  hand picking of vegetable crops like peas, beans, etc. and also harvesting
+of leaf crops like tobacco (with appropriate parameter value settings).  Another example
+would be the use of a combine stripper header harvesting wheat.
+This harvesting operation record defaults to removing all the reproductive component of a crop
+(typically this is specified as the "yield" component in the crop record) and to kill the crop.
+This would be acceptable as defined for representing hand harvesting of corn for example.
+However, it may not be acceptable for a crop that is "hand picked" several times
+during the year (like peas or beans).  The default parameter values need to be
+changed to meet this type of harvest operation requirements.  Likewise for a harvest
+operation which woud remove some of the leaves instead of a "grain" yield, such as
+harvesting of tobacco leaves (yet this is the template that will often be used for developing
+such "leaf harvesting" operations).
+See the "Detailed info regarding this operation record:" section for more specific
+information regarding the use of non-default process parameter values for
+this harvest operation template.
+ 
+200x	Created - Fred Fox
+Oct 31, 2005	Updated notes - Larry Wagner
+Detailed info regarding this operation record:
+The default "Kill or Defoliate Growing Crop" parameter is set to kill all crops.
+If one doesn't want the operation to kill the crop or only annuals, then they need
+to change this value.  Examples might be where multiple harvest operations
+are necessary to remove the "yield" such as hand picking peas or beans.
+Also, the crop plant component that is harvested can be changed to be something
+other than the reproductive component (grain or fruit).  For example, a fraction of the
+leaves only could be specified, leaving the rest of the crop alone, e.g. harvesting of
+tobacco leaves.
+Some standing crop stalks could be flattened during the harvesting process,
+e.g. by the harvester's tire tracks.  Therefore, a flattening process is also a part of this
+operation record.  The default values are set to zero, assuming no flattening of standing
+stalks are occuring.  However, these can be set as necessary for the specific harvesting
+device used in the operation.
+The harvesting operation could also have an effect on the "standing stalk"
+fall rate and fall threshold values.  The default "biomass pool" flag parameter
+is set to "No adjustments applied" so that no "stalk disturbance" will occur.
+However, this flag value can be changed along with the default parameter values
+to change the "stalk residue decay processes".  An example where one might
+want to apply this effect is when simulating a "combine stripper header" where
+the physical action of pulling the wheat heads would apply a stress to the wheat
+straw such that it would be weakened enough to increase the threshold and
+fall rate values.
+If a harvest operation is expected to "cut" the crop to a prescribed height (or depth
+from the top of the canopy), then one of the "cut and remove" harvest templates should
+probably be used instead of this one.
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>RUSLE notes: Hand pick melons, cucumbers, pumpkins or similar crops.  03-12-02 DTL
+Build 3-16-07 MAS
+Reworked the values MAS 2-24-09
+Changed the parts harvested to include flat to correct yield-residue issue with GA run on
+watermelons.  8-27-10  MAS
+Corrected the Diesel Energy gal/ac to 0.35 12-27-11 MAS
+
+ARS template record - filename is:  Harvest  Template (pick and remove).oprn
+This operation record is designed to represent harvesting operations that
+remove the specified "yield" of a crop without cutting the crop stalks.
+However, it may flatten and/or disturb the remaining stalks
+(i.e., causing a change in the rate standing stalks decay and go flat).
+Eamples of harvesting operations that can be represented with this operation template are:
+hand harvesting corn,  hand picking of vegetable crops like peas, beans, etc. and also harvesting
+of leaf crops like tobacco (with appropriate parameter value settings).  Another example
+would be the use of a combine stripper header harvesting wheat.
+This harvesting operation record defaults to removing all the reproductive component of a crop
+(typically this is specified as the "yield" component in the crop record) and to kill the crop.
+This would be acceptable as defined for representing hand harvesting of corn for example.
+However, it may not be acceptable for a crop that is "hand picked" several times
+during the year (like peas or beans).  The default parameter values need to be
+changed to meet this type of harvest operation requirements.  Likewise for a harvest
+operation which woud remove some of the leaves instead of a "grain" yield, such as
+harvesting of tobacco leaves (yet this is the template that will often be used for developing
+such "leaf harvesting" operations).
+See the "Detailed info regarding this operation record:" section for more specific
+information regarding the use of non-default process parameter values for
+this harvest operation template.
+ 
+200x	Created - Fred Fox
+Oct 31, 2005	Updated notes - Larry Wagner
+Detailed info regarding this operation record:
+The default "Kill or Defoliate Growing Crop" parameter is set to kill all crops.
+If one doesn't want the operation to kill the crop or only annuals, then they need
+to change this value.  Examples might be where multiple harvest operations
+are necessary to remove the "yield" such as hand picking peas or beans.
+Also, the crop plant component that is harvested can be changed to be something
+other than the reproductive component (grain or fruit).  For example, a fraction of the
+leaves only could be specified, leaving the rest of the crop alone, e.g. harvesting of
+tobacco leaves.
+Some standing crop stalks could be flattened during the harvesting process,
+e.g. by the harvester's tire tracks.  Therefore, a flattening process is also a part of this
+operation record.  The default values are set to zero, assuming no flattening of standing
+stalks are occuring.  However, these can be set as necessary for the specific harvesting
+device used in the operation.
+The harvesting operation could also have an effect on the "standing stalk"
+fall rate and fall threshold values.  The default "biomass pool" flag parameter
+is set to "No adjustments applied" so that no "stalk disturbance" will occur.
+However, this flag value can be changed along with the default parameter values
+to change the "stalk residue decay processes".  An example where one might
+want to apply this effect is when simulating a "combine stripper header" where
+the physical action of pulling the wheat heads would apply a stress to the wheat
+straw such that it would be weakened enough to increase the threshold and
+fall rate values.
+If a harvest operation is expected to "cut" the crop to a prescribed height (or depth
+from the top of the canopy), then one of the "cut and remove" harvest templates should
+probably be used instead of this one.
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>31</id>
+		</identity>
+		<param>
+			<name>kilflag</name>
+			<value>0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>62</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selpos</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>selpool</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>selagepool</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>rstore</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>rleaf</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rstem</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootstore</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootfiber</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+</operationDB>

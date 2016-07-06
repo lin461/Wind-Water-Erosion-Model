@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Stalk puller</path>
+   <name>Stalk puller</name>
+   <comments>'A pair of concave disk blades mounted in a Vee configuration and spaced to pinch and pull stalk and root ball.    Approximately 60 % of the surface left  undisturbed.   11/15/06 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Stalk puller</path>
+         <name>Stalk puller</name>
+         <comment>A pair of concave disk blades mounted in a V configuration and spaced to pinch and pull stalk and root ball. Aproximately 60% of the surface left undisturbed.</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.6</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.40</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>18.72</ostir><oenergyarea>2.9932556</oenergyarea></wepstags></weppoperation>

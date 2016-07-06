@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Peppers, bell</path>
+<name>Peppers, bell</name>
+<comments>'gaw 8/7/00, rev 4/30/03 gaw. Based on data from NCSU and NCA&amp;TSU.  Planted mid-late May. 36  x 36   or 60  x 14  rows. '</comments>
+<weppkey>L_577_Peppers</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>14</bb>
+<bbb>3</bbb>
+<beinp>20</beinp>
+<btemp>10</btemp>
+<cf>7.2</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.152</cuthgt>
+<decfct>0.8</decfct>
+<diam>0.01</diam>
+<dlai>0.9</dlai>
+<dropfc>0.9</dropfc>
+<extnct>0.45</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1200</gddmax>
+<hi>0.6</hi>
+<hmax>0.5</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.013</oratea>
+<orater>0.013</orater>
+<otemp>25</otemp>
+<pltol>0.25</pltol>
+<pltsp>1</pltsp>
+<rdmax>1.5</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lbs/ac</hyldunits><tgtyield>31800</tgtyield><grf>0.8</grf><hyldflag>0</hyldflag><hmx>0.76200926</hmx><rdmx>1.2192148</rdmx><topt>22.5</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>92.8</hyldwater></wepstags></weppcrop>

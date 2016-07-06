@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Harvest, dig root crops 12 in depth res. buried</path>
+   <name>Harvest, dig root crops 12 in depth res. buried</name>
+   <comments>&amp;quot;'Harvest, root crops like potatoes or carrots.  12 inch depth Surface is rough with 4  ridges and much of the residue is buried.  rev 100108DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, dig root crops 12 in depth res. buried</path>
+         <name>Harvest, dig root crops 12 in depth res. buried</name>
+         <comment>"Harvest, root crops like potatoes or carrots. 12 inch depth surface is rough with 4 ridges and much of the residue is buried."</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.75</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.3048</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Harvest, dig root crops 12 in depth res. buried</path>
+         <name>Harvest, dig root crops 12 in depth res. buried</name>
+         <comment>"Harvest, root crops like potatoes or carrots. 12 inch depth surface is rough with 4 ridges and much of the residue is buried."</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.75</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.02</surdis>
+         <tdmean>0.3048</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>47.74</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

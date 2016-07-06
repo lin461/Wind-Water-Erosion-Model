@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Fert applic., aerial</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0.15</ostir><oenergyarea>1.4966278</oenergyarea></wepstags></weppoperation>

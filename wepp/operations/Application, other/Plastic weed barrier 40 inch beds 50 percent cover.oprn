@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Plastic weed barrier 40 inch beds 50 percent cover</path>
+   <name>Plastic weed barrier 40 inch beds 50 percent cover</name>
+   <comments>'Plastic weed barrier application covering 50% of the surface on 40 inch beds. May include drip tape installation. 10-03-03 DTL rev06/25/10 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Plastic weed barrier 40 inch beds 50 percent cover</path>
+         <name>Plastic weed barrier 40 inch beds 50 percent cover</name>
+         <comment>Plastic weed barrier application covering 50% of the surface on 40 inch beds. May include drip tape installation</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.05</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.20</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>1.56</ostir><oenergyarea>2.5255597</oenergyarea></wepstags></weppoperation>

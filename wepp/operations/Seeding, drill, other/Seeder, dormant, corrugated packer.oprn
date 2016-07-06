@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Seeder, dormant, corrugated packer</path>
+   <name>Seeder, dormant, corrugated packer</name>
+   <comments>'Brillion Seeder with corregated packer rollers  used to make dormant seeding.  Must also enter the date of germination in the spring and use operation   Germination of dormant seeding and use  Turfgrass April Seeding   or similar spring seeded vegetation.   102406 DTL  '</comments>
+   <process>
+      <tillage>
+         <path>operations\Seeder, dormant, corrugated packer</path>
+         <name>Seeder, dormant, corrugated packer</name>
+         <comment>Brillion Seeder with corrugated packer rollers used to make dormant seeding. Must also enter the date of germination in the spring and use operation Germination of dormant seed and use Turfgrass April Seeding or similar Spring seeded vegetation.</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>.98</ostir><oenergyarea>2.338481</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,10 @@
+<weppoperation>
+   <path>operations\Burn sugarcane</path>
+   <name>Burn sugarcane</name>
+   <comments>'Burn standing sugarcane prior to harvest.  03132012 DTL'</comments>
+   <process>
+      <burning>
+         <name />
+      </burning>
+   </process>
+<wepstags><ostir>0</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

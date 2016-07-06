@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harvest, rootcrops, manually, 33pct of field disturbed</path>
+   <name>Harvest, rootcrops, manually, 33pct of field disturbed</name>
+   <comments>&amp;quot;'6/20/06 MPR Manually harvest root crops, 33% of field disturbed by harvest operation. Residue left on surface. Developed for upland taro harvest in American Samoa. based on  Harvest, rootcrops, manually  file'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, rootcrops, manually, 33pct of field disturbed</path>
+         <name>Harvest, rootcrops, manually, 33pct of field disturbed</name>
+         <comment />
+         <weppkey />
+         <mfo1>0.7</mfo1>
+         <mfo2>0.7</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.7</rmfo1>
+         <rmfo2>0.7</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.33</surdis>
+         <tdmean>0.3175</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>3.43</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

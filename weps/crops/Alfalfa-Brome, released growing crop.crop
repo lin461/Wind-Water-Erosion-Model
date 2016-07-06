@@ -1,0 +1,346 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="crop_db.xsl"?>
+<!DOCTYPE cropDB SYSTEM "crop_db.dtd">
+<!-- crop_db.dtd: Provided here for reference-->
+<!--
+<!ELEMENT cropDB (cropname, param*)>
+<!ELEMENT cropname (#PCDATA)>
+<!ELEMENT param (name,value)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT value (#PCDATA)>
+-->
+<cropDB>
+	<cropname>Alfalfa-Brome, released growing crop</cropname>
+	<param>
+		<name>plantpop</name>
+		<value>688.0</value>
+	</param>
+	<param>
+		<name>dmaxshoot</name>
+		<value>1.0</value>
+	</param>
+	<param>
+		<name>cbaflag</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>tgtyield</name>
+		<value>6.5</value>
+	</param>
+	<param>
+		<name>cbafact</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>cyrafact</name>
+		<value>1.0</value>
+	</param>
+	<param>
+		<name>hyldflag</name>
+		<value>2</value>
+	</param>
+	<param>
+		<name>hyldunits</name>
+		<value>ton/ac</value>
+	</param>
+	<param>
+		<name>hyldwater</name>
+		<value>15.0</value>
+	</param>
+	<param>
+		<name>hyconfact</name>
+		<value>4.465</value>
+	</param>
+	<param>
+		<name>idc</name>
+		<value>3</value>
+	</param>
+	<param>
+		<name>grf</name>
+		<value>1.0</value>
+	</param>
+	<param>
+		<name>ck</name>
+		<value>0.69</value>
+	</param>
+	<param>
+		<name>hui0</name>
+		<value>0.9</value>
+	</param>
+	<param>
+		<name>hmx</name>
+		<value>1.0</value>
+	</param>
+	<param>
+		<name>growdepth</name>
+		<value>0.01</value>
+	</param>
+	<param>
+		<name>rdmx</name>
+		<value>2.0</value>
+	</param>
+	<param>
+		<name>tbas</name>
+		<value>3.0</value>
+	</param>
+	<param>
+		<name>topt</name>
+		<value>30.0</value>
+	</param>
+	<param>
+		<name>thudf</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>dtm</name>
+		<value>120</value>
+	</param>
+	<param>
+		<name>thum</name>
+		<value>1800.0</value>
+	</param>
+	<param>
+		<name>frsx1</name>
+		<value>-5.0</value>
+	</param>
+	<param>
+		<name>frsx2</name>
+		<value>-9.444445</value>
+	</param>
+	<param>
+		<name>frsy1</name>
+		<value>0.01</value>
+	</param>
+	<param>
+		<name>frsy2</name>
+		<value>0.95</value>
+	</param>
+	<param>
+		<name>verndel</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>bceff</name>
+		<value>24</value>
+	</param>
+	<param>
+		<name>a_lf</name>
+		<value>0.023</value>
+	</param>
+	<param>
+		<name>b_lf</name>
+		<value>0.55</value>
+	</param>
+	<param>
+		<name>c_lf</name>
+		<value>0.63</value>
+	</param>
+	<param>
+		<name>d_lf</name>
+		<value>-0.061</value>
+	</param>
+	<param>
+		<name>a_rp</name>
+		<value>-0.024</value>
+	</param>
+	<param>
+		<name>b_rp</name>
+		<value>0.9911</value>
+	</param>
+	<param>
+		<name>c_rp</name>
+		<value>0.6435</value>
+	</param>
+	<param>
+		<name>d_rp</name>
+		<value>0.0494</value>
+	</param>
+	<param>
+		<name>a_ht</name>
+		<value>0.5</value>
+	</param>
+	<param>
+		<name>b_ht</name>
+		<value>-0.09</value>
+	</param>
+	<param>
+		<name>ssaa</name>
+		<value>0.16108</value>
+	</param>
+	<param>
+		<name>ssab</name>
+		<value>0.5981</value>
+	</param>
+	<param>
+		<name>sla</name>
+		<value>30</value>
+	</param>
+	<param>
+		<name>huie</name>
+		<value>0.05</value>
+	</param>
+	<param>
+		<name>transf</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>diammax</name>
+		<value>0.3</value>
+	</param>
+	<param>
+		<name>storeinit</name>
+		<value>425.2424</value>
+	</param>
+	<param>
+		<name>mshoot</name>
+		<value>425.2424</value>
+	</param>
+	<param>
+		<name>leafstem</name>
+		<value>0.6</value>
+	</param>
+	<param>
+		<name>fshoot</name>
+		<value>0.013</value>
+	</param>
+	<param>
+		<name>leaf2stor</name>
+		<value>0.2</value>
+	</param>
+	<param>
+		<name>stem2stor</name>
+		<value>0.2</value>
+	</param>
+	<param>
+		<name>stor2stor</name>
+		<value>0.1</value>
+	</param>
+	<param>
+		<name>rbc</name>
+		<value>2</value>
+	</param>
+	<param>
+		<name>standdk</name>
+		<value>0.0536</value>
+	</param>
+	<param>
+		<name>surfdk</name>
+		<value>0.0536</value>
+	</param>
+	<param>
+		<name>burieddk</name>
+		<value>0.0536</value>
+	</param>
+	<param>
+		<name>rootdk</name>
+		<value>0.0536</value>
+	</param>
+	<param>
+		<name>stemnodk</name>
+		<value>0.2</value>
+	</param>
+	<param>
+		<name>stemdia</name>
+		<value>0.0020</value>
+	</param>
+	<param>
+		<name>thrddys</name>
+		<value>20.0</value>
+	</param>
+	<param>
+		<name>covfact</name>
+		<value>5.227942</value>
+	</param>
+	<param>
+		<name>resevapa</name>
+		<value>-1.20379</value>
+	</param>
+	<param>
+		<name>resevapb</name>
+		<value>0.604887</value>
+	</param>
+	<param>
+		<name>yield_coefficient</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>residue_intercept</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>regrow_location</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>noparam3</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>noparam2</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>noparam1</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>crop_notes</name>
+		<value>This crop record was cloned from the Alfalfa, released growing crop record.  ARS and NRCS have worked to have this crop show some growth
+at the time Oats or Other ratoon crops are gown.  MAS 121-26-07
+Size ranges
+J.J. rquez-Ortiz, J.F.S. Lamb, L.D. Johnson, D.K. Barnes and R.E. Stucker, 1999, Heritability of crown traits in alfalfa, Crop Science, Vol 39, Issue 1 pgs. 38-43
+Crown Depth (distance from the soil level to the top of the tap root) - 0.5cm to 5cm
+Crown width (just below the soil surface) - 2cm to 12cm or greater
+Number of crown stems - 2 to 10 or more
+Crown stem width - 2mm to 6mm or greater
+Number of crown buds - none to 12 or more
+
+D.K. Barnes, R.B. Pearce, G.E. Carlson, R.H. Hart, and C.H. Hanson. 1969. SPecific Leaf Weight Differences in Alfalfa Associated with Variety and
+Plant Age. Crop Science, Vol 9, pgs. 421-423.
+Values of Specific leaf weight measured in the paper varied from 2.15 to 4.3, with early season growth mostly in the area of 2.15 to 2.72 mg/cm^2
+Conversion to m^2/kg is * 10^6 mg/kg * 10^-4 m^2/cm^2 = 100 / mg/cm^2
+
+2.15 mg/cm^2 = 100 / 2.15 m^2/kg = 46.5 m^2/kg, 100 / 2.72 = 36.8, 100 / 4.3 = 23.3
+
+M. H. Hall, C. J. Nelson, J. H. Coutts and R. C. Stout. 2004. Effect of Seeding Rate on Alfalfa Stand Longevity. Agron. J. 96:717-722
+Stem densities for the MO94 study (data not presented) were not different among seeding rates at any sampling time. There were 623 stems m–2 13 MAP
+and only 350 stems m–2 by 25 MAP. Stem density remained nearly constant at that level through 49 MAP. During the same time period, plant density
+declined from an average of 100 down to 25 plants m–2. This means that there was a fourfold increase in stems per plant from 25 to 49 MAP during
+the same time period. Thereafter, stem density continued to decline to 290 and 260 stems m–2 at 63 and 73 MAP, respectively, while plant density fell
+below 15 plants m–2 during the same time period. Crowns develop stems in response to light (Cowett and Sprague, 1962) and apparently could not
+continue to maintain high stem density with the thin stand and older plants.
+
+data as shown above.
+MAP = months after planting
+SPM2 = stems per square meter
+PPM2 = plants per square meter
+SPP = stems per plant
+
+MAP	SPM2	PPM2	 SPP
+13	623	100	62.3
+25	350	36	9.7
+49	350	25	14
+63	290	16	18
+73	260	13	20
+
+With the critical period of alfalfa being establishment, a stem count, equals plant count of 400 stems per square meter is used to try and get early cover.
+
+Fick, G.W., D.A. Holt, D.G. Lugg. 1988. Environmental Physiology and Crop Growth. in A.A. Hanson, D.K. Barnes, R.R. Hill , Jr., eds. 1988 Alfalfa and Alfalfa
+Improvement. Agronomy Monograph Number 29. American Society of Agronomy.
+page 181. Growth temperatures: GDD base from 0 to 5 C, varies depending on time of year. GDD totals 0 C base, 700 to bud, 880 to first flower,
+1075 to full bloom, 1900 to ripe seed stages. Suggests a GDD max temperature around 30 C
+
+Changed the cover to mass value to match Fosters finest stem curve, Small Grain and Alfalfa.  Reference pg. 179 Ag Handbook 703.
+No crop has a larger number (finer stems) than .000586.  This matches RUSLE2.  MAS 12-21-10
+
+The biomass adjustment factor has been set to 1.0 from the 0.6 that Fred had.  The biomass conversion eff factor was moved from 30 to 24 to match yield
+of the standard alfalfa run in Moses Lake, WA and now in Yuma, AZ.  The record runs a little under the 6 ton/ac yield in ML, and somewhat over the 10 t/ac for
+Yuma.  The seed weight was increased from 0.00007 to 0.0006 to increase the intial growth of the fall planting.There is about 1500 lbs of growth going into
+winter in WA and about 2400 lbs/ac at the first harvest in AZ.    Yuma will need to lower the Biomass Adjustment factor to 0.8 to get the 12 t/ac yield needed.
+MAS 7-6-11</value>
+	</param>
+	<param>
+		<name>crop_devnotes</name>
+		<value>Enter dev notes here.</value>
+	</param>
+</cropDB>

@@ -1,0 +1,40 @@
+<weppcrop>
+<path>.\wepp\crops</path>
+<name>Gladiola, bulb</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>6</bb>
+<bbb>4</bbb>
+<beinp>25</beinp>
+<btemp>4</btemp>
+<cf>3</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.152</cuthgt>
+<decfct>1</decfct>
+<diam>0.05</diam>
+<dlai>0.5</dlai>
+<dropfc>0.9</dropfc>
+<extnct>0.8</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1700</gddmax>
+<hi>0.01</hi>
+<hmax>1.01</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.013</oratea>
+<orater>0.013</orater>
+<otemp>25</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.025</pltsp>
+<rdmax>1.5</rdmax>
+<rsr>0.33</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lb/ac</hyldunits><tgtyield>600</tgtyield><grf>1.0</grf><hyldflag>5</hyldflag><hmx>1.2</hmx><rdmx>0.7</rdmx><topt>29.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>72</hyldwater></wepstags></weppcrop>

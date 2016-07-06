@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, transplanter, vegetable, no-till</path>
+   <name>Planter, transplanter, vegetable, no-till</name>
+   <comments>'10/18/01 DTL'</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, transplanter, vegetable, no-till</path>
+         <name>Planter, transplanter, vegetable, no-till</name>
+         <comment />
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.20</surdis>
+         <tdmean>0.1524</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>3.12</ostir><oenergyarea>8.418531</oenergyarea></wepstags></weppoperation>

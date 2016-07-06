@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, sprig, no-till</path>
+   <name>Planter, sprig, no-till</name>
+   <comments>'Grass clippings or sprigs are planted with little soil disturbance.  Use for No-till or manual sprigging.  from RUSLE1.06.  Rev 050108 DTL.  Added 15 lbs. live storage and 15 lbs. root biomass default for new veg.  022212 DTL'</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, sprig, no-till</path>
+         <name>Planter, sprig, no-till</name>
+         <comment>Grass clippings or sprigs are planted with little soil disturbance. Use for No-till or manual sprigging. From RUSLE 1.06 RE 050108 DTL. Added 15 lbs. Live storage and 15 lbs. Root biomass default for new veg.</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.05</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>0.52</ostir><oenergyarea>3.7415698</oenergyarea></wepstags></weppoperation>

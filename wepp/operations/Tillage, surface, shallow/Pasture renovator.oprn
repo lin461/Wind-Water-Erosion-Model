@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Pasture renovator</path>
+   <name>Pasture renovator</name>
+   <comments>&amp;quot;'Pasture renovator.  A gang of ground driven straight, notched or smooth coulters on a rotating shaft that is used make slots in the sod to allow seed to enter the soil. Seed may either be applied with this operation or broadcast separately.  Existing stand is not killed.  Utilize a regrowth file for same crop.  032205 DTL  Added 40 lbs. start storage biomass default for new veg.  022212 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Pasture renovator</path>
+         <name>Pasture renovator</name>
+         <comment>"Pasture renovator. A gang of ground driven straight, notched or smooth coulters on a rotating shaft that is used to make slots in the sod to allow the seed to enter the soil. Seed may either be applied with this operation or broadcast seperatly. Existing stand is not killed. Utilize a regrowth file for same crop. 0302205 DTL Added 40 lbs. Start storage biomass default for new veg."</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0127</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.50</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>5.2</ostir><oenergyarea>4.4898834</oenergyarea></wepstags></weppoperation>

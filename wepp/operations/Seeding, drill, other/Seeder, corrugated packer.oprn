@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Seeder, corrugated packer</path>
+   <name>Seeder, corrugated packer</name>
+   <comments>'Brillion Seeder with corregated packer rollers   9/5/2  DTL  Added 40 lbs. start storage biomass default for new veg.  022212 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Seeder, corrugated packer</path>
+         <name>Seeder, corrugated packer</name>
+         <comment>Brillion Seeder with corrugated packer rollers. 9/5/02 DTL Added 40 lbs. Start storage biomass default for new veg</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>.98</ostir><oenergyarea>2.338481</oenergyarea></wepstags></weppoperation>

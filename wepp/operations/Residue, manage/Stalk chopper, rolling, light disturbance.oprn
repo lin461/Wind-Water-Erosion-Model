@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Stalk chopper, rolling, light disturbance</path>
+   <name>Stalk chopper, rolling, light disturbance</name>
+   <comments>&amp;quot;'Rolling Stalk Chopper, light weight frame pull type, ground driven with single rotor gang covering the full width of the machine on flat planted ground.  This operation represents about 30% surface disturbance.  Would represent light machine operating on heavy residue condition from high yielding s,mall grain or corn.   111510 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Stalk chopper, rolling, light disturbance</path>
+         <name>Stalk chopper, rolling, light disturbance</name>
+         <comment>"Rolling Stalk Chopper, light weight frame pull type, ground driven with single rotor gang covering the full width of the machine on flat planted ground. This operation represents about 30% surface disturbance. Would represent light machine operating on heavy residue condition from high yielding small grain or corn"</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.6</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.30</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>7.0</ostir><oenergyarea>6.828365</oenergyarea></wepstags></weppoperation>

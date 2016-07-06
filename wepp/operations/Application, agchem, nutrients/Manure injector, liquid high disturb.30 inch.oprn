@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Manure injector, liquid high disturb.30 inch</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>7.8</ostir><oenergyarea>14.592121</oenergyarea></wepstags></weppoperation>

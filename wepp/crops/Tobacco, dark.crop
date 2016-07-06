@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Tobacco, dark</path>
+<name>Tobacco, dark</name>
+<comments>'Dark fired tobacco, 2500 pound yield Base Location Lexington, Ky 12-14-01 dtl'</comments>
+<weppkey>L_830_Tobacco</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>6.6</bb>
+<bbb>7</bbb>
+<beinp>25</beinp>
+<btemp>10</btemp>
+<cf>2.5</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0</cuthgt>
+<decfct>0.75</decfct>
+<diam>0.051</diam>
+<dlai>0.7</dlai>
+<dropfc>0.7</dropfc>
+<extnct>0.9</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1500</gddmax>
+<hi>0.9</hi>
+<hmax>1.06</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0065</oratea>
+<orater>0.0074</orater>
+<otemp>25</otemp>
+<pltol>0</pltol>
+<pltsp>0.22</pltsp>
+<rdmax>0.76</rdmax>
+<rsr>0.33</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>3.4</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>ton/ac</hyldunits><tgtyield>25</tgtyield><grf>0.8</grf><hyldflag>3</hyldflag><hmx>2.5</hmx><rdmx>2.0</rdmx><topt>25.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>11.0</hyldwater></wepstags></weppcrop>

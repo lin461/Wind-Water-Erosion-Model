@@ -1,0 +1,10 @@
+<weppoperation>
+   <path>operations\Add mulch</path>
+   <name>Add mulch</name>
+   <comments>'Use to apply mulch cover.  Internally defaults to straw mulch at 2000 pounds per acre.  Adjust in individual run or in management screen to other mulch type or amount.   101009DTL'</comments>
+   <process>
+      <add-residue>
+         <name />
+      </add-residue>
+   </process>
+<wepstags><ostir>0</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

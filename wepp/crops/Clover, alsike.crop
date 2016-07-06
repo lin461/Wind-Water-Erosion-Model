@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Clover, annual</path>
+<name>Clover, annual</name>
+<comments>'Crimson or Arrowleaf annual clover for seed production in W. Oregon.  Fall planted 10/1 800#/ac ave. seed production tmg, REV 070805 DTL'</comments>
+<weppkey>L_216_Clover</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>14</bb>
+<bbb>23</bbb>
+<beinp>15</beinp>
+<btemp>4</btemp>
+<cf>5</cf>
+<crit>30</crit>
+<critvm>0.1</critvm>
+<cuthgt>0.152</cuthgt>
+<decfct>0.7</decfct>
+<diam>0.0045</diam>
+<dlai>0.85</dlai>
+<dropfc>0.9</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>12</flivmx>
+<gddmax>0</gddmax>
+<hi>0.9</hi>
+<hmax>0.8</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.015</oratea>
+<orater>0.015</orater>
+<otemp>20</otemp>
+<pltol>0</pltol>
+<pltsp>0.006</pltsp>
+<rdmax>2.43</rdmax>
+<rsr>0.33</rsr>
+<rtmmax>0.6</rtmmax>
+<spriod>14</spriod>
+<tmpmax>32</tmpmax>
+<tmpmin>0.5</tmpmin>
+<xmxlai>6</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>ton/ac</hyldunits><tgtyield>3.0</tgtyield><grf>1.0</grf><hyldflag>2</hyldflag><hmx>0.45720553</hmx><rdmx>1.9812241</rdmx><topt>25.0</topt><cbaflag>0</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>0</hyldwater></wepstags></weppcrop>

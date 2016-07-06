@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harvest, onions</path>
+   <name>Harvest, onions</name>
+   <comments>&amp;quot;'Harvest onions, after bulbs have been lifted out of the ground with a rod weeder to dry.  Increased flattening fraction. 08/31/11 GGF'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, onions</path>
+         <name>Harvest, onions</name>
+         <comment>"Harvest onions, after bulbs have been lifted out of the ground with a rod weeder to dry. Increased flattening fraction."</comment>
+         <weppkey />
+         <mfo1>0.2</mfo1>
+         <mfo2>0.2</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.2</rmfo1>
+         <rmfo2>0.2</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>13</ostir><oenergyarea>4.3028054</oenergyarea></wepstags></weppoperation>

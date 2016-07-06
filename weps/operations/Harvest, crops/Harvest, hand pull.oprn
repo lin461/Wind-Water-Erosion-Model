@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Harvest, hand pull</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>3.2738733</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>2.275 </value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Hand harvest bulb crops like onions or garklic  leaving 4" diaimeter holes that are 3 to 5" deep.   rev042808 DTL
+
+Created 2-24-09  MAS
+Corrected the STIR and the fuel use data.  12-19-11 MAS
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Hand harvest bulb crops like onions or garklic  leaving 4" diaimeter holes that are 3 to 5" deep.   rev042808 DTL
+
+Created 2-24-09  MAS
+Corrected the STIR and the fuel use data.  12-19-11 MAS
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>01</id>
+		</identity>
+		<param>
+			<name>gtdepth</name>
+			<value>127.00025</value>
+		</param>
+		<param>
+			<name>gtilint</name>
+			<value>0.4</value>
+		</param>
+		<param>
+			<name>gtilArea</name>
+			<value>0.35</value>
+		</param>
+		<param>
+			<name>gtstddepth</name>
+			<value>127.00025</value>
+		</param>
+		<param>
+			<name>gtmindepth</name>
+			<value>25.4000508001016</value>
+		</param>
+		<param>
+			<name>gtmaxdepth</name>
+			<value>254.0005</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>01</id>
+		</identity>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>rroughflag</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>rrough</name>
+			<value>30.480062</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>11</id>
+		</identity>
+		<param>
+			<name>asdf</name>
+			<value>1.4</value>
+		</param>
+		<param>
+			<name>crif</name>
+			<value>-1.2</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>12</id>
+		</identity>
+		<param>
+			<name>soilos</name>
+			<value>0.3</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>13</id>
+		</identity>
+		<param>
+			<name>laymix</name>
+			<value>0.05</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>31</id>
+		</identity>
+		<param>
+			<name>kilflag</name>
+			<value>2</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>62</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selpos</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selpool</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>selagepool</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>rstore</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rleaf</name>
+			<value>0.99</value>
+		</param>
+		<param>
+			<name>rstem</name>
+			<value>0.99</value>
+		</param>
+		<param>
+			<name>rrootstore</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>rrootfiber</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>34</id>
+		</identity>
+		<param>
+			<name>frselpool</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>ratemultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt5</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt5</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+</operationDB>

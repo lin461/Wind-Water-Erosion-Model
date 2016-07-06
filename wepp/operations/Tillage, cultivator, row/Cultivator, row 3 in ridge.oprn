@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Cultivator, row 3 in ridge</path>
+   <name>Cultivator, row 3 in ridge</name>
+   <comments>'Row crop cultivator w/ sweeps leaving a 3  ridge 05-14-02 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Cultivator, row 3 in ridge</path>
+         <name>Cultivator, row 3 in ridge</name>
+         <comment>Row crop cultivator w/ sweeps leaving a 3 ridge</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.7501</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.90</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>17.55</ostir><oenergyarea>5.799433</oenergyarea></wepstags></weppoperation>

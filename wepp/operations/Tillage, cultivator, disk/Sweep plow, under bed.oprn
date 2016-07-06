@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Sweep plow, under bed</path>
+   <name>Sweep plow, under bed</name>
+   <comments>&amp;quot;'This is a secondary operation to bedding.  The beds are undercut 100% disturbance, but the surface maintains some crusting (larger clods) over 60% of the bed.  The furrow is tilled with a shovel about 40% of the surface.  Beds are not build back.  The existing ridges (ht &amp; width) are used.  Cloned ARS Bedder operation.  RUSLE, Sweep Plow.  MAS 1-22-07'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Sweep plow, under bed</path>
+         <name>Sweep plow, under bed</name>
+         <comment>"This secondary operation to bedding. The beds are undercut 100% disturbance, but the surface maintains some crusting (large clods) over 60% of the bed. The furrow is tilled with a shovel about 40% of the surface. Beds are not build back. The existing ridges (height and width) are used. Cloned ARS Bedder operation. RUSLE, Sweep Plow"</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.3048</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1397</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>14.63</ostir><oenergyarea>6.921904</oenergyarea></wepstags></weppoperation>

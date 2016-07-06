@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Sweep plow 20-40 in wide</path>
+   <name>Sweep plow 20-40 in wide</name>
+   <comments>&amp;quot;'Undercutter sweeps.  Also known as blade plows or Noble blades 24  to 40  wide.  Run shallow to undercut stubble and weeds, thus killing weeds but leaving stubble upright.12-18-01 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Sweep plow 20-40 in wide</path>
+         <name>Sweep plow 20-40 in wide</name>
+         <comment>"Undercutter sweeps. Also known as blade plows or Noble blades 24 to 40 wide. Run shallow to undercut stubble and weeds, thus killing weeds but leaving stubble upright."</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0889</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>9.75</ostir><oenergyarea>6.921904</oenergyarea></wepstags></weppoperation>

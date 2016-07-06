@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Corn, seed</path>
+<name>Corn, seed</name>
+<comments>'Corn commercially grown for seed. Use operation   Detasseler, seed corn  at about day 45 and add 500# of corn residue.  Harvest at about day 135 after planting.  Rev 031605DTL'</comments>
+<weppkey>L_277_Corn</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>3.6</bb>
+<bbb>3</bbb>
+<beinp>35.00196</beinp>
+<btemp>10</btemp>
+<cf>2.3</cf>
+<crit>55</crit>
+<critvm>0</critvm>
+<cuthgt>0.30404</cuthgt>
+<decfct>0.65</decfct>
+<diam>0.051</diam>
+<dlai>0.85</dlai>
+<dropfc>0.98</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1700</gddmax>
+<hi>0.5</hi>
+<hmax>2.60099</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0065</oratea>
+<orater>0.0065</orater>
+<otemp>25</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.219</pltsp>
+<rdmax>1.51995</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>30</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>3.5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>bu/ac</hyldunits><tgtyield>60</tgtyield><grf>0.8</grf><hyldflag>0</hyldflag><hmx>2.0</hmx><rdmx>1.5240185</rdmx><topt>30.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.01</stemdia><hyldwater>12.9</hyldwater></wepstags></weppcrop>

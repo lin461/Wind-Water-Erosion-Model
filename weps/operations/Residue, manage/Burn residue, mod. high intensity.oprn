@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Burn residue, mod. high intensity</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>op_notes4</name>
+			<value>Burn residue 100% standing stubble and 85% flat. 020904 DTL
+Added remove fruit percentage for removal of reproductive parts. MAS 9-10-08
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>oenergyarea</name>
+			<value>9.353924E-8</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Burn residue 100% standing stubble and 85% flat. 020904 DTL
+Added remove fruit percentage for removal of reproductive parts. MAS 9-10-08
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>62</id>
+		</identity>
+		<param>
+			<name>selpos</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selpool</name>
+			<value>6</value>
+		</param>
+		<param>
+			<name>rstore</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>rleaf</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>rstem</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>rrootstore</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>rrootfiber</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_report_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>selagepool</name>
+			<value>0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>62</id>
+		</identity>
+		<param>
+			<name>selpos</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>selpool</name>
+			<value>6</value>
+		</param>
+		<param>
+			<name>rstore</name>
+			<value>0.85</value>
+		</param>
+		<param>
+			<name>rleaf</name>
+			<value>0.85</value>
+		</param>
+		<param>
+			<name>rstem</name>
+			<value>.85</value>
+		</param>
+		<param>
+			<name>rrootstore</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>rrootfiber</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_report_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>selagepool</name>
+			<value>0</value>
+		</param>
+	</actionvalue>
+</operationDB>

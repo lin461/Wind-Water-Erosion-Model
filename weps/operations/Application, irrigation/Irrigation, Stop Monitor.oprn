@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Irrigation, Stop Monitor</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>op_notes4</name>
+			<value>Configured with new process
+LMOD and WEPS DB correlation, existing WEPS operation record, 160410 jp</value>
+		</param>
+		<param>
+			<name>oenergyarea</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Configured with new process
+LMOD and WEPS DB correlation, existing WEPS operation record, 160410 jp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>gamdname</name>
+			<value>water</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>74</id>
+		</identity>
+	</actionvalue>
+</operationDB>

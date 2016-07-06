@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Harvest, crops</path>
+<name>Harvest, leafy veg. mechanical</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>.15</ostir><oenergyarea>12.627798</oenergyarea></wepstags></weppoperation>

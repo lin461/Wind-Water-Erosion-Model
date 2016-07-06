@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planting, no-til manually</path>
+   <name>Planting, no-til manually</name>
+   <comments>'Added 40 lbs. start storage biomass default for new veg.  022212 DTL'</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planting, no-til manually</path>
+         <name>Planting, no-til manually</name>
+         <comment>Added 40 lbs. Start storage biomass default for new veg.</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.30</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>.78</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

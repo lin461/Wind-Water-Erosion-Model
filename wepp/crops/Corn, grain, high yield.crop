@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Corn, grain, high yield</path>
+<name>Corn, grain, high yield</name>
+<comments>'Corn, grain, high production 200bu\ac yield 30 inch row spacing 120 day maturity.  Higher yield with reduced residue to yield ratio based on curren ARS research. Assumes high plant population at 40,000.  Use this record for yields higher than 140 bushels per acre.  For lower yields use  Corn, grain   vegetation record and adjust yield accordingly. REV 03/01/2010 DTL'</comments>
+<weppkey>L_275_Corn</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>3.6</bb>
+<bbb>3</bbb>
+<beinp>38.6952</beinp>
+<btemp>10</btemp>
+<cf>2.3</cf>
+<crit>55</crit>
+<critvm>0</critvm>
+<cuthgt>0.3048</cuthgt>
+<decfct>0.9</decfct>
+<diam>0.051</diam>
+<dlai>0.8</dlai>
+<dropfc>0.98</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1700</gddmax>
+<hi>0.5</hi>
+<hmax>2.60099</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0065</oratea>
+<orater>0.0065</orater>
+<otemp>25</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.762</pltsp>
+<rdmax>1.51995</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>30</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>3.5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>bu/ac</hyldunits><tgtyield>112</tgtyield><grf>0.8</grf><hyldflag>0</hyldflag><hmx>3.048037</hmx><rdmx>1.5240185</rdmx><topt>30</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.01</stemdia><hyldwater>15.5</hyldwater></wepstags></weppcrop>

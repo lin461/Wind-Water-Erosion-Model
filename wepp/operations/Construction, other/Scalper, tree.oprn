@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Scalper, tree</path>
+   <name>Scalper, tree</name>
+   <comments>'Tree scalper.  072102 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Scalper, tree</path>
+         <name>Scalper, tree</name>
+         <comment>Tree scalper</comment>
+         <weppkey />
+         <mfo1>0.65</mfo1>
+         <mfo2>0.65</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.6</rint>
+         <rmfo1>0.65</rmfo1>
+         <rmfo2>0.65</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.33</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>0.01</ostir><oenergyarea>0.01</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Chisel, sweep shovel</path>
+   <name>Chisel, sweep shovel</name>
+   <comments>'060701 DTL REV 10/4/01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Chisel, sweep shovel</path>
+         <name>Chisel, sweep shovel</name>
+         <comment>Chisel plow with straight points operated at 5 inch depth</comment>
+         <weppkey />
+         <mfo1>0.85</mfo1>
+         <mfo2>0.85</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.85</rmfo1>
+         <rmfo2>0.85</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1778</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>45.5</ostir><oenergyarea>10.289317</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,65 @@
+<weppoperation>
+   <path>operations\Planter, strip till, shallow subsoiler</path>
+   <name>Planter, strip till, shallow subsoiler</name>
+   <comments>&amp;quot;'In-row chisel or subsoiler shanks that disturb less than 40% of the surface but lift and fracture the soil to a depth of about 6-10 .  Followed by multiple fluted coulters and a narrow rolling basket or firming wheel and then followed by a planter assembly with double disk openers. Shank spacing varies but is typically 30 .  030509 DTL edited 09-16-11 GGF, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Planter, strip till, shallow subsoiler</path>
+         <name>Planter, strip till, shallow subsoiler</name>
+         <comment>In-row chisel or subsoiler shanks that disturb less than 40% of the surface but lift and fracture the soil to a depth of about 6-10. Followed by multiple fluted coulters and a narrow rolling basket or firming wheel and then followed by a planter assembly with double disk openers. Shank spacing varies but is typically 30.</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.40</surdis>
+         <tdmean>0.2032</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, strip till, shallow subsoiler</path>
+         <name>Planter, strip till, shallow subsoiler</name>
+         <comment>In-row chisel or subsoiler shanks that disturb less than 40% of the surface but lift and fracture the soil to a depth of about 6-10. Followed by multiple fluted coulters and a narrow rolling basket or firming wheel and then followed by a planter assembly with double disk openers. Shank spacing varies but is typically 30.</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.30</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, strip till, shallow subsoiler</path>
+         <name>Planter, strip till, shallow subsoiler</name>
+         <comment>In-row chisel or subsoiler shanks that disturb less than 40% of the surface but lift and fracture the soil to a depth of about 6-10. Followed by multiple fluted coulters and a narrow rolling basket or firming wheel and then followed by a planter assembly with double disk openers. Shank spacing varies but is typically 30.</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.15</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>17.103125</ostir><oenergyarea>22.449419</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,65 @@
+<weppoperation>
+   <path>operations\Chisel plow, coulter, st. pts., cover disks</path>
+   <name>Chisel plow, coulter, st. pts., cover disks</name>
+   <comments>'Coulter chisel plow with straight points and covering disks. 061206 DTL REV 110207 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Chisel plow, coulter, st. pts., cover disks</path>
+         <name>Chisel plow, coulter, st. pts., cover disks</name>
+         <comment>Coulter chisel plow with straight points and covering disks.</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.55</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Chisel plow, coulter, st. pts., cover disks</path>
+         <name>Chisel plow, coulter, st. pts., cover disks</name>
+         <comment>Coulter chisel plow with straight points and covering disks.</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1524</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Chisel plow, coulter, st. pts., cover disks</path>
+         <name>Chisel plow, coulter, st. pts., cover disks</name>
+         <comment>Coulter chisel plow with straight points and covering disks.</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>56.30625</ostir><oenergyarea>13.095493</oenergyarea></wepstags></weppoperation>

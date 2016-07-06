@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Rice residue stomper</path>
+   <name>Rice residue stomper</name>
+   <comments>'Rice residue stomper used as a full width tillage operation after rice harvest to flatten and incorporate residue into the soil.  Typically used after flooding to a depth of 2 to 4  to hasten the decomposition of rice residue.  12-13-04 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Rice residue stomper</path>
+         <name>Rice residue stomper</name>
+         <comment>Rice residue stomper used as a full width tillage operation after rice harvest to flatten and incorporate residue into the soil. Typically used after flooding to a depth of 2 to 4 to hasten the decompostion of rice residue.</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0889</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>15.6</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

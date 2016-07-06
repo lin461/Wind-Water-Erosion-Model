@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Cultivator, hipper, disk hiller on beds</path>
+   <name>Cultivator, hipper, disk hiller on beds</name>
+   <comments>&amp;quot;'Cultivator used on beds covered with plastic mulch.  Adds other cover.  User must specify type of residue cover, ie.,  weed residue   and dry weight.  Rev 043008 DTL '&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Cultivator, hipper, disk hiller on beds</path>
+         <name>Cultivator, hipper, disk hiller on beds</name>
+         <comment>"Cultivator used on beds covered with plastic mulch. Adds other cover. User must specify type of residue cover, ie, weed residue and dry weight."</comment>
+         <weppkey />
+         <mfo1>0.9</mfo1>
+         <mfo2>0.9</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.9</rmfo1>
+         <rmfo2>0.9</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.50</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>6.5</ostir><oenergyarea>4.0221877</oenergyarea></wepstags></weppoperation>

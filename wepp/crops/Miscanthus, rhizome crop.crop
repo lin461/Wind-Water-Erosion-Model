@@ -1,0 +1,40 @@
+<weppcrop>
+<path>.\wepp\crops</path>
+<name>Miscanthus, rhizome crop</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>2.5</bb>
+<bbb>2.5</bbb>
+<beinp>35</beinp>
+<btemp>10</btemp>
+<cf>7.2</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>1</cuthgt>
+<decfct>0.8</decfct>
+<diam>0.03</diam>
+<dlai>0.9</dlai>
+<dropfc>0.8</dropfc>
+<extnct>0.6</extnct>
+<fact>0.5</fact>
+<flivmx>0</flivmx>
+<gddmax>4500</gddmax>
+<hi>0.7</hi>
+<hmax>4</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.004</oratea>
+<orater>0.004</orater>
+<otemp>27.5</otemp>
+<pltol>0</pltol>
+<pltsp>0.2</pltsp>
+<rdmax>1.5</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>10</rtmmax>
+<spriod>40</spriod>
+<tmpmax>40</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>8</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lbs/ac rhizome</hyldunits><tgtyield>12</tgtyield><grf>1</grf><hyldflag>2</hyldflag><hmx>3.6576443</hmx><rdmx>2</rdmx><topt>25</topt><cbaflag>0</cbaflag><hyconfact /><stemdia>0.012700155000000001</stemdia><hyldwater>50</hyldwater></wepstags></weppcrop>

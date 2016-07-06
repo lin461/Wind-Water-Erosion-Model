@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, runner opener</path>
+   <name>Planter, runner opener</name>
+   <comments>'Runner shoe planter with metal presswheels.  Based on core Conventional Row Planter with runner openers.  O50902 DTL'</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, runner opener</path>
+         <name>Planter, runner opener</name>
+         <comment>Runner shoe planter with metal presswheels. Based on core Conventional Row Planter with runner openers</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.20</surdis>
+         <tdmean>0.05715</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>2.6</ostir><oenergyarea>4.1157265</oenergyarea></wepstags></weppoperation>

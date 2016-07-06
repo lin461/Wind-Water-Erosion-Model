@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Harvest, knife, windrow, combine</path>
+   <name>Harvest, knife, windrow, combine</name>
+   <comments>&amp;quot;'2/95 DDB MN &amp; ND Knife or undercut field beans.   Bean stems and some roots placed  in a windrow for harvest.  This operation undercuts the plant and lifts, and windrows the plants. Also includes the harvest which occurs a few days later and spreads the residue back on the disturbed surface.  Rev 043008 DTL  Revised energy  use rev 071711 ggf'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, knife, windrow, combine</path>
+         <name>Harvest, knife, windrow, combine</name>
+         <comment>"2/95 DDB MN &amp; ND Knife or undercut field beans. Bean stems and some roots placed in a window for harvest. This operation undercuts the plant and lifts, and winrows the plants. Also includes the harvest which occurs a few days later and spreads the residue back on the the disturbed surface. REV 043008 DTL Revised energy use"</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Harvest, knife, windrow, combine</path>
+         <name>Harvest, knife, windrow, combine</name>
+         <comment>"2/95 DDB MN &amp; ND Knife or undercut field beans. Bean stems and some roots placed in a window for harvest. This operation undercuts the plant and lifts, and winrows the plants. Also includes the harvest which occurs a few days later and spreads the residue back on the the disturbed surface. REV 043008 DTL Revised energy use"</comment>
+         <weppkey />
+         <mfo1>0.2</mfo1>
+         <mfo2>0.2</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0</rint>
+         <rmfo1>0.2</rmfo1>
+         <rmfo2>0.2</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.05</surdis>
+         <tdmean>0.0254</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>6.56</ostir><oenergyarea>31.803343</oenergyarea></wepstags></weppoperation>

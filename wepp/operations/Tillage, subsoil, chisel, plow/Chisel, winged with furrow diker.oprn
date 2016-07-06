@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Chisel, winged with furrow diker</path>
+   <name>Chisel, winged with furrow diker</name>
+   <comments>'Chisel plow shanks on 30 inch spacing with winged straight points and a furrow diker.  071211 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Chisel, winged with furrow diker</path>
+         <name>Chisel, winged with furrow diker</name>
+         <comment>Chisel plow shanks on 30 inch spacing with winged straight points and a furrow diker.</comment>
+         <weppkey />
+         <mfo1>0.9</mfo1>
+         <mfo2>0.9</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.9</rmfo1>
+         <rmfo2>0.9</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.2286</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Chisel, winged with furrow diker</path>
+         <name>Chisel, winged with furrow diker</name>
+         <comment>Chisel plow shanks on 30 inch spacing with winged straight points and a furrow diker.</comment>
+         <weppkey />
+         <mfo1>0.2</mfo1>
+         <mfo2>0.2</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.2</rmfo1>
+         <rmfo2>0.2</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.35</surdis>
+         <tdmean>0.1016</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>74.1</ostir><oenergyarea>9.353924</oenergyarea></wepstags></weppoperation>

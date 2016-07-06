@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Disk, offset, heavy, roller, smooth</path>
+   <name>Disk, offset, heavy, roller, smooth</name>
+   <comments>&amp;quot;'Disk, offset, heavy 6/8/01 DTL and smooth roller   09-16-11 GGF'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Disk, offset, heavy, roller, smooth</path>
+         <name>Disk, offset, heavy, roller, smooth</name>
+         <comment>"Disk, offset, heavy and smooth roller"</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.2</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1397</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Disk, offset, heavy, roller, smooth</path>
+         <name>Disk, offset, heavy, roller, smooth</name>
+         <comment>"Disk, offset, heavy and smooth roller"</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.00254</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0254</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>40.21875</ostir><oenergyarea>9.353924</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, small veg seed on 8 inch high beds</path>
+   <name>Planter, small veg seed on 8 inch high beds</name>
+   <comments>'Small seed planter like used in planting small seeded vegetables in 25 to 30  rows on 8 inch high beds or ridges.  Shallow depth and minimal disturbance in fine seedbed.  Like Planet Junior.  Surface is left ridged.  11-15-02 DTL'</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, small veg seed on 8 inch high beds</path>
+         <name>Planter, small veg seed on 8 inch high beds</name>
+         <comment>Small seed planter like used in planting small seeded vegetables in 25 to 30 rows on 8 inch high beds or ridges. Shallow depth and minimal disturbance in fine seedbed. Like Planet Junior. Surface is left ridges.</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.15</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>.59</ostir><oenergyarea>3.3674128</oenergyarea></wepstags></weppoperation>

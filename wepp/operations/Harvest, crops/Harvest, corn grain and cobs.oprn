@@ -1,0 +1,13 @@
+<weppoperation>
+   <path>operations\Harvest, corn grain and cobs</path>
+   <name>Harvest, windrows</name>
+   <comments />
+   <wepsimport>
+      <ostir>0.15</ostir>
+	  <oenergyarea>14.311503</oenergyarea>
+   </wepsimport>
+   <process>
+      <harvestAnnual>
+	  </harvestAnnual>
+   </process>
+<wepstags><ostir>0.15</ostir><oenergyarea>14.311503</oenergyarea></wepstags></weppoperation>

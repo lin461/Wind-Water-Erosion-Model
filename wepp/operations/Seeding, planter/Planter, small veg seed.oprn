@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, small veg seed</path>
+   <name>Planter, small veg seed</name>
+   <comments>'Small seed planter like used in planting small seeded vegetables in 25 to 30  rows.  Shallow depth and minimal disturbance in fine seedbed.  Like Planet Junior.  12-10-01 DTL'</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, small veg seed</path>
+         <name>Planter, small veg seed</name>
+         <comment>Small seed planter like used in planting small seeded vegetables in 25 to 30 rows. Shallow depth and minimal disturbance in fine seedbed.</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.15</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>.59</ostir><oenergyarea>3.3674128</oenergyarea></wepstags></weppoperation>

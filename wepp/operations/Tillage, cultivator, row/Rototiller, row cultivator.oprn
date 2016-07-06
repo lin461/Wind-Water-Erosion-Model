@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Rototiller, row cultivator</path>
+   <name>Rototiller, row cultivator</name>
+   <comments>'Rototiller for weed control in row middles of growing crop.  Crop is not killed. 11-30-01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Rototiller, row cultivator</path>
+         <name>Rototiller, row cultivator</name>
+         <comment>Rototiller for weed control in row middles of growing crop. Crop is not killed.</comment>
+         <weppkey>ROTO5</weppkey>
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>6</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.762</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.85</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>8.7</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

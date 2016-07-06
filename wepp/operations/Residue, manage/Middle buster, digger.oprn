@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Middle buster, digger</path>
+   <name>Middle buster, digger</name>
+   <comments>'Middle buster.  Includes use as a  potato digger.  Runs below and down the middle of potato beds to lift and expose potatos or sweet potatoes for later hand harvesting.  11-15-01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Middle buster, digger</path>
+         <name>Middle buster, digger</name>
+         <comment>Middle buster. Includes use as a potato digger. Runs below and down the middle of potato beds to life and expose potatoes or sweet potatoes for later hand harvesting.</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.8</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.2032</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>35.1</ostir><oenergyarea>8.418531</oenergyarea></wepstags></weppoperation>

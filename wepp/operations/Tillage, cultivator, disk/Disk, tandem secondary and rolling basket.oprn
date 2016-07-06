@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Tillage, cultivator, disk</path>
+<name>Disk, tandem secondary and rolling basket</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>39</ostir><oenergyarea>6.828365</oenergyarea></wepstags></weppoperation>

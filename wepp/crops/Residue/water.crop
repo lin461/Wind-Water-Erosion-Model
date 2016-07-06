@@ -1,0 +1,40 @@
+<weppcrop>
+<path>.\wepp\crops\Residue</path>
+<name>water</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<iplant>Cropland</iplant>
+<crunit>weppWillSet</crunit>
+<bb>6</bb>
+<bbb>2</bbb>
+<beinp>15</beinp>
+<btemp>10</btemp>
+<cf>5</cf>
+<crit>30</crit>
+<critvm>0.1</critvm>
+<cuthgt>0.152</cuthgt>
+<decfct>0.7</decfct>
+<diam>0.0022</diam>
+<dlai>0.85</dlai>
+<dropfc>0.9</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>12</flivmx>
+<gddmax>0</gddmax>
+<hi>0.818181818</hi>
+<hmax>0.5</hmax>
+<mfocod>Fragile</mfocod>
+<oratea>0.017</oratea>
+<orater>0.017</orater>
+<otemp>25</otemp>
+<pltol>0</pltol>
+<pltsp>0.006</pltsp>
+<rdmax>0.3</rdmax>
+<rsr>2.222222222</rsr>
+<rtmmax>0.5604245</rtmmax>
+<spriod>14</spriod>
+<tmpmax>30</tmpmax>
+<tmpmin>0.1</tmpmin>
+<xmxlai>7</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>kg/m^2</hyldunits><tgtyield>0.0</tgtyield><grf>0.0</grf><hyldflag>0</hyldflag><hmx>0.0</hmx><rdmx>0.0</rdmx><topt>0.0</topt><cbaflag>0</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>0.0</hyldwater></wepstags></weppcrop>

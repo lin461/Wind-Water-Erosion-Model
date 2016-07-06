@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Fert. applic. single disk opener, low disturbance, 30 inch spac</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>1.95</ostir><oenergyarea>7.4831395</oenergyarea></wepstags></weppoperation>

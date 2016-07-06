@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Soybean, mw 15 - 20 in rows</path>
+<name>Soybean, mw 15 - 20 in rows</name>
+<comments>'25 bu yield, full season 15-20  inch row spacing midwest conditions Rev050605 '</comments>
+<weppkey>L_729_Soybean</weppkey>
+<iplant>cropland</iplant>
+<crunit>weppwillset</crunit>
+<bb>14</bb>
+<bbb>3</bbb>
+<beinp>20</beinp>
+<btemp>10</btemp>
+<cf>7.2</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.152</cuthgt>
+<decfct>0.4</decfct>
+<diam>0.01</diam>
+<dlai>1</dlai>
+<dropfc>0.6</dropfc>
+<extnct>0.45</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1150</gddmax>
+<hi>0.6</hi>
+<hmax>1.5</hmax>
+<mfocod>Fragile</mfocod>
+<oratea>0.025</oratea>
+<orater>0.025</orater>
+<otemp>25</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.43</pltsp>
+<rdmax>1.5240185</rdmax>
+<rsr>0.124444444</rsr>
+<rtmmax>1</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>bu/ac</hyldunits><tgtyield>45</tgtyield><grf>0.8</grf><hyldflag>0</hyldflag><hmx>1.5</hmx><rdmx>1.5240185</rdmx><topt>25.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.01</stemdia><hyldwater>13</hyldwater></wepstags></weppcrop>

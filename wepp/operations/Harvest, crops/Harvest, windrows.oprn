@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harvest, windrows</path>
+   <name>Harvest, windrows</name>
+   <comments>&amp;quot;'Represents harvest equipment like a dry bean harvester that pulls a windrow of previously cut biomass through, separating the grain or seed from the residue and placing the residue back on the ground. Some slight soil disturbance .   021909 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, windrows</path>
+         <name>Harvest, windrows</name>
+         <comment>"Represents harvest equipment like a dry bean harvester that pulls a windrow of previously cut biomass through, separating the grain or seed from the residue and placing the residue back on the ground. Some slight soil disturbance."</comment>
+         <weppkey />
+         <mfo1>0.2</mfo1>
+         <mfo2>0.2</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0</rint>
+         <rmfo1>0.2</rmfo1>
+         <rmfo2>0.2</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.05</surdis>
+         <tdmean>0.0254</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>.06</ostir><oenergyarea>14.311503</oenergyarea></wepstags></weppoperation>

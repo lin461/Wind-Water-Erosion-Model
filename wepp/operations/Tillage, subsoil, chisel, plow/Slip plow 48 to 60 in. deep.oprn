@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Slip plow 48 to 60 in. deep</path>
+   <name>Slip plow 48 to 60 in. deep</name>
+   <comments>'Slip plow 48 to 60 inch operating depth 121604 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Slip plow 48 to 60 in. deep</path>
+         <name>Slip plow 48 to 60 in. deep</name>
+         <comment>Slip plow 48 to 60 inch operating depth</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.30</surdis>
+         <tdmean>0.6096</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>21.06</ostir><oenergyarea>23.384811</oenergyarea></wepstags></weppoperation>

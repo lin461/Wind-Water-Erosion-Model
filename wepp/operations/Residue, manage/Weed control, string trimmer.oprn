@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Residue, manage</path>
+<name>Weed control, string trimmer</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>.15</ostir><oenergyarea>2.338481</oenergyarea></wepstags></weppoperation>

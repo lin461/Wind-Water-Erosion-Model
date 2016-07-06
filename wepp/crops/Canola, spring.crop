@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Canola, spring</path>
+<name>Canola, spring</name>
+<comments>'spring canola, 1200 lbs yield  rev 061801 dtl'</comments>
+<weppkey>L_187_Canola</weppkey>
+<iplant>Cropland</iplant>
+<crunit>bushels</crunit>
+<bb>5.2</bb>
+<bbb>3</bbb>
+<beinp>60</beinp>
+<btemp>2</btemp>
+<cf>0.00057</cf>
+<crit>45</crit>
+<critvm>0</critvm>
+<cuthgt>0.15</cuthgt>
+<decfct>0.9</decfct>
+<diam>0.006</diam>
+<dlai>0.5</dlai>
+<dropfc>0.1</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>3</flivmx>
+<gddmax>1500</gddmax>
+<hi>1</hi>
+<hmax>1</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0071</oratea>
+<orater>0.0071</orater>
+<otemp>21</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.08</pltsp>
+<rdmax>1.4</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lb/ac</hyldunits><tgtyield>1200</tgtyield><grf>0.4</grf><hyldflag>0</hyldflag><hmx>1.0</hmx><rdmx>1.402097</rdmx><topt>20</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>6.5</hyldwater></wepstags></weppcrop>

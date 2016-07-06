@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Weeder, finger weeder</path>
+   <name>Weeder, finger weeder</name>
+   <comments>&amp;quot;'Finger weeder for weed control under tree rows of growing orchard, vinyard or tree crops.  Tree Crop is not killed.  This is a device that has a set of rotating tines mounted on an arm mounted on the side of a tractor with sensors that sense the tree trunk and automatically advances and retracts the device to weed around trees.  030705 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Weeder, finger weeder</path>
+         <name>Weeder, finger weeder</name>
+         <comment>"Finger weeder for weed control under tree rows of growing orchard, vineyard, or tree crops. Tree crop is not killed. This is a device that has a set of rotating tines mounted on an arm mounted on the side of a tractor with sensors that sense the tree trunk and automatically advances and retracts the device to weed around trees."</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.50</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>.488</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

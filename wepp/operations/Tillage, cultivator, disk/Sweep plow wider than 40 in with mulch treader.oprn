@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Sweep plow wider  than 40 in w/ mulch treader</path>
+   <name>Sweep plow wider  than 40 in w/ mulch treader</name>
+   <comments>&amp;quot;'Stubble Mulch undercutter or blade plow, Sweeps or V-blades 30+  wide with a mulch treader attachment . Run shallow to undercut stubble and weeds.  The mulch treader attachment flattens, and anchors the straw and exposes the roots. 11/08/01  DTL REV 110207 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Sweep plow wider  than 40 in w/ mulch treader</path>
+         <name>Sweep plow wider  than 40 in w/ mulch treader</name>
+         <comment>"Stubble Mulch undercutter or blade plow. Sweeps or V blades 30+ inches wide with a mulch treader attachment. Run shallow to undercut stubble and weeds. The mulch treader attachment flattens, and anchors the straw and exposes the roots."</comment>
+         <weppkey />
+         <mfo1>0.65</mfo1>
+         <mfo2>0.65</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.65</rmfo1>
+         <rmfo2>0.65</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0889</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>2.93</ostir><oenergyarea>8.418531</oenergyarea></wepstags></weppoperation>

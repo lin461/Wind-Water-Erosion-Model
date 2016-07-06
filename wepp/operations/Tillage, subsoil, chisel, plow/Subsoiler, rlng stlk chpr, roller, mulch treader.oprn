@@ -1,0 +1,205 @@
+<weppoperation>
+   <path>operations\Subsoiler, rlng stlk chpr, roller, mulch treader</path>
+   <name>Subsoiler, rlng stlk chpr, roller, mulch treader</name>
+   <comments>&amp;quot;'This machine is a do-all type machine consisting of coulters, sub soil rippers, rolling stalk chopper, coulters, sub soil rippers, rolling stalk chopper, corregated roller and mulch treader devices all mounted on the same machine in this order.  090507 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, rlng stlk chpr, roller, mulch treader</path>
+         <name>Subsoiler, rlng stlk chpr, roller, mulch treader</name>
+         <comment>"This machine is a do-all type machine consisting of coulters, subsoil rippers, rolling stalk chopper, coulters, subsoil rippers, rolling stalk chopper, corrugated roller and mulch treader devices all mounted on the same machine in this order."</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0127</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.25</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, rlng stlk chpr, roller, mulch treader</path>
+         <name>Subsoiler, rlng stlk chpr, roller, mulch treader</name>
+         <comment>"This machine is a do-all type machine consisting of coulters, subsoil rippers, rolling stalk chopper, coulters, subsoil rippers, rolling stalk chopper, corrugated roller and mulch treader devices all mounted on the same machine in this order."</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.25</surdis>
+         <tdmean>0.3175</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, rlng stlk chpr, roller, mulch treader</path>
+         <name>Subsoiler, rlng stlk chpr, roller, mulch treader</name>
+         <comment>"This machine is a do-all type machine consisting of coulters, subsoil rippers, rolling stalk chopper, coulters, subsoil rippers, rolling stalk chopper, corrugated roller and mulch treader devices all mounted on the same machine in this order."</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.25</surdis>
+         <tdmean>0.3175</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, rlng stlk chpr, roller, mulch treader</path>
+         <name>Subsoiler, rlng stlk chpr, roller, mulch treader</name>
+         <comment>"This machine is a do-all type machine consisting of coulters, subsoil rippers, rolling stalk chopper, coulters, subsoil rippers, rolling stalk chopper, corrugated roller and mulch treader devices all mounted on the same machine in this order."</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, rlng stlk chpr, roller, mulch treader</path>
+         <name>Subsoiler, rlng stlk chpr, roller, mulch treader</name>
+         <comment>"This machine is a do-all type machine consisting of coulters, subsoil rippers, rolling stalk chopper, coulters, subsoil rippers, rolling stalk chopper, corrugated roller and mulch treader devices all mounted on the same machine in this order."</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0127</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.25</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, rlng stlk chpr, roller, mulch treader</path>
+         <name>Subsoiler, rlng stlk chpr, roller, mulch treader</name>
+         <comment>"This machine is a do-all type machine consisting of coulters, subsoil rippers, rolling stalk chopper, coulters, subsoil rippers, rolling stalk chopper, corrugated roller and mulch treader devices all mounted on the same machine in this order."</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.25</surdis>
+         <tdmean>0.3175</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, rlng stlk chpr, roller, mulch treader</path>
+         <name>Subsoiler, rlng stlk chpr, roller, mulch treader</name>
+         <comment>"This machine is a do-all type machine consisting of coulters, subsoil rippers, rolling stalk chopper, coulters, subsoil rippers, rolling stalk chopper, corrugated roller and mulch treader devices all mounted on the same machine in this order."</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.25</surdis>
+         <tdmean>0.3175</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, rlng stlk chpr, roller, mulch treader</path>
+         <name>Subsoiler, rlng stlk chpr, roller, mulch treader</name>
+         <comment>"This machine is a do-all type machine consisting of coulters, subsoil rippers, rolling stalk chopper, coulters, subsoil rippers, rolling stalk chopper, corrugated roller and mulch treader devices all mounted on the same machine in this order."</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, rlng stlk chpr, roller, mulch treader</path>
+         <name>Subsoiler, rlng stlk chpr, roller, mulch treader</name>
+         <comment>"This machine is a do-all type machine consisting of coulters, subsoil rippers, rolling stalk chopper, coulters, subsoil rippers, rolling stalk chopper, corrugated roller and mulch treader devices all mounted on the same machine in this order."</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, rlng stlk chpr, roller, mulch treader</path>
+         <name>Subsoiler, rlng stlk chpr, roller, mulch treader</name>
+         <comment>"This machine is a do-all type machine consisting of coulters, subsoil rippers, rolling stalk chopper, coulters, subsoil rippers, rolling stalk chopper, corrugated roller and mulch treader devices all mounted on the same machine in this order."</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>59.96</ostir><oenergyarea>26.190987</oenergyarea></wepstags></weppoperation>

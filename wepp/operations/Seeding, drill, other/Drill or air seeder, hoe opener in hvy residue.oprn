@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Drill or air seeder, hoe opener in hvy residue</path>
+   <name>Drill or air seeder, hoe opener in hvy residue</name>
+   <comments>&amp;quot;'Airseeder, hoe opener on 10 to 15  row spacing and 3 wide presswheels operated in sod or more than 4000# residue mass.  Based on Drill, hoe opener. 01-10-02 DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Drill or air seeder, hoe opener in hvy residue</path>
+         <name>Drill or air seeder, hoe opener in hvy residue</name>
+         <comment>"Airseeder, hoe opener on 10 to 15 row spacing and 3 wide presswheels operated in sod or more than 4000# residue mass. Based on Drill, hoe opener. 01-10-02 DTL deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.65</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>16.9</ostir><oenergyarea>6.921904</oenergyarea></wepstags></weppoperation>

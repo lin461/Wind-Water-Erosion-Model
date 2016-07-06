@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Harrow, rolling</path>
+   <name>Harrow, rolling</name>
+   <comments>'Rolling Harrow similar to Unverferth single basket reel.  Built from a combination of coil tine harrow and rolling basket. 09-16-11 GGF'</comments>
+   <process>
+      <tillage>
+         <path>operations\Harrow, rolling</path>
+         <name>Harrow, rolling</name>
+         <comment>Rolling harrow similar to Unverferth single basket reel. Built from a combination of coil tine harrow and rolling basket.</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.08</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Harrow, rolling</path>
+         <name>Harrow, rolling</name>
+         <comment>Rolling harrow similar to Unverferth single basket reel. Built from a combination of coil tine harrow and rolling basket.</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.08</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>17.225 </ostir><oenergyarea>5.3317366</oenergyarea></wepstags></weppoperation>

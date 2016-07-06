@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Lister, 30 in with fert applic.</path>
+   <name>Lister, 30 in with fert applic.</name>
+   <comments>'30 in lister 122106 DTL with Minimum disturbance fertilizer injector shank on 15 inch spacing 110207 DTL developed 091611 ggf'</comments>
+   <process>
+      <tillage>
+         <path>operations\Lister, 30 in with fert applic.</path>
+         <name>Lister, 30 in with fert applic.</name>
+         <comment>30 inch lister with minimum disturbance fertilizer injector shank on 15 inch spacing developed</comment>
+         <weppkey />
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.20</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Lister, 30 in with fert applic.</path>
+         <name>Lister, 30 in with fert applic.</name>
+         <comment>30 inch lister with minimum disturbance fertilizer injector shank on 15 inch spacing developed</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.4</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1397</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>37.44 </ostir><oenergyarea>14.030887</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Oats, winter S.E.</path>
+<name>Oats, winter S.E.</name>
+<comments>'Oats, winter Southeast ,Drilled in 7 inch rows.  Base location Jackson, MS    No dormant period in the winter. 10/28/01 DTL'</comments>
+<weppkey>L_515_Oats</weppkey>
+<iplant>Cropland</iplant>
+<crunit>bushels</crunit>
+<bb>5.2</bb>
+<bbb>2.65</bbb>
+<beinp>30</beinp>
+<btemp>4</btemp>
+<cf>0.00059</cf>
+<crit>60</crit>
+<critvm>0.1</critvm>
+<cuthgt>0.15</cuthgt>
+<decfct>1</decfct>
+<diam>0.006</diam>
+<dlai>0.8</dlai>
+<dropfc>1</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>3</flivmx>
+<gddmax>1700</gddmax>
+<hi>0.5</hi>
+<hmax>0.24</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0032</oratea>
+<orater>0.0032</orater>
+<otemp>15</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.02</pltsp>
+<rdmax>0.3</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>bu/ac</hyldunits><tgtyield>60</tgtyield><grf>0.8</grf><hyldflag>0</hyldflag><hmx>1.2</hmx><rdmx>1.3716166</rdmx><topt>21.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>14</hyldwater></wepstags></weppcrop>

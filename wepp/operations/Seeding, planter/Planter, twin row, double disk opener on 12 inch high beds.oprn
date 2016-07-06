@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, twin row, double disk opener on 12 inch high beds</path>
+   <name>Planter, twin row, double disk opener on 12 inch high beds</name>
+   <comments>'Twin Row Double disk opener planter on existing 12 inch high beds or ridges leaving a 10 inch ridge after planting.  11-06-12 DTL'</comments>
+   <process>
+      <plant-annual>
+         <name />
+      </plant-annual>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, twin row, double disk opener on 12 inch high beds</path>
+         <name>Planter, twin row, double disk opener on 12 inch high beds</name>
+         <comment>Twin Row Double disk opener planter on existing 12 inch high beds or ridges leaving a 10 inch ridge after planting.</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.254</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.30</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>2.44</ostir><oenergyarea>4.1157265</oenergyarea></wepstags></weppoperation>

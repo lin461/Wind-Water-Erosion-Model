@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, sprigs on beds</path>
+   <name>Planter, sprigs on beds</name>
+   <comments>&amp;quot;'Sprig planter on beds 110210 GGF and DTL  Added 15 lbs. live storage and 15 lbs root biomass default for new veg.  022212 DTL, deleted kill process 11/16/2012 DTL '&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, sprigs on beds</path>
+         <name>Planter, sprigs on beds</name>
+         <comment>"Sprig planter on beds 110210 GGF and DTL Added 15 lbs. Live storage and 15 lbs. Root biomass default for new veg 022212 DTL, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.127</rho>
+         <rint>0.36</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0889</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>26</ostir><oenergyarea>4.2092657</oenergyarea></wepstags></weppoperation>

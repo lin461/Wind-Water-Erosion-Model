@@ -1,0 +1,85 @@
+<weppoperation>
+   <path>operations\Subsoil disk ripper, coulter smooth, rlng bskt</path>
+   <name>Subsoil disk ripper, coulter smooth, rlng bskt</name>
+   <comments>'Subsoil ripper with tandem disk gangs in front and leveling disks behind.  Similar to a Krause Dominator. Fuel consumption about the same as  disk-ripper  per grower observation.  Rec. speed from company brochure.  GGF 09/16/11.  '</comments>
+   <process>
+      <tillage>
+         <path>operations\Subsoil disk ripper, coulter smooth, rlng bskt</path>
+         <name>Subsoil disk ripper, coulter smooth, rlng bskt</name>
+         <comment>Subsoil ripper with tandem disk gangs in front and leveling disks behind. Similar to a Krause Dominator. Fuel consumption about the same as disk-ripper per grower observation. Rec. speed from company brochure.</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0127</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.25</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoil disk ripper, coulter smooth, rlng bskt</path>
+         <name>Subsoil disk ripper, coulter smooth, rlng bskt</name>
+         <comment>Subsoil ripper with tandem disk gangs in front and leveling disks behind. Similar to a Krause Dominator. Fuel consumption about the same as disk-ripper per grower observation. Rec. speed from company brochure.</comment>
+         <weppkey />
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.75</surdis>
+         <tdmean>0.381</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoil disk ripper, coulter smooth, rlng bskt</path>
+         <name>Subsoil disk ripper, coulter smooth, rlng bskt</name>
+         <comment>Subsoil ripper with tandem disk gangs in front and leveling disks behind. Similar to a Krause Dominator. Fuel consumption about the same as disk-ripper per grower observation. Rec. speed from company brochure.</comment>
+         <weppkey />
+         <mfo1>0.65</mfo1>
+         <mfo2>0.65</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.65</rmfo1>
+         <rmfo2>0.65</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoil disk ripper, coulter smooth, rlng bskt</path>
+         <name>Subsoil disk ripper, coulter smooth, rlng bskt</name>
+         <comment>Subsoil ripper with tandem disk gangs in front and leveling disks behind. Similar to a Krause Dominator. Fuel consumption about the same as disk-ripper per grower observation. Rec. speed from company brochure.</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>66.81</ostir><oenergyarea>25.255596</oenergyarea></wepstags></weppoperation>

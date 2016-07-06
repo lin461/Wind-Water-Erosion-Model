@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Bedder, hipper, hiller 15 in high</path>
+   <name>Bedder, hipper, hiller 15 in high</name>
+   <comments>'Bedder/hipper/ridger with high 15 inch ridges.02-28-02 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Bedder, hipper, hiller 15 in high</path>
+         <name>Bedder, hipper, hiller 15 in high</name>
+         <comment>Bedder/hipper/ridger with high 15 ince ridges</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.381</rho>
+         <rint>0.75</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1778</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>45.5</ostir><oenergyarea>5.6123548</oenergyarea></wepstags></weppoperation>

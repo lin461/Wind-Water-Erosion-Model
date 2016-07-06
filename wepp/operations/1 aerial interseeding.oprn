@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations</path>
+<name>1 aerial interseeding</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>.15</ostir><oenergyarea>1.2160101</oenergyarea></wepstags></weppoperation>

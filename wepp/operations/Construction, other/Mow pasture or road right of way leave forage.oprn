@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Construction, other</path>
+<name>Mow pasture or road right of way leave forage</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>.15</ostir><oenergyarea>33.674126</oenergyarea></wepstags></weppoperation>

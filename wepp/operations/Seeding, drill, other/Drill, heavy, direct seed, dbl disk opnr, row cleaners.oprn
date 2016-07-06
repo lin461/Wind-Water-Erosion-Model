@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Drill, heavy, direct seed, dbl disk opnr w/row cleaners</path>
+   <name>Drill, heavy, direct seed, dbl disk opnr w/row cleaners</name>
+   <comments>&amp;quot;'Very Heavy direct seeding drill used for one pass seeding. Also equipped with disk or residue manager row cleaners ahead of the units.  Surface disturbance is 90% and greater.  This drill is typified by the  Yielder  drills used in the Palouse area of the Pacific Nothwest.  REV. 04-17-02 DTL , deleted kill process 11/16/2012 DTL '&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Drill, heavy, direct seed, dbl disk opnr w/row cleaners</path>
+         <name>Drill, heavy, direct seed, dbl disk opnr w/row cleaners</name>
+         <comment>"Very Heavy direct seeding drill used for one pass seeding. Also equipped with disk or residue manager row cleaners ahead of the units. Surface disturbance is 90% and greater. This drill is typified by the Yielder drills used in the Palouse area of the Pacific Northwest. REV. 04-17-02 DTL, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.95</mfo1>
+         <mfo2>0.95</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.95</rmfo1>
+         <rmfo2>0.95</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.90</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>17.55</ostir><oenergyarea>12.160101</oenergyarea></wepstags></weppoperation>

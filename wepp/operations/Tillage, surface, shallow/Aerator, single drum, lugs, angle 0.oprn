@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Aerator, single drum, lugs, angle 0</path>
+   <name>Aerator, single drum, lugs, angle 0</name>
+   <comments>&amp;quot;'Drum aerator typified by the Lawson Single Drum Pasture Aerator .  Ground driven  roller drum with 6  blade lugs attached to a large roller drum mounted on a rotating shaft pulled across the soil. Punches holes and shatters soil as the blades rotate out of the soil.  Moderate soil disturbance, inversion and residue burial.  Drum is perpendicular to direction of travel with blade lugs mounted in a spiral fashion to reduce bounce.  020309 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Aerator, single drum, lugs, angle 0</path>
+         <name>Aerator, single drum, lugs, angle 0</name>
+         <comment>"Drum aerator typified by the Lawson Single Drum Pasture Aerator. Ground driven roller drum with 6 blade lugs attached to a large roller drum mounted on a rotating shaft pulled across the soil. Punches holes and shatters soil as  the blades rotate out of the soil. Moderate soil disturbance, inversion and residue burial. Drum is perpendicular to direction of travel with blade lugs mounted in a spiral fashion to reduce bounce."</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0.2</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.33</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>11.583</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

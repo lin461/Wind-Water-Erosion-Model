@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harrow, rotary, light, fluff residue</path>
+   <name>Harrow, rotary, light, fluff residue</name>
+   <comments>'Rotary harrow used preplant in No-till to  fluff  residue.  Rotary harrow set to low angle of aggression of 25 degrees or less to lift residue with minimal soil mixing.  Rev 091405 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Harrow, rotary, light, fluff residue</path>
+         <name>Harrow, rotary, light, fluff residue</name>
+         <comment>Rotary harrow used to preplant in No-till to fluff residue. Rotary harrow set to low angle of aggression of 25 degrees or less to lift residue with minimal soil mixing.</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0.05</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.50</surdis>
+         <tdmean>0.0254</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>.73</ostir><oenergyarea>4.1157265</oenergyarea></wepstags></weppoperation>

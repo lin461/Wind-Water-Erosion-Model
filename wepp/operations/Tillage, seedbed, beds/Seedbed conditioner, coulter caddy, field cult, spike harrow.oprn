@@ -1,0 +1,65 @@
+<weppoperation>
+   <path>operations\Seedbed conditioner, coulter caddy, field cult, spike harrow</path>
+   <name>Seedbed conditioner, coulter caddy, field cult, spike harrow</name>
+   <comments>&amp;quot;'Seedbed conditioner consisting of a coulter caddy, and a coiled tine harrow.    103107 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Seedbed conditioner, coulter caddy, field cult, spike harrow</path>
+         <name>Seedbed conditioner, coulter caddy, field cult, spike harrow</name>
+         <comment>"Seedbed conditioner consisting of a coulter caddy, and a coiled tine harrow"</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Seedbed conditioner, coulter caddy, field cult, spike harrow</path>
+         <name>Seedbed conditioner, coulter caddy, field cult, spike harrow</name>
+         <comment>"Seedbed conditioner consisting of a coulter caddy, and a coiled tine harrow"</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1016</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Seedbed conditioner, coulter caddy, field cult, spike harrow</path>
+         <name>Seedbed conditioner, coulter caddy, field cult, spike harrow</name>
+         <comment>"Seedbed conditioner consisting of a coulter caddy, and a coiled tine harrow"</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.4</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>22.43</ostir><oenergyarea>5.1446586</oenergyarea></wepstags></weppoperation>

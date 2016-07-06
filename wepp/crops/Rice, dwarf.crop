@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Rice, dwarf var. CA, winter flooded</path>
+<name>Rice, dwarf var. CA, winter flooded</name>
+<comments>'Rice, dwarf varieties with low residue production in California.  This record represents winter flooding and wet rice rolling techniques with additional decomposition caused by winter feeding water fowl.  The residue record used has a decomposition rate based on at least 18 inches of irrigation water added in the  Irrigation  box in the management screen when making the run on flooded rice production.  6 inches should be entered when the winter flooding begins and another 12 inches during the growing season.  Additional decomposition is caused by large numbers of water fowl that winter on the winter flooded rice fields and feed on the residue thus increasing the decomposition slightly. Rev 062305 DTL'</comments>
+<weppkey>L_650_Rice</weppkey>
+<iplant>cropland</iplant>
+<crunit>weppwillset</crunit>
+<bb>5.2</bb>
+<bbb>2.65</bbb>
+<beinp>35</beinp>
+<btemp>4</btemp>
+<cf>5.4</cf>
+<crit>45</crit>
+<critvm>0</critvm>
+<cuthgt>0.15</cuthgt>
+<decfct>0.2</decfct>
+<diam>0.005</diam>
+<dlai>0.8</dlai>
+<dropfc>0</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>3</flivmx>
+<gddmax>1500</gddmax>
+<hi>0.473684211</hi>
+<hmax>0.7620093</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0097</oratea>
+<orater>0.0097</orater>
+<otemp>25</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.005</pltsp>
+<rdmax>0.9</rdmax>
+<rsr>0.102469136</rsr>
+<rtmmax>1</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>cwt/ac</hyldunits><tgtyield>90</tgtyield><grf>0.8</grf><hyldflag>0</hyldflag><hmx>0.76200926</hmx><rdmx>0.9</rdmx><topt>25.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>9.7</hyldwater></wepstags></weppcrop>

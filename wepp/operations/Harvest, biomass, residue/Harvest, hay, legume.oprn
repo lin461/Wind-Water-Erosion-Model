@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Harvest, biomass, residue</path>
+<name>Harvest, hay, legume</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>.15</ostir><oenergyarea>17.959534</oenergyarea></wepstags></weppoperation>

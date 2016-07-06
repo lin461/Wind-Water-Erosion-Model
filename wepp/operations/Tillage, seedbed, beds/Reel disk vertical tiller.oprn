@@ -1,0 +1,85 @@
+<weppoperation>
+   <path>operations\Reel disk vertical tiller</path>
+   <name>Reel disk vertical tiller</name>
+   <comments>&amp;quot;'Like McFarlane Reel Disk machine with single gang of smooth coulters on a shaft, on a slight angle followed by a rolling stalk chopper reel, a spike harrow and a rolling basket.     110110 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Reel disk vertical tiller</path>
+         <name>Reel disk vertical tiller</name>
+         <comment>"Like McFarlane Reel Disk machine with single gang smooth coulters on a shaft, on a slight angle followed by a rolling stalk chopper reel, a spike harrow and a rolling basket."</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0127</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.40</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Reel disk vertical tiller</path>
+         <name>Reel disk vertical tiller</name>
+         <comment>"Like McFarlane Reel Disk machine with single gang smooth coulters on a shaft, on a slight angle followed by a rolling stalk chopper reel, a spike harrow and a rolling basket."</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Reel disk vertical tiller</path>
+         <name>Reel disk vertical tiller</name>
+         <comment>"Like McFarlane Reel Disk machine with single gang smooth coulters on a shaft, on a slight angle followed by a rolling stalk chopper reel, a spike harrow and a rolling basket."</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Reel disk vertical tiller</path>
+         <name>Reel disk vertical tiller</name>
+         <comment>"Like McFarlane Reel Disk machine with single gang smooth coulters on a shaft, on a slight angle followed by a rolling stalk chopper reel, a spike harrow and a rolling basket."</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>44.95</ostir><oenergyarea>7.9508357</oenergyarea></wepstags></weppoperation>

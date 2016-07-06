@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Grass seed, fall seeding</path>
+<name>Grass seed, fall seeding</name>
+<comments>'03-19-02 DTL, rev 6/9/03 gawFall planted grass for seed production.  Record begins at fall seeding and ends at seed harvest.Repr. location- western Oregon '</comments>
+<weppkey>L_360_Grass</weppkey>
+<iplant>Cropland</iplant>
+<crunit>weppWillSet</crunit>
+<bb>6</bb>
+<bbb>2</bbb>
+<beinp>15</beinp>
+<btemp>10</btemp>
+<cf>5</cf>
+<crit>30</crit>
+<critvm>0.1</critvm>
+<cuthgt>0.152</cuthgt>
+<decfct>0.7</decfct>
+<diam>0.0022</diam>
+<dlai>0.85</dlai>
+<dropfc>0.9</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>12</flivmx>
+<gddmax>0</gddmax>
+<hi>0.818181818</hi>
+<hmax>0.5</hmax>
+<mfocod>Fragile</mfocod>
+<oratea>0.017</oratea>
+<orater>0.017</orater>
+<otemp>25</otemp>
+<pltol>0</pltol>
+<pltsp>0.006</pltsp>
+<rdmax>0.3</rdmax>
+<rsr>2.222222222</rsr>
+<rtmmax>0.5604245</rtmmax>
+<spriod>14</spriod>
+<tmpmax>30</tmpmax>
+<tmpmin>0.1</tmpmin>
+<xmxlai>7</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lbs/ac</hyldunits><tgtyield>1200</tgtyield><grf>0.8</grf><hyldflag>1</hyldflag><hmx>1</hmx><rdmx>2</rdmx><topt>21.11111111111111</topt><cbaflag>0</cbaflag><hyconfact /><stemdia>0.0020</stemdia><hyldwater>0</hyldwater></wepstags></weppcrop>

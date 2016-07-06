@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Sprayer, defoliant</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>1.2160101</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>.15</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Sprayer operation, defoliant applied prior to crop harvest.
+Example:  application prior to cotton harvest.  Stops all plant crop growth.
+Does not kill crop.  Moves leaf biomass to residue.
+
+</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Sprayer, defoliant as used on cotton or other crops.  082806 DTL
+
+Stops all plant crop growth.  10-27-06 MAS
+
+Moves leaves from plant to flat residue.
+There seems to be a drop in yield since the leaves are gone for the last 2 week period.
+May need to adjust calibration (bioadjustement) when using this operation.  MAS 4-11-08
+LMOD and WEPS DB correlation, existing WEPS operation record, 160410 jp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>31</id>
+		</identity>
+		<param>
+			<name>kilflag</name>
+			<value>3</value>
+		</param>
+	</actionvalue>
+</operationDB>

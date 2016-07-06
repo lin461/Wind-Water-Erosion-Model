@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Planter, double disk opnr with starter fertilizer</path>
+   <name>Planter, double disk opnr with starter fertilizer</name>
+   <comments>&amp;quot;'6/7/01 DTL revised planter, double disk opnr to add starter fertilizer operation. rev 8/30/11 LOS, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Planter, double disk opnr with starter fertilizer</path>
+         <name>Planter, double disk opnr with starter fertilizer</name>
+         <comment>"6/7/01 DTL revised planter, double disk opener to add starter fertilizer operation. REV 8/30/11 LOS, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.20</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>3.25</ostir><oenergyarea>4.9575796</oenergyarea></wepstags></weppoperation>

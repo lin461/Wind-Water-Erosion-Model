@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Cultivator, row - 1st pass ridge till</path>
+   <name>Cultivator, row - 1st pass ridge till</name>
+   <comments>'060701 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Cultivator, row - 1st pass ridge till</path>
+         <name>Cultivator, row - 1st pass ridge till</name>
+         <comment>Rotary row crop cultivator operated on performed beds with spider gangs typified by the Lilliston Rolling Cultivator.</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.90</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>17.55</ostir><oenergyarea>5.799433</oenergyarea></wepstags></weppoperation>

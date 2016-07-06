@@ -1,0 +1,105 @@
+<weppoperation>
+   <path>operations\Chisel plow, coulter, st. pts., cover disks, rlng basket</path>
+   <name>Chisel plow, coulter, st. pts., cover disks, rlng basket</name>
+   <comments>&amp;quot;'Coulter caddy chisel plow with straight points or winged straight points, 2 ranks of leveling disks and a rolling basket incorporator. May be equipped with Phillips harrow in front of coulters.  Typical of the Krause  Dominator   033109 DTL  modified energy use 092711 LOS'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Chisel plow, coulter, st. pts., cover disks, rlng basket</path>
+         <name>Chisel plow, coulter, st. pts., cover disks, rlng basket</name>
+         <comment>"Coulter caddy chisel plow with straight points or winged straight points, 2 ranks of leveling disks and a rolling basket incorporator. May be equipped with Phillips harrow in front of coulters. Typical of the Krause Dominator 033109 DTL modified energy use"</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.50</surdis>
+         <tdmean>0.0254</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Chisel plow, coulter, st. pts., cover disks, rlng basket</path>
+         <name>Chisel plow, coulter, st. pts., cover disks, rlng basket</name>
+         <comment>"Coulter caddy chisel plow with straight points or winged straight points, 2 ranks of leveling disks and a rolling basket incorporator. May be equipped with Phillips harrow in front of coulters. Typical of the Krause Dominator 033109 DTL modified energy use"</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.55</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Chisel plow, coulter, st. pts., cover disks, rlng basket</path>
+         <name>Chisel plow, coulter, st. pts., cover disks, rlng basket</name>
+         <comment>"Coulter caddy chisel plow with straight points or winged straight points, 2 ranks of leveling disks and a rolling basket incorporator. May be equipped with Phillips harrow in front of coulters. Typical of the Krause Dominator 033109 DTL modified energy use"</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1524</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Chisel plow, coulter, st. pts., cover disks, rlng basket</path>
+         <name>Chisel plow, coulter, st. pts., cover disks, rlng basket</name>
+         <comment>"Coulter caddy chisel plow with straight points or winged straight points, 2 ranks of leveling disks and a rolling basket incorporator. May be equipped with Phillips harrow in front of coulters. Typical of the Krause Dominator 033109 DTL modified energy use"</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Chisel plow, coulter, st. pts., cover disks, rlng basket</path>
+         <name>Chisel plow, coulter, st. pts., cover disks, rlng basket</name>
+         <comment>"Coulter caddy chisel plow with straight points or winged straight points, 2 ranks of leveling disks and a rolling basket incorporator. May be equipped with Phillips harrow in front of coulters. Typical of the Krause Dominator 033109 DTL modified energy use"</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>70.49</ostir><oenergyarea>16.837063</oenergyarea></wepstags></weppoperation>

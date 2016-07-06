@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Cultivator, rotary on beds, Bedder, hipper, disk hiller</path>
+   <name>Cultivator, rotary on beds, Bedder, hipper, disk hiller</name>
+   <comments>&amp;quot;'Rotary row crop cultivator operated on preformed beds with spider gangs typified by the Lilliston Rolling Cultivator followed by shovels to reform furrow. 082907 DTL rev 91311 ggf;  revised to delete kill veg process since the bedder, hipper, disk hiller behind the row cultivators clean up the furrow during the growing season. 112211 los'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Cultivator, rotary on beds, Bedder, hipper, disk hiller</path>
+         <name>Cultivator, rotary on beds, Bedder, hipper, disk hiller</name>
+         <comment>"Rotary row crop cultivator operated on performed beds with spider gangs typified by the Lilliston Rolling Cultivator followed by shovels to reform furrow. 082907 DTL re 91311 ggf; revised to delete kill veg process since the bedder, hipper, disk hiller behind the row cultivators clean up the furrow during the growing season"</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Cultivator, rotary on beds, Bedder, hipper, disk hiller</path>
+         <name>Cultivator, rotary on beds, Bedder, hipper, disk hiller</name>
+         <comment>"Rotary row crop cultivator operated on performed beds with spider gangs typified by the Lilliston Rolling Cultivator followed by shovels to reform furrow. 082907 DTL re 91311 ggf; revised to delete kill veg process since the bedder, hipper, disk hiller behind the row cultivators clean up the furrow during the growing season"</comment>
+         <weppkey />
+         <mfo1>0.9</mfo1>
+         <mfo2>0.9</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.9</rmfo1>
+         <rmfo2>0.9</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1651</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>27.43</ostir><oenergyarea>7.857296</oenergyarea></wepstags></weppoperation>

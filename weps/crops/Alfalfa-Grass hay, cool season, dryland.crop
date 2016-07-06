@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="crop_db.xsl"?>
+<!DOCTYPE cropDB SYSTEM "crop_db.dtd">
+<!-- crop_db.dtd: Provided here for reference-->
+<!--
+<!ELEMENT cropDB (cropname, param*)>
+<!ELEMENT cropname (#PCDATA)>
+<!ELEMENT param (name,value)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT value (#PCDATA)>
+-->
+<cropDB>
+	<cropname>Alfalfa-Grass hay, cool season, dryland</cropname>
+	<param>
+		<name>plantpop</name>
+		<value>688.0</value>
+	</param>
+	<param>
+		<name>dmaxshoot</name>
+		<value>1.0</value>
+	</param>
+	<param>
+		<name>cbaflag</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>tgtyield</name>
+		<value>1.5</value>
+	</param>
+	<param>
+		<name>cbafact</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>cyrafact</name>
+		<value>1.0</value>
+	</param>
+	<param>
+		<name>hyldflag</name>
+		<value>2</value>
+	</param>
+	<param>
+		<name>hyldunits</name>
+		<value>ton/ac</value>
+	</param>
+	<param>
+		<name>hyldwater</name>
+		<value>15.0</value>
+	</param>
+	<param>
+		<name>hyconfact</name>
+		<value>4.465</value>
+	</param>
+	<param>
+		<name>idc</name>
+		<value>3</value>
+	</param>
+	<param>
+		<name>grf</name>
+		<value>1.0</value>
+	</param>
+	<param>
+		<name>ck</name>
+		<value>0.69</value>
+	</param>
+	<param>
+		<name>hui0</name>
+		<value>0.9</value>
+	</param>
+	<param>
+		<name>hmx</name>
+		<value>1.0</value>
+	</param>
+	<param>
+		<name>growdepth</name>
+		<value>0.01</value>
+	</param>
+	<param>
+		<name>rdmx</name>
+		<value>2.0</value>
+	</param>
+	<param>
+		<name>tbas</name>
+		<value>3.0</value>
+	</param>
+	<param>
+		<name>topt</name>
+		<value>30.0</value>
+	</param>
+	<param>
+		<name>thudf</name>
+		<value>1</value>
+	</param>
+	<param>
+		<name>dtm</name>
+		<value>120</value>
+	</param>
+	<param>
+		<name>thum</name>
+		<value>1800.0</value>
+	</param>
+	<param>
+		<name>frsx1</name>
+		<value>-5.0</value>
+	</param>
+	<param>
+		<name>frsx2</name>
+		<value>-9.444445</value>
+	</param>
+	<param>
+		<name>frsy1</name>
+		<value>0.01</value>
+	</param>
+	<param>
+		<name>frsy2</name>
+		<value>0.95</value>
+	</param>
+	<param>
+		<name>verndel</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>bceff</name>
+		<value>25</value>
+	</param>
+	<param>
+		<name>a_lf</name>
+		<value>0.023</value>
+	</param>
+	<param>
+		<name>b_lf</name>
+		<value>0.55</value>
+	</param>
+	<param>
+		<name>c_lf</name>
+		<value>0.63</value>
+	</param>
+	<param>
+		<name>d_lf</name>
+		<value>-0.061</value>
+	</param>
+	<param>
+		<name>a_rp</name>
+		<value>-0.024</value>
+	</param>
+	<param>
+		<name>b_rp</name>
+		<value>0.9911</value>
+	</param>
+	<param>
+		<name>c_rp</name>
+		<value>0.6435</value>
+	</param>
+	<param>
+		<name>d_rp</name>
+		<value>0.0494</value>
+	</param>
+	<param>
+		<name>a_ht</name>
+		<value>0.5</value>
+	</param>
+	<param>
+		<name>b_ht</name>
+		<value>-0.09</value>
+	</param>
+	<param>
+		<name>ssaa</name>
+		<value>0.16108</value>
+	</param>
+	<param>
+		<name>ssab</name>
+		<value>0.5981</value>
+	</param>
+	<param>
+		<name>sla</name>
+		<value>30</value>
+	</param>
+	<param>
+		<name>huie</name>
+		<value>0.05</value>
+	</param>
+	<param>
+		<name>transf</name>
+		<value>0</value>
+	</param>
+	<param>
+		<name>diammax</name>
+		<value>0.3</value>
+	</param>
+	<param>
+		<name>storeinit</name>
+		<value>17.009697</value>
+	</param>
+	<param>
+		<name>mshoot</name>
+		<value>110.0</value>
+	</param>
+	<param>
+		<name>leafstem</name>
+		<value>0.6</value>
+	</param>
+	<param>
+		<name>fshoot</name>
+		<value>0.013</value>
+	</param>
+	<param>
+		<name>leaf2stor</name>
+		<value>0.2</value>
+	</param>
+	<param>
+		<name>stem2stor</name>
+		<value>0.2</value>
+	</param>
+	<param>
+		<name>stor2stor</name>
+		<value>0.1</value>
+	</param>
+	<param>
+		<name>rbc</name>
+		<value>2</value>
+	</param>
+	<param>
+		<name>standdk</name>
+		<value>0.0536</value>
+	</param>
+	<param>
+		<name>surfdk</name>
+		<value>0.0536</value>
+	</param>
+	<param>
+		<name>burieddk</name>
+		<value>0.0536</value>
+	</param>
+	<param>
+		<name>rootdk</name>
+		<value>0.0536</value>
+	</param>
+	<param>
+		<name>stemnodk</name>
+		<value>0.2</value>
+	</param>
+	<param>
+		<name>stemdia</name>
+		<value>0.0020</value>
+	</param>
+	<param>
+		<name>thrddys</name>
+		<value>20.0</value>
+	</param>
+	<param>
+		<name>covfact</name>
+		<value>5.227942</value>
+	</param>
+	<param>
+		<name>resevapa</name>
+		<value>-1.20379</value>
+	</param>
+	<param>
+		<name>resevapb</name>
+		<value>0.604887</value>
+	</param>
+	<param>
+		<name>yield_coefficient</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>residue_intercept</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>regrow_location</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>noparam3</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>noparam2</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>noparam1</name>
+		<value>0.0</value>
+	</param>
+	<param>
+		<name>crop_notes</name>
+		<value>See Alfalfa, hay notes.  This record was cloned from the Alfalfa file, and some of the factors changed to represent dryland alfalfa
+Yield is from and OR state crop guide and the growth trials were from MT.  Yield is set at 1.5 t/ac.
+Calibration of yield must be done manually by adding up the cuttings each year and averaging the years.
+If too high or too low use the biomass adjument factor to reduce or increase the forage produced.
+Grass is not considered in this file.  MAS 8-7-08
+
+The energy eff was adjusted to give good growth for a dryland yield in Weston Co, WY.  This was
+certified crop run.  MAS 12/18/08
+
+Changed the cover to mass value to match Fosters finest stem curve, Small Grain and Alfalfa.  Reference pg. 179 Ag Handbook 703.
+No crop has a larger number (finer stems) than .000586.  This matches RUSLE2.  MAS 12-21-10
+
+The biomass adjustment factor has been set to 1.0 from the 0.6 that Fred had.  The biomass conversion eff factor was moved from 30 to 24 to match yield
+of the standard alfalfa run in Moses Lake, WA and now in Yuma, AZ.  The record runs a little under the 6 ton/ac yield in ML, and somewhat over the 10 t/ac for
+Yuma.  The seed weight was increased from 0.00007 to 0.0006 to increase the intial growth of the fall planting.There is about 1500 lbs of growth going into
+winter in WA and about 2400 lbs/ac at the first harvest in AZ.    Yuma will need to lower the Biomass Adjustment factor to 0.8 to get the 12 t/ac yield needed.
+MAS 7-6-11</value>
+	</param>
+	<param>
+		<name>crop_devnotes</name>
+		<value>Enter dev notes here.</value>
+	</param>
+</cropDB>

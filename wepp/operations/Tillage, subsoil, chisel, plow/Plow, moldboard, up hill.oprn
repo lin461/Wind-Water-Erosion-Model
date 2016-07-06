@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Plow, moldboard, up hill</path>
+   <name>Plow, moldboard, up hill</name>
+   <comments>'Moldboard plow operated across slope with the furrow slice turned up hill in the NWRR and based on winter wheat.  Adapted from RUSLE1 database.  02-05-02 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Plow, moldboard, up hill</path>
+         <name>Plow, moldboard, up hill</name>
+         <comment>Moldboard plow operated across slope with the furrow slice turned up hill in the NWRR and based on winter wheat. Adapted from RUSLE1 database.</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.4</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.2032</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>52</ostir><oenergyarea>17.491838</oenergyarea></wepstags></weppoperation>

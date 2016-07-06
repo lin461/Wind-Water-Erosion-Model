@@ -1,0 +1,10 @@
+<weppoperation>
+   <path>operations\Burn residue</path>
+   <name>Burn residue</name>
+   <comments>'6/7/01 DTL'</comments>
+   <process>
+      <burning>
+         <name />
+      </burning>
+   </process>
+<wepstags><ostir>0</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

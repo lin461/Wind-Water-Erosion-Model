@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Planter, RELAY INTERCROP,  double disk opnr w/fluted coulter</path>
+   <name>Planter, RELAY INTERCROP,  double disk opnr w/fluted coulter</name>
+   <comments>&amp;quot;'Planter with double disk openers and fluted coulters used in No-till relay intercropped soybeans in growing wheat.  This operation has no kill crop process thus the live wheat biomass is not converted to standing and flat residue.  Use about 60 days before wheat harvest to plant 30 inch soybeans in skip row wheat. 051905  DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Planter, RELAY INTERCROP,  double disk opnr w/fluted coulter</path>
+         <name>Planter, RELAY INTERCROP,  double disk opnr w/fluted coulter</name>
+         <comment>"Planter with double disk openers and fluted coulters used in No-till relay intercropped soybeans in growing wheat. This operation has no kill crop process thus the live wheat biomass is not converted to standing and flat residue. Use about 60 days before wheat harvest to plant 30 inch soybeans in skip row wheat. 051905 DTL, deleted kill process."</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.15</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>2.44</ostir><oenergyarea>4.1157265</oenergyarea></wepstags></weppoperation>

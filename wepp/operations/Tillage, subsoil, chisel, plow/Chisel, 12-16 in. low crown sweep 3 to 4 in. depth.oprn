@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Chisel, 12-16 in. low crown sweep 3 to 4  in. depth</path>
+   <name>Chisel, 12-16 in. low crown sweep 3 to 4  in. depth</name>
+   <comments>'Chisel plow with 12 to 16 inch low crown sweeps operating at 3 to 4 inch depth 022806 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Chisel, 12-16 in. low crown sweep 3 to 4  in. depth</path>
+         <name>Chisel, 12-16 in. low crown sweep 3 to 4  in. depth</name>
+         <comment>Chisel plow with 12 to 16 inch low crown sweeps operating at 3 to 4 inch depth</comment>
+         <weppkey />
+         <mfo1>0.7</mfo1>
+         <mfo2>0.7</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.7</rmfo1>
+         <rmfo2>0.7</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0889</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>25.03</ostir><oenergyarea>6.921904</oenergyarea></wepstags></weppoperation>

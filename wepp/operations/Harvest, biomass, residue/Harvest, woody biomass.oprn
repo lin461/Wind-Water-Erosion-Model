@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Harvest, biomass, residue</path>
+<name>Harvest, woody biomass</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0.15</ostir><oenergyarea>8.886228</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Sorghum, grain, hi biomass var.</path>
+<name>Sorghum, grain, hi biomass var.</name>
+<comments>'Grain sorghum, 70bu yield.  30  row spacing.  Base location southern plains 042104 DTL  This file has a higher residue to grain ratio at lower yields than the CORE Grain Sorghum file. Be sure to reset the yield for the scenario in profile or worksheet.'</comments>
+<weppkey>L_711_Sorghum</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>3.6</bb>
+<bbb>3</bbb>
+<beinp>25</beinp>
+<btemp>10</btemp>
+<cf>2.9</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.609</cuthgt>
+<decfct>0.9</decfct>
+<diam>0.032</diam>
+<dlai>0.8</dlai>
+<dropfc>0.9</dropfc>
+<extnct>0.6</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1450</gddmax>
+<hi>0.5</hi>
+<hmax>1.01</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0074</oratea>
+<orater>0.0074</orater>
+<otemp>27.5</otemp>
+<pltol>0</pltol>
+<pltsp>0.13</pltsp>
+<rdmax>1.5</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>40</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>bu/ac</hyldunits><tgtyield>64</tgtyield><grf>0.8</grf><hyldflag>0</hyldflag><hmx>1.5000000000000002</hmx><rdmx>1.5240185</rdmx><topt>27.5</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.01</stemdia><hyldwater>14</hyldwater></wepstags></weppcrop>

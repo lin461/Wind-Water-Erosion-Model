@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Graze, continuous, heavy hoof traffic</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>9.353924E-8</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>2.275</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Continuous Grazing system. Represents overgrazing.  Long duration grazing periods Rev 070904 DTL
+Created 11-27-07  This can be used as it is in RUSLE.  MAS
+
+Restructured processes.  Moved all grazing to O4 for energy and stir cal.
+
+Crop removal (green standing) is cal by using Rusle factors
+Port of Tt biomas affected (%)-(Port of Tt biomas affected (%))x(Portion of affected left on surface (%)
+Graze, continous Example: 0.3-(0.3 x 0.5) = 0.15
+
+Flattening Residue is cal by using Rusle Factors
+Port of Tt biomas affected (%) x Portion of affected left on surface (%)
+Graze, continous Example 0.3 x 0.5 = 0.15
+This value was used for the Mod residue (Wheat) values were reduced by 10% or increased by 10% of the value for each residue class.
+MAS 4-2-08
+Changed reports to include only the current green crop biomass.  Multiple report values are confusing users.  MAS 6-21-11
+LMOD and WEPS DB coordination update:  existing WEPS record, 160410 jkp </value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Continuous Grazing system. Represents overgrazing.  Long duration grazing periods Rev 070904 DTL
+Created 11-27-07  This can be used as it is in RUSLE.  MAS
+Restructured processes.  Moved all grazing to O4 for energy and stir cal.
+Crop removal (green standing) is cal by using Rusle factors
+Port of Tt biomas affected (%)-(Port of Tt biomas affected (%))x(Portion of affected left on surface (%)
+Graze, continous Example: 0.3-(0.3 x 0.5) = 0.15
+Flattening Residue is cal by using Rusle Factors
+Port of Tt biomas affected (%) x Portion of affected left on surface (%)
+Graze, continous Example 0.3 x 0.5 = 0.15
+This value was used for the Mod residue (Wheat) values were reduced by 10% or increased by 10% of the value for each residue class.
+MAS 4-2-08
+Changed reports to include only the current green crop biomass.  Multiple report values are confusing users.  MAS 6-21-11
+LMOD and WEPS DB coordination update:  new WEPS oprn, clone existing Graze continuous overgrazing 90 pct removal.oprn
+, adjusted parms to match name description, 160410 jkp.
+Flattening and Biomass/residue removal values updated to grazing intensity associated with oprn name and existing oprn parameters.
+Flattening fractions:  0.25, 0.20, 0.12 for fragile, mod tough, non fragile residue types, respectively.
+Biomass/residue removal:
+Crop:  		Grain/fruit 0.90, Leaf, 0.90, Stem 0.0
+Flat Residue:  		Grain/fruit 0.10, Leaf  0.10, Stem 0.10
+Standing Residue:	Grain/fruit 0.25, Leaf 0.25, Stem 0.25</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>62</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>selpos</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selpool</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selagepool</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>rstore</name>
+			<value>0.9</value>
+		</param>
+		<param>
+			<name>rleaf</name>
+			<value>0.9</value>
+		</param>
+		<param>
+			<name>rstem</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootstore</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootfiber</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>62</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>selpos</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>selpool</name>
+			<value>4</value>
+		</param>
+		<param>
+			<name>selagepool</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>rstore</name>
+			<value>.1</value>
+		</param>
+		<param>
+			<name>rleaf</name>
+			<value>0.1</value>
+		</param>
+		<param>
+			<name>rstem</name>
+			<value>.1</value>
+		</param>
+		<param>
+			<name>rrootstore</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootfiber</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>62</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>selpos</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selpool</name>
+			<value>4</value>
+		</param>
+		<param>
+			<name>selagepool</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>rstore</name>
+			<value>.25</value>
+		</param>
+		<param>
+			<name>rleaf</name>
+			<value>.25</value>
+		</param>
+		<param>
+			<name>rstem</name>
+			<value>0.25</value>
+		</param>
+		<param>
+			<name>rrootstore</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>rrootfiber</name>
+			<value>0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>24</id>
+		</identity>
+		<param>
+			<name>fbioflagvt</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>massflatvt1</name>
+			<value>0.25</value>
+		</param>
+		<param>
+			<name>massflatvt2</name>
+			<value>0.20</value>
+		</param>
+		<param>
+			<name>massflatvt3</name>
+			<value>0.12</value>
+		</param>
+		<param>
+			<name>massflatvt4</name>
+			<value>0.01</value>
+		</param>
+		<param>
+			<name>massflatvt5</name>
+			<value>0.01</value>
+		</param>
+	</actionvalue>
+</operationDB>

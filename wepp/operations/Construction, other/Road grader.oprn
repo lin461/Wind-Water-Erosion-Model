@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Road grader</path>
+   <name>Road grader</name>
+   <comments>&amp;quot;'Motor grader, Road grader or maintainer blade for filling and leveling dirt or gravel road material.   from RUSLE1.06.  062403 gaw.'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Road grader</path>
+         <name>Road grader</name>
+         <comment>"Motor grader, Road grader or maintainer blade for filling and leveling dirt or gravel road material"</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>5.2</ostir><oenergyarea>5.6123548</oenergyarea></wepstags></weppoperation>

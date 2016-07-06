@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, tree, mechanical transplanter</path>
+   <name>Planter, tree, mechanical transplanter</name>
+   <comments>&amp;quot;'Tree Planter, similar to an in-row chisel or subsoiler opener running behind  a large coulter, followed by a pair of rubber tire presswheels to close the furrow on the tree seedling.  Used for planting Christmas trees and for reforestation.  080503 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, tree, mechanical transplanter</path>
+         <name>Planter, tree, mechanical transplanter</name>
+         <comment>"Tree Planter, similar to an in-row chisel or subsoiler opener running behind a large coulter, followed by a pair of rubber tire presswheels to close the furrow on the tree seedling. Used for planting Christmas trees and for reforestation."</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.12</surdis>
+         <tdmean>0.254</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>0.01</ostir><oenergyarea>0.01</oenergyarea></wepstags></weppoperation>

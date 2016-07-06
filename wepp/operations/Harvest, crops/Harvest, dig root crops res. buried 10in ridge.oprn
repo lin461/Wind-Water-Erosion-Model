@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Harvest, dig root crops res. buried 10in ridge</path>
+   <name>Harvest, dig root crops res. buried 10in ridge</name>
+   <comments>&amp;quot;'Harvest, root crops like potatoes or sugar beets.  Surface is rough with 10  ridges and much of the residue is buried.  100108DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, dig root crops res. buried 10in ridge</path>
+         <name>Harvest, dig root crops res. buried 10in ridge</name>
+         <comment>"Harvest, root crops like potatoes or sugar beets. Surface is rough with 10 ridges and much of the residue is buried."</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.254</rho>
+         <rint>0.75</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1778</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Harvest, dig root crops res. buried 10in ridge</path>
+         <name>Harvest, dig root crops res. buried 10in ridge</name>
+         <comment>"Harvest, root crops like potatoes or sugar beets. Surface is rough with 10 ridges and much of the residue is buried."</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.254</rho>
+         <rint>0.75</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.02</surdis>
+         <tdmean>0.1778</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>27.85</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Harvest, crops</path>
+<name>Harvest, tobacco, flue cured, selective mechanical harvester</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0.15</ostir><oenergyarea>13.095493</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Harvest, biomass, residue</path>
+<name>Harvest, timber remove tops</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0.01</ostir><oenergyarea>0.01</oenergyarea></wepstags></weppoperation>

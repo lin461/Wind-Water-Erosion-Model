@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Rolling basket incorporator</path>
+   <name>Rolling basket incorporator</name>
+   <comments>&amp;quot;'Rolling Basket Incorporator.  Typically a component behind combination finishing tools, field cultivators or light tandem finishing disks.  Tool  levels surface, lightly incorporates fertilizer or chemicals.  rev103107  DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Rolling basket incorporator</path>
+         <name>Rolling basket incorporator</name>
+         <comment>"Rolling Basket Incorporator. Typically a component behind combination finishing tools, field cultivators, or light tandem finishing disks. Tool levels surface, lightly incorporates fertilizer or chemicals."</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.08</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>6.83</ostir><oenergyarea>2.338481</oenergyarea></wepstags></weppoperation>

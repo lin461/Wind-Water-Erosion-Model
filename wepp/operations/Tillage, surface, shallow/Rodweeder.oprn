@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Rodweeder</path>
+   <name>Rodweeder</name>
+   <comments>'6/8/01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Rodweeder</path>
+         <name>Rodweeder</name>
+         <comment />
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0.13</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>17.06</ostir><oenergyarea>4.3028054</oenergyarea></wepstags></weppoperation>

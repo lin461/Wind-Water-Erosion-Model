@@ -1,0 +1,10 @@
+<weppoperation>
+   <path>operations\Bale combine windrows</path>
+   <name>Bale combine windrows</name>
+   <comments>'Bale straw or residue windrows directly behind the combine. Revised flattening fractions. Affects all residue 022509 DTL'</comments>
+   <process>
+      <remove-residue>
+         <name />
+      </remove-residue>
+   </process>
+<wepstags><ostir>.15</ostir><oenergyarea>3.554491</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harrow, heavy</path>
+   <name>Harrow, heavy</name>
+   <comments>'Heavy Harrow. adapted from spring tooth harrow.  10/11/01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Harrow, heavy</path>
+         <name>Harrow, heavy</name>
+         <comment>Heavy harrow; adapted from spring tooth harrow</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.05</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>15.6</ostir><oenergyarea>4.1157265</oenergyarea></wepstags></weppoperation>

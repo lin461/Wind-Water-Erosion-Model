@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Mint, spring seed</path>
+<name>Mint, spring seed</name>
+<comments>'12/7/01 gawMint seeded in Spring.  Growth until first harvest.Yield represents hay harvest, not mint oil.Developed from alfalfa record.'</comments>
+<weppkey>L_478_Mint</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>5.2</bb>
+<bbb>3</bbb>
+<beinp>35</beinp>
+<btemp>4</btemp>
+<cf>6.4</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.152</cuthgt>
+<decfct>1</decfct>
+<diam>0.0064</diam>
+<dlai>0.9</dlai>
+<dropfc>1</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>3</flivmx>
+<gddmax>1700</gddmax>
+<hi>0.42</hi>
+<hmax>1</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0085</oratea>
+<orater>0.0085</orater>
+<otemp>15</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.005</pltsp>
+<rdmax>1.5</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>30</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lbs/ac</hyldunits><tgtyield>1100</tgtyield><grf>1</grf><hyldflag>2</hyldflag><hmx>1</hmx><rdmx>2</rdmx><topt>30</topt><cbaflag>0</cbaflag><hyconfact /><stemdia>0.0020</stemdia><hyldwater>50</hyldwater></wepstags></weppcrop>

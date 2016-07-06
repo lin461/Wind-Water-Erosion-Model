@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Harvest, hand pick</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>3.2738733</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>0.15</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Hand pick lettuce or similar crops or to represent one final picking of fruit or berry crops.
+Do not use for multiple pickings of fruit or berry crops unless a regrowth vegetation file representing
+regrowth between pickings is available in the database to be called in.
+This is not the case for strawberries.  12132011 DTL
+Added 3/29/07 MAS
+Reworked the values MAS 2-24-09
+Added the change to flat on the crop type.  8-27-10
+This operation takes all of the yield, and can be used to calibrate the yield. 12-27-11 MAS
+Adjusted the Energy use to 0.000000010 gal/ac  2-23-12
+
+Changed the fuel use from 0.000000010 to 0.36 g/ac 4-17-12 MAS
+LMOD and WEPS update correlation; new WEPS operation record, as previous translate,
+Harvest, tobacco, flue cured|rename|Harvest, hand pick, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Hand pick lettuce or similar crops or to represent one final picking of fruit or berry crops.
+Do not use for multiple pickings of fruit or berry crops unless a regrowth vegetation file representing
+regrowth between pickings is available in the database to be called in.
+This is not the case for strawberries.  12132011 DTL
+Added 3/29/07 MAS
+Reworked the values MAS 2-24-09
+Added the change to flat on the crop type.  8-27-10
+This operation takes all of the yield, and can be used to calibrate the yield. 12-27-11 MAS
+Adjusted the Energy use to 0.000000010 gal/ac  2-23-12
+
+Changed the fuel use from 0.000000010 to 0.36 g/ac 4-17-12 MAS
+LMOD and WEPS update correlation; new WEPS operation record, as previous translate,
+Harvest, tobacco, flue cured|rename|Harvest, hand pick, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>31</id>
+		</identity>
+		<param>
+			<name>kilflag</name>
+			<value>0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>62</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selpos</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>selpool</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>selagepool</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>rstore</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>rleaf</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rstem</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootstore</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootfiber</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+</operationDB>

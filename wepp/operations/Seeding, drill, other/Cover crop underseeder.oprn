@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Cover crop underseeder</path>
+   <name>Cover crop underseeder</name>
+   <comments>'A tool bar with Drill or Air seeder units with two single disk no-till openers spaced about 10 inches apart and operated in standing corn or wide row soybean at about a month to 5 weeks after planting to interseed a cover crop. 071310 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Cover crop underseeder</path>
+         <name>Cover crop underseeder</name>
+         <comment>A tool bar with Drill or Air seeder units with two single disk no-till openers spaced about 10 inches apart and operated in standing corn or wide row soybean at a bout a month to 5 weeks after planting to interseed a cover crop</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>10</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>.15</ostir><oenergyarea>1.2160101</oenergyarea></wepstags></weppoperation>

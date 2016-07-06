@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Fert applic. deep plcmt hvy shnk</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>13</ostir><oenergyarea>8.418531</oenergyarea></wepstags></weppoperation>

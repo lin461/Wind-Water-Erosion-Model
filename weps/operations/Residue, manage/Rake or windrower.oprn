@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Rake or windrower</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>2.338481</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>1.02</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Typically a side delivery, twin-rake or wheel rake used to windrow hay or residue.
+Does not cut stubble as in &amp;quot;Mower, swather&amp;quot; or remove residue. This operation followed by  &amp;quot;Bale straw or residue&amp;quot;,
+&amp;quot;Bale Corn stalk strips&amp;quot; or &amp;quot;Bale corn husks, cobs and chaff&amp;quot;.  Sometimes used to windrow wheat or
+corn residue in preparation for baling and removal.  071108 DTL
+
+Add this from RUSLE to WEPS. 1/9/09 MAS
+Added G1 to match the wheele tine disturbance  MAS 2-4-09
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Typically a side delivery, twin-rake or wheel rake used to windrow hay or residue.
+Does not cut stubble as in &amp;quot;Mower, swather&amp;quot; or remove residue. This operation followed by  &amp;quot;Bale straw or residue&amp;quot;,
+&amp;quot;Bale Corn stalk strips&amp;quot; or &amp;quot;Bale corn husks, cobs and chaff&amp;quot;.  Sometimes used to windrow wheat or
+corn residue in preparation for baling and removal.  071108 DTL
+
+Add this from RUSLE to WEPS. 1/9/09 MAS
+Added G1 to match the wheele tine disturbance  MAS 2-4-09
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>01</id>
+		</identity>
+		<param>
+			<name>gtdepth</name>
+			<value>25.400051</value>
+		</param>
+		<param>
+			<name>gtilint</name>
+			<value>0.1</value>
+		</param>
+		<param>
+			<name>gtilArea</name>
+			<value>0.15</value>
+		</param>
+		<param>
+			<name>gtstddepth</name>
+			<value>25.400051</value>
+		</param>
+		<param>
+			<name>gtmindepth</name>
+			<value>25.400051</value>
+		</param>
+		<param>
+			<name>gtmaxdepth</name>
+			<value>25.400051</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>13</id>
+		</identity>
+		<param>
+			<name>laymix</name>
+			<value>0.2</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>rroughflag</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>rrough</name>
+			<value>7.6200156</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>24</id>
+		</identity>
+		<param>
+			<name>fbioflagvt</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>massflatvt1</name>
+			<value>0.12</value>
+		</param>
+		<param>
+			<name>massflatvt2</name>
+			<value>0.12</value>
+		</param>
+		<param>
+			<name>massflatvt3</name>
+			<value>0.12</value>
+		</param>
+		<param>
+			<name>massflatvt4</name>
+			<value>0.1</value>
+		</param>
+		<param>
+			<name>massflatvt5</name>
+			<value>0</value>
+		</param>
+	</actionvalue>
+</operationDB>

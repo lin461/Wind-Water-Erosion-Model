@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, irrigation</path>
+<name>Water mulch; off</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0</ostir><oenergyarea>0.0</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Fert applic. broadcast by hand</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0.0121875</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

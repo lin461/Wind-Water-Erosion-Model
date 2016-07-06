@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Plow, moldboard 6-7 inch depth</path>
+   <name>Plow, moldboard 6-7 inch depth</name>
+   <comments>'Moldboard plow 6 inch operating depth.  060701 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Plow, moldboard 6-7 inch depth</path>
+         <name>Plow, moldboard 6-7 inch depth</name>
+         <comment>Moldboard plow 6 inch operating depth</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.4</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1524</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>48.75</ostir><oenergyarea>17.491838</oenergyarea></wepstags></weppoperation>

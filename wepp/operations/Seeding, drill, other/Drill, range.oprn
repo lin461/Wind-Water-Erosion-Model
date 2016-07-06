@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Drill, range</path>
+   <name>Drill, range</name>
+   <comments>&amp;quot;'Drill for seeding on rangeland. from RUSLE1.06. 062403 gaw.  Added 40 lbs. start storage biomass default for new veg.  022212 DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Drill, range</path>
+         <name>Drill, range</name>
+         <comment>"Drill for seeding on rangeland from RUSLE1.06 062403 gaw. Added 40 lbs. Start storage biomass default for new veg. 022212 DTL, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.60</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>6.24</ostir><oenergyarea>4.4898834</oenergyarea></wepstags></weppoperation>

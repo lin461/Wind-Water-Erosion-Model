@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Coulter tiller and spike harrow</path>
+   <name>Coulter tiller and spike harrow</name>
+   <comments>'Like tubo-till machine with two gangs of fluted Coulters and a spike harrow.     103107 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Coulter tiller and spike harrow</path>
+         <name>Coulter tiller and spike harrow</name>
+         <comment>Like turbo-till machine with two gangs of fluted Coulters and a spike harrow</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Coulter tiller and spike harrow</path>
+         <name>Coulter tiller and spike harrow</name>
+         <comment>Like turbo-till machine with two gangs of fluted Coulters and a spike harrow</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>18.53</ostir><oenergyarea>7.9508357</oenergyarea></wepstags></weppoperation>

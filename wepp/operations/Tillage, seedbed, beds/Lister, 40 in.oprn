@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Lister, 40 in</path>
+   <name>Lister, 40 in</name>
+   <comments>'6/8/01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Lister, 40 in</path>
+         <name>Lister, 40 in</name>
+         <comment />
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.8</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1397</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>35.10</ostir><oenergyarea>8.418531</oenergyarea></wepstags></weppoperation>

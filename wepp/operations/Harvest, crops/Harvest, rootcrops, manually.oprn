@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harvest, rootcrops, manually</path>
+   <name>Harvest, rootcrops, manually</name>
+   <comments>'Hand digging of rootcrops such as potatoes. Rev042808 DTL rev energy use 12132011 los'</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, rootcrops, manually</path>
+         <name>Harvest, rootcrops, manually</name>
+         <comment />
+         <weppkey />
+         <mfo1>0.7</mfo1>
+         <mfo2>0.7</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.7</rmfo1>
+         <rmfo2>0.7</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.40</surdis>
+         <tdmean>0.3175</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>4.16</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

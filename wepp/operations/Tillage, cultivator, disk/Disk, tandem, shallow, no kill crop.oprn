@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Tillage, cultivator, disk</path>
+<name>Disk, tandem, shallow, no kill crop</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>19.5</ostir><oenergyarea>3.7415698</oenergyarea></wepstags></weppoperation>

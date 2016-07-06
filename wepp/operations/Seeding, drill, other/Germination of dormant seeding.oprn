@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Seeding, drill, other</path>
+<name>Germination of dormant seeding</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0</ostir><oenergyarea>0.09353924</oenergyarea></wepstags></weppoperation>

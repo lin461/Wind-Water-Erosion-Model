@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Subsoiler</path>
+   <name>Subsoiler</name>
+   <comments>'Subsoiler or Vee ripper.  Shanks are not in-line but mounted on a heavy vee angled toolbar.  rev 012507 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler</path>
+         <name>Subsoiler</name>
+         <comment>Subsoiler or V ripper. Shanks are not-in-line but mounted on a heavy V angled toolbar.</comment>
+         <weppkey />
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.75</surdis>
+         <tdmean>0.381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>32.91</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

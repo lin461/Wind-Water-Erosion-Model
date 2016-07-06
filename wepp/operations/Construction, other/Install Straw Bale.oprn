@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Construction, other</path>
+<name>Install Straw Bale</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0.01</ostir><oenergyarea>0.01</oenergyarea></wepstags></weppoperation>

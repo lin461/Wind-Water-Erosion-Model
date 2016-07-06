@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Cultivator, rotary</path>
+   <name>Cultivator, rotary</name>
+   <comments>'Rotary row crop cultivator operated on preformed beds or flat planted with spider gangs typified by the Lilliston Rolling Cultivator.  082907 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Cultivator, rotary</path>
+         <name>Cultivator, rotary</name>
+         <comment>Rotary row crop cultivator operated on performed beds or flat planted with spider gangs typified by the Lilliston Rolling Cultivator</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0381</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.85</surdis>
+         <tdmean>0.0381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>6.63</ostir><oenergyarea>5.0511193</oenergyarea></wepstags></weppoperation>

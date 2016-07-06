@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Harvest, windrows</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>03</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>14.311503</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>.06</value>
+		</param>
+		<param>
+			<name>ospeed</name>
+			<value>2.2351363</value>
+		</param>
+		<param>
+			<name>odirect</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>ostdspeed</name>
+			<value>2.2351363</value>
+		</param>
+		<param>
+			<name>ominspeed</name>
+			<value>1.7881091</value>
+		</param>
+		<param>
+			<name>omaxspeed</name>
+			<value>2.6821637</value>
+		</param>
+		<param>
+			<name>op_notes3</name>
+			<value>Represents harvest equipment like a dry bean harvester that pulls a windrow of previously cut biomass through,
+separating the grain or seed from the residue and placing the residue back on the ground. Some slight soil disturbance .   021909 DTL
+
+Created 2-19-09 MAS
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>op_devnotes3</name>
+			<value>Represents harvest equipment like a dry bean harvester that pulls a windrow of previously cut biomass through,
+separating the grain or seed from the residue and placing the residue back on the ground. Some slight soil disturbance .   021909 DTL
+
+Created 2-19-09 MAS
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>01</id>
+		</identity>
+		<param>
+			<name>gtdepth</name>
+			<value>50.800102</value>
+		</param>
+		<param>
+			<name>gtilint</name>
+			<value>0.5</value>
+		</param>
+		<param>
+			<name>gtilArea</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>gtstddepth</name>
+			<value>50.800102</value>
+		</param>
+		<param>
+			<name>gtmindepth</name>
+			<value>50.800102</value>
+		</param>
+		<param>
+			<name>gtmaxdepth</name>
+			<value>76.20015</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>01</id>
+		</identity>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>rroughflag</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>rrough</name>
+			<value>10.160021</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>12</id>
+		</identity>
+		<param>
+			<name>soilos</name>
+			<value>0.05</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>34</id>
+		</identity>
+		<param>
+			<name>frselpool</name>
+			<value>7</value>
+		</param>
+		<param>
+			<name>ratemultvt1</name>
+			<value>3.0</value>
+		</param>
+		<param>
+			<name>ratemultvt2</name>
+			<value>2.5</value>
+		</param>
+		<param>
+			<name>ratemultvt3</name>
+			<value>2.0</value>
+		</param>
+		<param>
+			<name>ratemultvt4</name>
+			<value>1.5</value>
+		</param>
+		<param>
+			<name>ratemultvt5</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt1</name>
+			<value>0.5</value>
+		</param>
+		<param>
+			<name>threshmultvt2</name>
+			<value>0.6</value>
+		</param>
+		<param>
+			<name>threshmultvt3</name>
+			<value>0.7</value>
+		</param>
+		<param>
+			<name>threshmultvt4</name>
+			<value>0.8</value>
+		</param>
+		<param>
+			<name>threshmultvt5</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>24</id>
+		</identity>
+		<param>
+			<name>fbioflagvt</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>massflatvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>massflatvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>massflatvt3</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>massflatvt4</name>
+			<value>.7</value>
+		</param>
+		<param>
+			<name>massflatvt5</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>62</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selpos</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>selpool</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>selagepool</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>rstore</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>rleaf</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rstem</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootstore</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootfiber</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+</operationDB>

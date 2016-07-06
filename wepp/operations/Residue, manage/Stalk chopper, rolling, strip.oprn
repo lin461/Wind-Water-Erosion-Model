@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Stalk chopper, rolling, strip</path>
+   <name>Stalk chopper, rolling, strip</name>
+   <comments>&amp;quot;'Rolling Stalk Chopper, ground driven with double rotor gangs operating on the rows.  This operation represents individual gangs operationg on the rows with some interrow area not disturbed although thrown soil is deposited within this area. 110906DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Stalk chopper, rolling, strip</path>
+         <name>Stalk chopper, rolling, strip</name>
+         <comment>"Rolling Stalk Chopper, ground driven with double rotor gangs operating on the rows. This operation represents individual gangs operation on the rows with some interrow area not disturbed although thrown soil is deposited within this area."</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.6</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.80</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>24.96</ostir><oenergyarea>6.828365</oenergyarea></wepstags></weppoperation>

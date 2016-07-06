@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Burrowing, light, Prairie dog</path>
+   <name>Burrowing, light, Prairie dog</name>
+   <comments>'Prairie dog burrowing light infestation.  062205 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Burrowing, light, Prairie dog</path>
+         <name>Burrowing, light, Prairie dog</name>
+         <comment>Prairie dog burrowing light infestation</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.127</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.15</surdis>
+         <tdmean>0.4572</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>3.51</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Roller, corrugated packer 6 by 16</path>
+   <name>Roller, corrugated packer 6 by 16</name>
+   <comments>'Large corregated packer roller   6  ridges by 16 spacings  DTL 030303 '</comments>
+   <process>
+      <tillage>
+         <path>operations\Roller, corrugated packer 6 by 16</path>
+         <name>Roller, corrugated packer 6 by 16</name>
+         <comment>Large corrugated packer roller 6 ridges by 16 spacings</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1524</rho>
+         <rint>0.08</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0889</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>2.93</ostir><oenergyarea>2.338481</oenergyarea></wepstags></weppoperation>

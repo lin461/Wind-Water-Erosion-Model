@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Disk, inter row strips</path>
+   <name>Disk, inter row strips</name>
+   <comments>&amp;quot;'6/8/01 DTL; Revision 9/1/05 of Disk, tandem light finishing to represent a disk in orchards, nurseries, and  vineyards that does not kill the tree or vineyard vegetation.  Used to disk weeds or annual cover crops in the inter-row areas; tmg. Changed to 85% disturbance since row area of orchard is not disked.  rev 043008 DTL '&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Disk, inter row strips</path>
+         <name>Disk, inter row strips</name>
+         <comment>"Revision of 9/1/05 of Disk, tandem light finishing to represent a disk in orchards, nurseries, and vineyards that does not kill the three or vineyard vegetation. Used to disk weeds or annual cover crops in the inter-row areas; tmg. Changed to 85% disturbance since row area of orchard is not disked"</comment>
+         <weppkey />
+         <mfo1>0.65</mfo1>
+         <mfo2>0.65</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.65</rmfo1>
+         <rmfo2>0.65</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.85</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>16.58</ostir><oenergyarea>4.2092657</oenergyarea></wepstags></weppoperation>

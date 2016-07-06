@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Cultivator, field 6-12 in sweeps, coil tine har</path>
+   <name>Cultivator, field 6-12 in sweeps, coil tine har</name>
+   <comments>'Field cultivator w/ 6-12 inch sweeps 060701 DTL with a coil tine harrow dragged behind 09-13-11 GGF'</comments>
+   <process>
+      <tillage>
+         <path>operations\Cultivator, field 6-12 in sweeps, coil tine har</path>
+         <name>Cultivator, field 6-12 in sweeps, coil tine har</name>
+         <comment>Field cultivator with 6-12 inch sweeps with a coil tine harrow dragged behind</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1016</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Cultivator, field 6-12 in sweeps, coil tine har</path>
+         <name>Cultivator, field 6-12 in sweeps, coil tine har</name>
+         <comment>Field cultivator with 6-12 inch sweeps with a coil tine harrow dragged behind</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>28.4375 </ostir><oenergyarea>8.979767</oenergyarea></wepstags></weppoperation>

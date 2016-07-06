@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harvest, sugarcane, root rake</path>
+   <name>Harvest, sugarcane, root rake</name>
+   <comments>&amp;quot;'Harvest sugarcane, with Root Rake  Depth represents depth of incorporated residue. 111605 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, sugarcane, root rake</path>
+         <name>Harvest, sugarcane, root rake</name>
+         <comment>"Harvest sugarcane, with Root Rake. Depth represents depth of incorporated residue"</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1524</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>.15</ostir><oenergyarea>33.674126</oenergyarea></wepstags></weppoperation>

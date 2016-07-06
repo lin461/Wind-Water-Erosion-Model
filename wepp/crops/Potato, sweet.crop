@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Potato, sweet</path>
+<name>Potato, sweet</name>
+<comments>'Rev 5/23/93 &amp; 5/21/01 gaw  Data primarily from Alcorn St Univ.'</comments>
+<weppkey>L_607_Potato</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>10</bb>
+<bbb>6</bbb>
+<beinp>25</beinp>
+<btemp>10</btemp>
+<cf>2.1</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.05</cuthgt>
+<decfct>0.65</decfct>
+<diam>0.02</diam>
+<dlai>0.8</dlai>
+<dropfc>0.98</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1700</gddmax>
+<hi>0.01</hi>
+<hmax>1</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0065</oratea>
+<orater>0.0065</orater>
+<otemp>25</otemp>
+<pltol>0</pltol>
+<pltsp>0.5</pltsp>
+<rdmax>1.5</rdmax>
+<rsr>0.5</rsr>
+<rtmmax>0</rtmmax>
+<spriod>30</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>6</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>cwt/ac</hyldunits><tgtyield>22000</tgtyield><grf>1.0</grf><hyldflag>5</hyldflag><hmx>0.8</hmx><rdmx>1.2192148</rdmx><topt>29.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>72.8</hyldwater></wepstags></weppcrop>

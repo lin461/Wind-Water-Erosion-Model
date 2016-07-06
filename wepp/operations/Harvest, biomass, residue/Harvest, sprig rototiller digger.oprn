@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harvest, sprig rototiller digger</path>
+   <name>Harvest, sprig rototiller digger</name>
+   <comments>'Rototiller mint digger 110210 GGF and DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, sprig rototiller digger</path>
+         <name>Harvest, sprig rototiller digger</name>
+         <comment>Rototiller mint digger</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.3</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>13.65</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

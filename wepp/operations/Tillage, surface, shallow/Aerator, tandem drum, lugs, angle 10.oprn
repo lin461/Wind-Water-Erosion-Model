@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Aerator, tandem drum, lugs, angle 10</path>
+   <name>Aerator, tandem drum, lugs, angle 10</name>
+   <comments>'Tandem Drum aerator typified by the Lawson Tandem Pasture Aerator .  Tandem ground driven  roller drums with 6  blade lugs attached to large roller drums mounted on a rotating shaft pulled across the soil. Punches holes and shatters soil as the blades rotate out of the soil.  Total soil disturbance with moderate inversion and residue burial.  10 degree offset gang angle.  020309 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Aerator, tandem drum, lugs, angle 10</path>
+         <name>Aerator, tandem drum, lugs, angle 10</name>
+         <comment>Tandem Drum aerator typified by the Lawson Tandem Pasture Aerator. Tandem ground driven roller drums with 6 blade lugs attached to large roller drums mounted on a rotating shaft pulled across the soil. Punches holes and shatters soil as the blades rotate out of  the soil. Total soil disturbance with moderate inversion and residue burial. 10 degree offset gang angle.</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0.2</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>35.1</ostir><oenergyarea>6.0800505</oenergyarea></wepstags></weppoperation>

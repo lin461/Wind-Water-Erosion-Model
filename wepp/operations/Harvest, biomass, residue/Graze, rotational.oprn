@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Graze, rotational</path>
+   <name>Graze, rotational</name>
+   <comments>'Rotational Grazing system with 50% of growth removed with each grazing cycle.12-20-01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Graze, rotational</path>
+         <name>Graze, rotational</name>
+         <comment>Rotational Grazing system with 50% of growth removed with each grazing cycle.</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.01524</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>0.4875 </ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

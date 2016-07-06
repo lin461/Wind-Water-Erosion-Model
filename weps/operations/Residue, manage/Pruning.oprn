@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Pruning</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>op_notes4</name>
+			<value>This record is cloned from Add Non-Crop Mulch.  User needs to adjust the mass added to the surface of the soil;
+Default is 2000 lbs/ac.  MAS 3-29-2012
+
+R2 Note: Pruning trees, or vines.  A small amount of cover is added and existing vegetation canopy and fall height is not measurably affected.
+Type and quantity of residue must be entered by user.
+Select appropriate type for crop being pruned and quantity on a dry matter basis.  rev 043008 DTL
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>oenergyarea</name>
+			<value>9.353924E-8</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>This record is cloned from Add Non-Crop Mulch.  User needs to adjust the mass added to the surface of the soil;
+Default is 2000 lbs/ac.  MAS 3-29-2012
+
+R2 Note: Pruning trees, or vines.  A small amount of cover is added and existing vegetation canopy and fall height is not measurably affected.
+Type and quantity of residue must be entered by user.
+Select appropriate type for crop being pruned and quantity on a dry matter basis.  rev 043008 DTL
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>03</id>
+		</identity>
+		<param>
+			<name>gcropname</name>
+			<value>wood chips</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>65</id>
+		</identity>
+		<param>
+			<name>numst</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rstandht</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rstandmass</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rflatmass</name>
+			<value>0.22417001</value>
+		</param>
+		<param>
+			<name>rbc</name>
+			<value>4</value>
+		</param>
+		<param>
+			<name>rburiedmass</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rburieddepth</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootmass</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootdepth</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>standdk</name>
+			<value>1.0E-4</value>
+		</param>
+		<param>
+			<name>surfdk</name>
+			<value>1.0E-4</value>
+		</param>
+		<param>
+			<name>burieddk</name>
+			<value>1.0E-4</value>
+		</param>
+		<param>
+			<name>rootdk</name>
+			<value>1.0E-4</value>
+		</param>
+		<param>
+			<name>stemnodk</name>
+			<value>0.99</value>
+		</param>
+		<param>
+			<name>stemdia</name>
+			<value>0.002540031</value>
+		</param>
+		<param>
+			<name>thrddys</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>covfact</name>
+			<value>1.97163</value>
+		</param>
+		<param>
+			<name>resevapa</name>
+			<value>-0.65</value>
+		</param>
+		<param>
+			<name>resevapb</name>
+			<value>0.1</value>
+		</param>
+		<param>
+			<name>crop_notes</name>
+			<value>This is a default notes text string.</value>
+		</param>
+	</actionvalue>
+</operationDB>

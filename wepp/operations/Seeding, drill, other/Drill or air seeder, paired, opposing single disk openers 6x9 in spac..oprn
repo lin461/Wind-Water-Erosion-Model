@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Drill or air seeder, paired, opposing single disk openers 6x9 in spac.</path>
+   <name>Drill or air seeder, paired, opposing single disk openers 6x9 in spac.</name>
+   <comments>&amp;quot;'Drill or Air seeder with twin single disk no-till openers angled to pull soil toward each other.  Seed is dropped  behind each disk and covered by a presswheel running in the middle that pushes soil laterally against the undisturbed cutslope to form a pair of rows 6 inches apart with a 9 inch undisturbed area between  the next pair of twin rows.  Rev 121806 DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Drill or air seeder, paired, opposing single disk openers 6x9 in spac.</path>
+         <name>Drill or air seeder, paired, opposing single disk openers 6x9 in spac.</name>
+         <comment>"Drill or Air seeder with twin single disk no-till openers angled to pull soil toward each other. Seed is dropped behind each disk and covered by a presswheel running in the middle that pushes soil laterally against the undisturbed cutslope to form a pair of rows 6 inchs apart with a 9 inch undisturbed area between the next pair of twin rows. Rev 121806 DTL, deleted kill process."</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0127</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.80</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>16.64</ostir><oenergyarea>6.921904</oenergyarea></wepstags></weppoperation>

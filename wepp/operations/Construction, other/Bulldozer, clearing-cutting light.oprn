@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Bulldozer, clearing/cutting light</path>
+   <name>Bulldozer, clearing/cutting light</name>
+   <comments>&amp;quot;'Bulldozer, clearing/cutting light.  Grader or dozer blade for cutting and clearing vegetation.  Clears amd removes surface material with little to moderate disturbance of soil and roots.  06/26/03 DTLfrom RUSLE1.06.  062403 gaw.'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Bulldozer, clearing/cutting light</path>
+         <name>Bulldozer, clearing/cutting light</name>
+         <comment>"Bulldozer, clearing/cutting light. Grader or dozer blade for cutting and clearing vegetation. Clears and removes surface material with little to moderate disturbance of osil and roots"</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.00508</rho>
+         <rint>2</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.85</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>16.25</ostir><oenergyarea>4.676962</oenergyarea></wepstags></weppoperation>

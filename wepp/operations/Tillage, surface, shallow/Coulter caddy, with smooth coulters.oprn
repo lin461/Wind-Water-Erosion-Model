@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Coulter caddy, with smooth coulters</path>
+   <name>Coulter caddy, with smooth coulters</name>
+   <comments>'Coulter Caddy smooth coulters on 7 to 10 inch spacing.  101706 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Coulter caddy, with smooth coulters</path>
+         <name>Coulter caddy, with smooth coulters</name>
+         <comment>Coulter Caddy smooth coulters on 7 to 10 inch spacing</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0127</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.25</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>3.41</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Subsoiler, 12 foot spacing</path>
+   <name>Subsoiler, 12 foot spacing</name>
+   <comments>'Subsoiler with a straight point or turbo point on a  12' spacing at 15 inch depth. Disturbance includes lateral fracturing zone in the soil to either side of ripper slot.  Used to prepare site for tree planting.  022505 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler, 12 foot spacing</path>
+         <name>Subsoiler, 12 foot spacing</name>
+         <comment>Subsoiler with a straight point or turbo point on a 12 spacing at 15 inch depth. Disturbance includes lateral fracturing zone in the soil to either side or ripper slot. Used to prepare site for tree planting.</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>15</surdis>
+         <tdmean>0.381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>6.6</ostir><oenergyarea>17.772455</oenergyarea></wepstags></weppoperation>

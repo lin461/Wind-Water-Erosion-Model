@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Drill or air seeder, hoe/chisel openers 6-12 in spac. w/fert openers</path>
+   <name>Drill or air seeder, hoe/chisel openers 6-12 in spac. w/fert openers</name>
+   <comments>&amp;quot;'Drill or Airseeder, hoe or chisel openers and 3 wide presswheels.   10/11/01 DTL with fertilizer openers 09-16-11  GGF rev order of processes of combination tool 121311 LOS, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Drill or air seeder, hoe/chisel openers 6-12 in spac. w/fert openers</path>
+         <name>Drill or air seeder, hoe/chisel openers 6-12 in spac. w/fert openers</name>
+         <comment>"Drill or Airseeder, hoe, or chisel openers and 3 wide presswheels."</comment>
+         <weppkey />
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.25</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Drill or air seeder, hoe/chisel openers 6-12 in spac. w/fert openers</path>
+         <name>Drill or air seeder, hoe/chisel openers 6-12 in spac. w/fert openers</name>
+         <comment>"Drill or Airseeder, hoe, or chisel openers and 3 wide presswheels."</comment>
+         <weppkey />
+         <mfo1>0.6</mfo1>
+         <mfo2>0.6</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.6</rmfo1>
+         <rmfo2>0.6</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.90</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>26.65</ostir><oenergyarea>12.534259</oenergyarea></wepstags></weppoperation>

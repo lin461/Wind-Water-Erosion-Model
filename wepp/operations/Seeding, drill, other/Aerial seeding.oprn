@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Seeding, drill, other</path>
+<name>Aerial seeding</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

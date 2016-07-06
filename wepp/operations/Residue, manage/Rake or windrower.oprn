@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Rake or windrower</path>
+   <name>Rake or windrower</name>
+   <comments>&amp;quot;'Typically a side delivery, twin-rake or wheel rake used to windrow hay or residue.  Does not cut stubble as in  Mower, swather  or remove residue. This operation followed by   Bale straw or residue ,  Bale Corn stalk strips  or  Bale corn husks, cobs and chaff .  Sometimes used to windrow wheat or corn residue in preparation for baling and removal.  071108 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Rake or windrower</path>
+         <name>Rake or windrower</name>
+         <comment>"Typically a side deliver, twin-rake or wheel rake used to windrow hay or residue. Does not cut stubble as in Mower, swather or remove residue. This operation followed by Bale straw or residue, Bale corn stalk strips, or Bale corn husks, cobs, and chaff. Sometimes used to windrow wheat or corn residue in preperation for bailing and removal."</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>15</surdis>
+         <tdmean>0.0254</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>1.02</ostir><oenergyarea>2.338481</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Harvest, crops</path>
+<name>Harvest, corn grain and part of stover, 14 inch stubble</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0.15</ostir><oenergyarea>14.311503</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Aerator, field surface, ground driven 0 degree offset</path>
+   <name>Aerator, field surface, ground driven 0 degree offset</name>
+   <comments>&amp;quot;'AerWay tool .  Ground driven  8  knife-tines mounted on a rotating shaft pulled across the soil, punch holes and shatter soil sideways as the blades rotate out of the soil.  Little inversion or residue burial.  0 degree offset gang angle.  060605 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Aerator, field surface, ground driven 0 degree offset</path>
+         <name>Aerator, field surface, ground driven 0 degree offset</name>
+         <comment>"AerWay tool. Ground driven 8 knife-tines mounted on a rotating shaft pulled across soil, punch holes and shatter soil sideways as the blades rotate out of the soil. Little inversion or residue burial. 0 degree offset gang angle. 060605 DTL"</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.30</surdis>
+         <tdmean>0.1397</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>7.02</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Tillage, cultivator, disk</path>
+<name>Disk, oxen strip 60 pct disturb</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>6.24</ostir><oenergyarea>9.353924E-8</oenergyarea></wepstags></weppoperation>

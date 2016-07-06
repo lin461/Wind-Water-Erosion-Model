@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Cultivator, field 6-12 in sweeps</path>
+   <name>Cultivator, field 6-12 in sweeps</name>
+   <comments>'060701 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Cultivator, field 6-12 in sweeps</path>
+         <name>Cultivator, field 6-12 in sweeps</name>
+         <comment>"Cultivator used on beds covered with plastic mulch. This operation cultivates between the beds and adds other cover. User must specify type of residue cove, ie, weed residue and dry weight."</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1016</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>26</ostir><oenergyarea>6.921904</oenergyarea></wepstags></weppoperation>

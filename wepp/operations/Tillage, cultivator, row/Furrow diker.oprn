@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Furrow diker</path>
+   <name>Furrow diker</name>
+   <comments>' Furrow Diker  creates dams in furrows between lister ridges or beds.  11/08/01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Furrow diker</path>
+         <name>Furrow diker</name>
+         <comment>Furrow Diker creates dams I furrows between lister ridges or beds</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.35</surdis>
+         <tdmean>0.1016</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>7.28</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

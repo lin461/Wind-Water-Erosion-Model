@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Cover crop underseeder</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>1.2160101</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>.15</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Placeholder interseeding operation:  No crop called out to interfere with growing crop.
+A following Harvest operation with "release growing crop" calls in the crop that was interseeded.
+It does not contain a Begin growth  process so no new vegetation is called in..
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>ofuel</name>
+			<value> </value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Broadcast seeding of a cover crop or interseeded crop into an existing crop.
+This operation is nothing more than a place holder for the small amount of fuel used to interseed a second crop into an existing crop.
+It does not contain a Begin growth  process so no new vegetation is called in..
+The management should already contain a vegetation that contains a growth curve with both crops in it.
+A Harvest operation such as "Harvest grain grow cover"  should be used to call in a vegetation file representing the released cover.  01122012DTL
+
+Added to the DB.  This only adds an energy number.  No crop will be planted.  Do not use for planting a crop.  MAS 2-23-12
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+Cloned from Cover crop underseeded corrected to placeholder with no crop called.
+O4 only process.  jkp 160523</value>
+		</param>
+	</actionvalue>
+</operationDB>

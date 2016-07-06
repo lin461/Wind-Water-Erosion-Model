@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Drill, deep furrow  12 to 18 in spacing</path>
+   <name>Drill, deep furrow  12 to 18 in spacing</name>
+   <comments>&amp;quot;'Deep furrow drills on 12 to 18 inch spacing 04-18-02  DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Drill, deep furrow  12 to 18 in spacing</path>
+         <name>Drill, deep furrow  12 to 18 in spacing</name>
+         <comment>"Deep furrow drills on 12 to 18 inch spacing 04-18-02 DTL, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.6</mfo1>
+         <mfo2>0.6</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.6</rmfo1>
+         <rmfo2>0.6</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.90</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>23.4</ostir><oenergyarea>5.6123548</oenergyarea></wepstags></weppoperation>

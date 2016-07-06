@@ -1,0 +1,40 @@
+<weppcrop>
+<path>.\wepp\crops</path>
+<name>Sugarbeet, seed</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>6</bb>
+<bbb>4</bbb>
+<beinp>25</beinp>
+<btemp>4</btemp>
+<cf>2.1</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>0.1</cuthgt>
+<decfct>1</decfct>
+<diam>0.009</diam>
+<dlai>1</dlai>
+<dropfc>1</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1700</gddmax>
+<hi>0.01</hi>
+<hmax>0.66</hmax>
+<mfocod>Fragile</mfocod>
+<oratea>0.015</oratea>
+<orater>0.015</orater>
+<otemp>25</otemp>
+<pltol>0</pltol>
+<pltsp>0.076</pltsp>
+<rdmax>1.2</rdmax>
+<rsr>0.33</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>4.5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lb/ac</hyldunits><tgtyield>2600</tgtyield><grf>0.2</grf><hyldflag>0</hyldflag><hmx>0.8</hmx><rdmx>0.91441107</rdmx><topt>18.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>10.0</hyldwater></wepstags></weppcrop>

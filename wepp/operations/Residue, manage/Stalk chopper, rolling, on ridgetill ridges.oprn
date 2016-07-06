@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Stalk chopper, rolling, on ridgetill ridges</path>
+   <name>Stalk chopper, rolling, on ridgetill ridges</name>
+   <comments>&amp;quot;'Rolling Stalk Chopper, ground driven with double rotor gangs operating on ridgetill ridges.  111406 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Stalk chopper, rolling, on ridgetill ridges</path>
+         <name>Stalk chopper, rolling, on ridgetill ridges</name>
+         <comment>"Rolling Stalk Chopper, ground driven with double rotor gangs operating on ridgetill ridges"</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.6</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.65</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>20.3</ostir><oenergyarea>6.828365</oenergyarea></wepstags></weppoperation>

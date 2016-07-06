@@ -1,0 +1,50 @@
+<weppoperation>
+   <path>operations\Planter, potato, 6 in beds</path>
+   <name>Planter, potato, 6 in beds</name>
+   <comments>&amp;quot;'Potato  planter on existing 6 inch high beds or ridges leaving a 6 inch ridge after planting.  11/13/02 DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, potato, 6 in beds</path>
+         <name>Planter, potato, 6 in beds</name>
+         <comment>"Potato planer on existing 6 inch high beds or ridges leaving a 6 inch ridge after planting. 11/13/02 DTL, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.9</mfo1>
+         <mfo2>0.9</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.9</rmfo1>
+         <rmfo2>0.9</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0889</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, potato, 6 in beds</path>
+         <name>Planter, potato, 6 in beds</name>
+         <comment>"Potato planer on existing 6 inch high beds or ridges leaving a 6 inch ridge after planting. 11/13/02 DTL, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1524</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.15</surdis>
+         <tdmean>0.1524</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>28.7</ostir><oenergyarea>7.0154433</oenergyarea></wepstags></weppoperation>

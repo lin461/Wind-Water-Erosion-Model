@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Drill or airseeder, double disk opener, w/ fert openers</path>
+   <name>Drill or airseeder, double disk opener, w/ fert openers</name>
+   <comments>&amp;quot;'Drill or airseeder with double disk openers with fertilizer knives or openers on 7 -12 inch spacings.. ie., Ripper-shooter drill in the NWRR. High disturbance.  4-18-02. DTL  Added 40 lbs. start storage biomass default for new veg.  022212 DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Drill or airseeder, double disk opener, w/ fert openers</path>
+         <name>Drill or airseeder, double disk opener, w/ fert openers</name>
+         <comment>"Drill or airseeder with double disk openers with fertilizer knives or openers on 7-12 inch spacings ie, Ripper-shooter drill in the NWRR. High disturbance. 4-18-02. dTL Added 40 lbs. Start storage biomass default for new veg. 022212 DTL, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.85</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>13.81</ostir><oenergyarea>4.0221877</oenergyarea></wepstags></weppoperation>

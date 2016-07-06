@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Bed shaper, 12 in, low flattening</path>
+   <name>Bed shaper, 12 in, low flattening</name>
+   <comments>&amp;quot;'Bed shaping operation on existing 12  high beds in standing row crop residue.  Since no crop was planted in the furrows the residue flattening is minimal.   When reshaping beds following drilled or broadcast crops use Bed shaper, 12 in  03112010 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Bed shaper, 12 in, low flattening</path>
+         <name>Bed shaper, 12 in, low flattening</name>
+         <comment>"Bed shaping operation on existing 12 high beds in standing row crop residue. Since no crop was planted in the furrows the residue flattening is minimal. When reshaping beds following drilled or broadcast crops use Bed shaper, 12 in."</comment>
+         <weppkey />
+         <mfo1>0.6</mfo1>
+         <mfo2>0.6</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.3048</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.6</rmfo1>
+         <rmfo2>0.6</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.75</surdis>
+         <tdmean>0.1143</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>19.5</ostir><oenergyarea>4.2092657</oenergyarea></wepstags></weppoperation>

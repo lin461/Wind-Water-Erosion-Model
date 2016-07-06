@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Bedder, hipper, disk hiller</path>
+   <name>Bedder, hipper, disk hiller</name>
+   <comments>'10/26/01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Bedder, hipper, disk hiller</path>
+         <name>Bedder, hipper, disk hiller</name>
+         <comment />
+         <weppkey />
+         <mfo1>0.9</mfo1>
+         <mfo2>0.9</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.9</rmfo1>
+         <rmfo2>0.9</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0889</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>26</ostir><oenergyarea>4.2092657</oenergyarea></wepstags></weppoperation>

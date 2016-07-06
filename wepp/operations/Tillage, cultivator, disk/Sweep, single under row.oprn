@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Sweep, single under row</path>
+   <name>Sweep, single under row</name>
+   <comments>'Single low crown cultivator sweep run on each row to undercut and kill crops such as cotton.  Run 4 to 6 inches deep under each row lifting and fracturing a zone about a foot wide on 38 to 40 inch centers. Very little disturbance of existing surface residue cover.  062304 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Sweep, single under row</path>
+         <name>Sweep, single under row</name>
+         <comment>Single low crown cultivator sweep run on each row to make undercut and kill crops such as cotton. Run 4 to 6 inches deep under each row lifting and fracturing a zone about a foot wide on 38 to 40 inch centers. Very little disturbance of existing surface residue cover.</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.30</surdis>
+         <tdmean>0.1016</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>4.68</ostir><oenergyarea>6.921904</oenergyarea></wepstags></weppoperation>

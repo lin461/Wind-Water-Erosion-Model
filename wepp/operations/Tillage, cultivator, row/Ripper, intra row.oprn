@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Ripper, intra row</path>
+   <name>Ripper, intra row</name>
+   <comments>&amp;quot;'Ripper, intra-row.  This tool is used to reduce wheel track compaction between rows of growing rowcrops.  Uses chisel or subsoiler shanks that disturb less than 40% of the surface but lift and fracture the soil to a depth below the plow layer.  Shank spacing varies but is typically 30 .  031808 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Ripper, intra row</path>
+         <name>Ripper, intra row</name>
+         <comment>"Ripper, intra-row. This tool is used to reduce wheel track compaction between rows of growing rowcrops. Uses chisel or subsoiler shanks that disturb less than 40% of the surface but lift and fracture the soil to a depth below the plow layer. Shank spacing varies but is typically 30 inches."</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.75</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.30</surdis>
+         <tdmean>0.381</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>13.16</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Fert applic. coulter, high press. inject 12 in</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>1.95</ostir><oenergyarea>1.4966278</oenergyarea></wepstags></weppoperation>

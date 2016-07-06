@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Subsoiler; Stalk chopper, rolling</path>
+   <name>Subsoiler; Stalk chopper, rolling</name>
+   <comments>&amp;quot;'Combination tool representing a Wilcox or similar type subsoiler with stalk chopper; tmg 082407.  Based on;Subsoiler, rev 101606 DTL andRolling Stalk Chopper, ground driven with double rotor gangs covering the full width of the machine.  This record represents operation on unridged ground where the weight of the machine is distriibuted across 100% of the working width. 110906 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler; Stalk chopper, rolling</path>
+         <name>Subsoiler; Stalk chopper, rolling</name>
+         <comment>"Combination tool representing a Wilcox or similar type of subsoiler with stalk chopper; tmg 082407. Based on Subsoiler, rev 101606 DTL and Rolling Stalk Chopper, ground driven with double rotor gangs covering the full width of the machine. This record represents operation on unridged ground where the weight of the machine is distributed across 100% of the working width."</comment>
+         <weppkey />
+         <mfo1>0.8</mfo1>
+         <mfo2>0.8</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.8</rmfo1>
+         <rmfo2>0.8</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.75</surdis>
+         <tdmean>0.4572</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Subsoiler; Stalk chopper, rolling</path>
+         <name>Subsoiler; Stalk chopper, rolling</name>
+         <comment>"Combination tool representing a Wilcox or similar type of subsoiler with stalk chopper; tmg 082407. Based on Subsoiler, rev 101606 DTL and Rolling Stalk Chopper, ground driven with double rotor gangs covering the full width of the machine. This record represents operation on unridged ground where the weight of the machine is distributed across 100% of the working width."</comment>
+         <weppkey />
+         <mfo1>0.75</mfo1>
+         <mfo2>0.75</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>0.75</rmfo1>
+         <rmfo2>0.75</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>35.1</ostir><oenergyarea>22.917114</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,10 @@
+<weppoperation>
+<path>.\wepp\operations\Harvest, crops</path>
+<name>Harvest, cotton and shred</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<process>
+<harvest>
+</harvest>
+</process>
+<wepstags><ostir>.15</ostir><oenergyarea>21.981722</oenergyarea></wepstags></weppoperation>

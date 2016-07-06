@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Planter, sprig conventional</path>
+   <name>Planter, sprig conventional</name>
+   <comments>'Planter used to plant sprigs.  Similar to a light finishing disk Rev043008 DTL  Added 15 lbs. start live and 15 lbs root biomass default for new veg.  022212 DTL'</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Planter, sprig conventional</path>
+         <name>Planter, sprig conventional</name>
+         <comment>Planter used to plant sprigs. Similar to a light finishing disk REV 043008 DTL Added 15 lbs. Start live and 15 lbs. Root biomass default for new veg.</comment>
+         <weppkey />
+         <mfo1>0.65</mfo1>
+         <mfo2>0.65</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0254</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.65</rmfo1>
+         <rmfo2>0.65</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>13</ostir><oenergyarea>3.7415698</oenergyarea></wepstags></weppoperation>

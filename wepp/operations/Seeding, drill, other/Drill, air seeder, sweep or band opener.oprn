@@ -1,0 +1,30 @@
+<weppoperation>
+   <path>operations\Drill, air seeder, sweep or band opener</path>
+   <name>Drill, air seeder, sweep or band opener</name>
+   <comments>&amp;quot;'Airseeder with  Anderson openers or similar openers seeding 3-4  bands of seed  on 12  row spacing leaving  a similar bare inter-row area  as a conventional 7  double disk opener drill.  10/28/01 DTL, deleted kill process 11/16/2012 DTL'&amp;quot;</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Drill, air seeder, sweep or band opener</path>
+         <name>Drill, air seeder, sweep or band opener</name>
+         <comment>"Airseeder with Anderson openers or similar openers seeding 3-4 bands of seed on 12 row spacing leaving a similar bare inter-row area as a conventional 7 double disk opener drill. 10/28/01 DTL, deleted kill process"</comment>
+         <weppkey />
+         <mfo1>0.5</mfo1>
+         <mfo2>0.5</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.5</rmfo1>
+         <rmfo2>0.5</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.60</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>9.75</ostir><oenergyarea>4.0221877</oenergyarea></wepstags></weppoperation>

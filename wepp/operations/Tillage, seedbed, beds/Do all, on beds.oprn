@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Do all, on beds</path>
+   <name>Do all, on beds</name>
+   <comments>'Do all on beds.  Same as Bed shaper high disturbance.  Beds are lightly tilled with a disk hiller or rotary cultivator and reshaped with a bed shaper in preparation for planting.  Rev120806 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Do all, on beds</path>
+         <name>Do all, on beds</name>
+         <comment>Do all on beds. Same as Bed shaper high disturbance. Beds are lightly tilled with a disk hiller or rotary cultivator and reshaped with a bed shaper in preparation for planting.</comment>
+         <weppkey />
+         <mfo1>0.9</mfo1>
+         <mfo2>0.9</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.9</rmfo1>
+         <rmfo2>0.9</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.50</surdis>
+         <tdmean>0.0635</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Do all, on beds</path>
+         <name>Do all, on beds</name>
+         <comment>Do all on beds. Same as Bed shaper high disturbance. Beds are lightly tilled with a disk hiller or rotary cultivator and reshaped with a bed shaper in preparation for planting.</comment>
+         <weppkey />
+         <mfo1>0.6</mfo1>
+         <mfo2>0.6</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.2</rint>
+         <rmfo1>0.6</rmfo1>
+         <rmfo2>0.6</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.75</surdis>
+         <tdmean>0.108</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>26</ostir><oenergyarea>12.44072</oenergyarea></wepstags></weppoperation>

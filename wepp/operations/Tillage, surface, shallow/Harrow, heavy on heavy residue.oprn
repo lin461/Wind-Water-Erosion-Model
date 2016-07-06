@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harrow, heavy on heavy resdue</path>
+   <name>Harrow, heavy on heavy resdue</name>
+   <comments>&amp;quot;'This record represents none to very slight ground disturbance. Heavy harrow used to flatten standing stubble and redistribute and size flat residue.  Typically used on small grain stubble resulting from yields greater than 60 bu/ac.   This implement is set so the large coil tines do not dig into the soil, but rather accumulate a ball or bunch of straw between the ranks of tines.  09/19/03DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Harrow, heavy on heavy resdue</path>
+         <name>Harrow, heavy on heavy resdue</name>
+         <comment>"This record represents none to very slight ground disturbance. Heavy harrow used to flatten standing stubble and redistribute and size flat residue. Typically used on small grain stubble resulting from yields greater than 60 bu/ac. This imlpement is set so the large coil tines do no dig into the soil, but rather accumulate a ball or bunch of straw between the ranks of tines."</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0.05</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>10</surdis>
+         <tdmean>0.0254</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>.15</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

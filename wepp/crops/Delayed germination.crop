@@ -1,0 +1,40 @@
+<weppcrop>
+<path>.\wepp\crops</path>
+<name>Delayed germination</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<iplant>Cropland</iplant>
+<crunit>bushels</crunit>
+<bb>5.2</bb>
+<bbb>3</bbb>
+<beinp>60</beinp>
+<btemp>2</btemp>
+<cf>0.00057</cf>
+<crit>45</crit>
+<critvm>0</critvm>
+<cuthgt>0.15</cuthgt>
+<decfct>0.9</decfct>
+<diam>0.006</diam>
+<dlai>0.5</dlai>
+<dropfc>0.1</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>3</flivmx>
+<gddmax>1500</gddmax>
+<hi>1</hi>
+<hmax>1</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0071</oratea>
+<orater>0.0071</orater>
+<otemp>21</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.08</pltsp>
+<rdmax>1.4</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>14</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>kg/m^2</hyldunits><tgtyield>0.0</tgtyield><grf>0.0</grf><hyldflag>0</hyldflag><hmx>0.0</hmx><rdmx>0.0</rdmx><topt>0.0</topt><cbaflag>0</cbaflag><hyconfact /><stemdia>0.0050</stemdia><hyldwater>0.0</hyldwater></wepstags></weppcrop>

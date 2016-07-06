@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="operation_db.xsl"?>
+<!DOCTYPE operationDB SYSTEM "operation_db.dtd">
+<!--operationDB.DTD: Proivided here for reference-->
+<!--
+<!ELEMENT operationdefn (action*) >
+<!ENTITY % identityDTD SYSTEM "identity.dtd">
+%identityDTD;
+<!ENTITY % paramdefnDTD SYSTEM "param_defn.dtd">
+%paramdefnDTD;
+<!ELEMENT action (identity, actionname, (paramdefn*), (groupid?))> 
+<!ELEMENT actionname (#PCDATA)>
+<!ELEMENT groupid (identity*)> 
+-->
+<operationDB>
+	<operationname>Harvest, vine crops, mechanical</operationname>
+	<actionvalue>
+		<identity>
+			<code>O</code>
+			<id>04</id>
+		</identity>
+		<param>
+			<name>oenergyarea</name>
+			<value>3.2738733</value>
+		</param>
+		<param>
+			<name>ostir</name>
+			<value>2.6</value>
+		</param>
+		<param>
+			<name>op_notes4</name>
+			<value>Represents harvest equipment like a tomato harvester that pulls the vine and runs the entire plant through,
+separating the fruits from the residue and placing the residue back on the ground. Some slight soil disturbance .   121604DTL
+
+ARS template (tool) record - filename is:  Harvest Tool (combine cutterbar header - fixed height cut).oprn
+This operation record is designed to represent actual field harvesting operations such as
+removing the grain yield of small grain crops like soybeans with a cutter bar head on a combine.
+This harvesting operation record removes all the reproductive component of a crop above the
+cutting height.  Typically this is specified as the "yield" component in the crop record.
+The non-harvested crop plant material above the specified cut height becomes flat residue.
+The remaining above ground crop material below the specified cut height becomes standing residue.
+Note that the harvested component can be changed from the "reproductive material"
+to other plant parts, so it can be used for non-grain type harvesting operations as well.
+Any crops harvested with this operation will default to killing the crop unless the appropriate
+"kill" process parameter is changed.
+ 
+200x	Created - Fred Fox
+Oct 31, 2005	Updated notes - Larry Wagner
+Detailed info regarding this operation record:
+This harvest record specifies the actual cut height independent upon the height
+of the crop.  If the crop is too short for the specified cut height, the operation may
+not harvest all of the intended material (yield).
+If one wants a variable cut height, based upon the height of the crop at harvest
+time, they should use the "Harvest Template (fraction crop height cut and remove)" operation.
+Some standing crop stalks could be flattened during the harvesting process,
+e.g. by the harvester's tire tracks.  Therefore, a flattening process is also a part of this
+operation record.  The default values are set to zero, assuming no flattening of standing
+stalks are occuring.  However, these can be set as necessary for the specific harvesting
+device used in the operation.
+The harvesting operation could also have an effect on the "standing stalk"
+fall rate and fall threshold values.  The default "biomass pool" flag parameter
+is set to "No adjustments applied" so that no "stalk residue decay rate change" will occur.
+However, this flag value can be changed along with the default parameter values
+to change the "stalk residue decay processes".
+
+Reworked the values MAS 2-24-09
+
+Changed the parts harvested to include flat to correct yield-residue issue with GA run on
+watermelons.  8-27-10  MAS
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp
+</value>
+		</param>
+		<param>
+			<name>op_devnotes4</name>
+			<value>Represents harvest equipment like a tomato harvester that pulls the vine and runs the entire plant through,
+separating the fruits from the residue and placing the residue back on the ground. Some slight soil disturbance .   121604DTL
+
+ARS template (tool) record - filename is:  Harvest Tool (combine cutterbar header - fixed height cut).oprn
+This operation record is designed to represent actual field harvesting operations such as
+removing the grain yield of small grain crops like soybeans with a cutter bar head on a combine.
+This harvesting operation record removes all the reproductive component of a crop above the
+cutting height.  Typically this is specified as the "yield" component in the crop record.
+The non-harvested crop plant material above the specified cut height becomes flat residue.
+The remaining above ground crop material below the specified cut height becomes standing residue.
+Note that the harvested component can be changed from the "reproductive material"
+to other plant parts, so it can be used for non-grain type harvesting operations as well.
+Any crops harvested with this operation will default to killing the crop unless the appropriate
+"kill" process parameter is changed.
+ 
+200x	Created - Fred Fox
+Oct 31, 2005	Updated notes - Larry Wagner
+Detailed info regarding this operation record:
+This harvest record specifies the actual cut height independent upon the height
+of the crop.  If the crop is too short for the specified cut height, the operation may
+not harvest all of the intended material (yield).
+If one wants a variable cut height, based upon the height of the crop at harvest
+time, they should use the "Harvest Template (fraction crop height cut and remove)" operation.
+Some standing crop stalks could be flattened during the harvesting process,
+e.g. by the harvester's tire tracks.  Therefore, a flattening process is also a part of this
+operation record.  The default values are set to zero, assuming no flattening of standing
+stalks are occuring.  However, these can be set as necessary for the specific harvesting
+device used in the operation.
+The harvesting operation could also have an effect on the "standing stalk"
+fall rate and fall threshold values.  The default "biomass pool" flag parameter
+is set to "No adjustments applied" so that no "stalk residue decay rate change" will occur.
+However, this flag value can be changed along with the default parameter values
+to change the "stalk residue decay processes".
+
+Reworked the values MAS 2-24-09
+
+Changed the parts harvested to include flat to correct yield-residue issue with GA run on
+watermelons.  8-27-10  MAS
+LMOD and WEPS update correlation; existing WEPS operation record, 160410 jkp</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>01</id>
+		</identity>
+		<param>
+			<name>gtdepth</name>
+			<value>38.1000762001524</value>
+		</param>
+		<param>
+			<name>gtilint</name>
+			<value>0.75</value>
+		</param>
+		<param>
+			<name>gtilArea</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>gtstddepth</name>
+			<value>38.1000762001524</value>
+		</param>
+		<param>
+			<name>gtmindepth</name>
+			<value>25.4000508001016</value>
+		</param>
+		<param>
+			<name>gtmaxdepth</name>
+			<value>101.60020400000002</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>01</id>
+		</identity>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>rroughflag</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>rrough</name>
+			<value>8.8900175</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>11</id>
+		</identity>
+		<param>
+			<name>asdf</name>
+			<value>1.4</value>
+		</param>
+		<param>
+			<name>crif</name>
+			<value>-1.2</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>12</id>
+		</identity>
+		<param>
+			<name>soilos</name>
+			<value>0.85</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>13</id>
+		</identity>
+		<param>
+			<name>laymix</name>
+			<value>0.05</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>G</code>
+			<id>02</id>
+		</identity>
+		<param>
+			<name>gbioarea</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>31</id>
+		</identity>
+		<param>
+			<name>kilflag</name>
+			<value>2</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>62</id>
+		</identity>
+		<param>
+			<name>harv_report_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_calib_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>harv_unit_flg</name>
+			<value>0</value>
+		</param>
+		<param>
+			<name>mature_warn_flg</name>
+			<value>1</value>
+		</param>
+		<param>
+			<name>selpos</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>selpool</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>selagepool</name>
+			<value>2</value>
+		</param>
+		<param>
+			<name>rstore</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>rleaf</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rstem</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootstore</name>
+			<value>0.0</value>
+		</param>
+		<param>
+			<name>rrootfiber</name>
+			<value>0.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>34</id>
+		</identity>
+		<param>
+			<name>frselpool</name>
+			<value>3</value>
+		</param>
+		<param>
+			<name>ratemultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>ratemultvt5</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>threshmultvt5</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>40</id>
+		</identity>
+	</actionvalue>
+	<actionvalue>
+		<identity>
+			<code>P</code>
+			<id>24</id>
+		</identity>
+		<param>
+			<name>fbioflagvt</name>
+			<value>14</value>
+		</param>
+		<param>
+			<name>massflatvt1</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>massflatvt2</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>massflatvt3</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>massflatvt4</name>
+			<value>1.0</value>
+		</param>
+		<param>
+			<name>massflatvt5</name>
+			<value>1.0</value>
+		</param>
+	</actionvalue>
+</operationDB>

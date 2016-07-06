@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Plastic hoop tunnel, removal</path>
+   <name>Plastic hoop tunnel, removal</name>
+   <comments>'Remove plastic hoop tunnel cover  041708 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Plastic hoop tunnel, removal</path>
+         <name>Plastic hoop tunnel, removal</name>
+         <comment>Remove plastic hoop tunnel cover</comment>
+         <weppkey />
+         <mfo1>0.1</mfo1>
+         <mfo2>0.1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0127</rho>
+         <rint>1.036</rint>
+         <rmfo1>0.1</rmfo1>
+         <rmfo2>0.1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.20</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>0.0975</ostir><oenergyarea>3.6480303</oenergyarea></wepstags></weppoperation>

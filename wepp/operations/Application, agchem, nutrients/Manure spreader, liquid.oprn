@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Manure spreader, liquid</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>.29</ostir><oenergyarea>11.505327</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Sugarcane establishment to 1st harvest</path>
+<name>Sugarcane establishment to 1st harvest</name>
+<comments>'Sugarcane no weeds.  This record is the establishment year. Yield modified by DTL 06-30-3'</comments>
+<weppkey>L_771_Sugarcane</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>2.5</bb>
+<bbb>2.5</bbb>
+<beinp>35</beinp>
+<btemp>10</btemp>
+<cf>7.2</cf>
+<crit>60</crit>
+<critvm>0</critvm>
+<cuthgt>1</cuthgt>
+<decfct>0.8</decfct>
+<diam>0.03</diam>
+<dlai>0.9</dlai>
+<dropfc>0.8</dropfc>
+<extnct>0.6</extnct>
+<fact>0.5</fact>
+<flivmx>0</flivmx>
+<gddmax>4500</gddmax>
+<hi>0.7</hi>
+<hmax>4</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.004</oratea>
+<orater>0.004</orater>
+<otemp>27.5</otemp>
+<pltol>0</pltol>
+<pltsp>0.2</pltsp>
+<rdmax>1.5</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>10</rtmmax>
+<spriod>40</spriod>
+<tmpmax>40</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>8</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>ton/ac Cane</hyldunits><tgtyield>34</tgtyield><grf>1</grf><hyldflag>4</hyldflag><hmx>3.6576443</hmx><rdmx>2.0</rdmx><topt>25.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.012700155</stemdia><hyldwater>70</hyldwater></wepstags></weppcrop>

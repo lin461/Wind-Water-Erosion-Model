@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Harvest, dig root crops res. on surf</path>
+   <name>Harvest, dig root crops res. on surf</name>
+   <comments>&amp;quot;'Harvest, root crops like potatoes or sugar beets.  Surface is rough with 4  ridges and much of the residue is left on the surface.  rev 100108 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, dig root crops res. on surf</path>
+         <name>Harvest, dig root crops res. on surf</name>
+         <comment>"Harvest, root crops like potatoes or sugar beets. Surface is rough with 4 ridges and much of the residue is left on the surface."</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.75</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.50</surdis>
+         <tdmean>0.1778</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Harvest, dig root crops res. on surf</path>
+         <name>Harvest, dig root crops res. on surf</name>
+         <comment>"Harvest, root crops like potatoes or sugar beets. Surface is rough with 4 ridges and much of the residue is left on the surface."</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.1016</rho>
+         <rint>0.75</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.02</surdis>
+         <tdmean>0.1778</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>13.752375</ostir><oenergyarea>17.491838</oenergyarea></wepstags></weppoperation>

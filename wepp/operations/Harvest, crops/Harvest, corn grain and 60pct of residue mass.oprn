@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Harvest, crops</path>
+<name>Harvest, corn grain and 60pct of residue mass</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>0.15</ostir><oenergyarea>17.865995</oenergyarea></wepstags></weppoperation>

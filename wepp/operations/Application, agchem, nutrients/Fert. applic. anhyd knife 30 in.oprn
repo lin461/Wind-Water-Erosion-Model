@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Application, agchem, nutrient</path>
+<name>Fert. applic. anhyd knife 30 in</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>2.6</ostir><oenergyarea>7.4831395</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Striptiller w/middlebuster on beds</path>
+   <name>Striptiller w/middlebuster on beds</name>
+   <comments>&amp;quot;'Rototiller and middlebuster in 18  strips on beds to open the seed furrow for planting sugarcane, etc.  02-01-02 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Striptiller w/middlebuster on beds</path>
+         <name>Striptiller w/middlebuster on beds</name>
+         <comment>"Rototiller and middlebuster in 18 strips on beds to open the seed furrow for planting sugarcane, etc."</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.4</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.30</surdis>
+         <tdmean>0.1397</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>7.02</ostir><oenergyarea>4.2092657</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,40 @@
+<weppcrop>
+<version>20160218</version><path>vegetations\Corn, pop</path>
+<name>Corn, pop</name>
+<comments>'Popcorn.  Yield reported both in bu'ac and pounds.  Yield range 40 to 75 bushels at 65 pounds per bushel. .  This record based o an average yield of 52 bu or 3400 pounds per acre.  Adapted from RUSLE corn grain record.  090806 DTL'</comments>
+<weppkey>L_276_Corn</weppkey>
+<iplant>Cropland</iplant>
+<crunit>WeppWillSet</crunit>
+<bb>3.6</bb>
+<bbb>3</bbb>
+<beinp>38.6952</beinp>
+<btemp>10</btemp>
+<cf>2.3</cf>
+<crit>55</crit>
+<critvm>0</critvm>
+<cuthgt>0.3048</cuthgt>
+<decfct>0.9</decfct>
+<diam>0.051</diam>
+<dlai>0.8</dlai>
+<dropfc>0.98</dropfc>
+<extnct>0.65</extnct>
+<fact>0.99</fact>
+<flivmx>0</flivmx>
+<gddmax>1700</gddmax>
+<hi>0.5</hi>
+<hmax>2.60099</hmax>
+<mfocod>Non-Fragile</mfocod>
+<oratea>0.0065</oratea>
+<orater>0.0065</orater>
+<otemp>25</otemp>
+<pltol>0.25</pltol>
+<pltsp>0.219</pltsp>
+<rdmax>1.51995</rdmax>
+<rsr>0.25</rsr>
+<rtmmax>0</rtmmax>
+<spriod>30</spriod>
+<tmpmax>0</tmpmax>
+<tmpmin>0</tmpmin>
+<xmxlai>3.5</xmxlai>
+<yld>0</yld>
+<wepstags><hyldunits>lbs/ac</hyldunits><tgtyield>11000</tgtyield><grf>0.8</grf><hyldflag>0</hyldflag><hmx>2.0</hmx><rdmx>1.2192148</rdmx><topt>30.0</topt><cbaflag>1</cbaflag><hyconfact /><stemdia>0.01</stemdia><hyldwater>16.5</hyldwater></wepstags></weppcrop>

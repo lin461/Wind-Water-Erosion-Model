@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Chisel plow, coulter, sweeps</path>
+   <name>Chisel plow, coulter, sweeps</name>
+   <comments>'Coulter chisel plow with sweeps. 061206 DTL REV 110207 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Chisel plow, coulter, sweeps</path>
+         <name>Chisel plow, coulter, sweeps</name>
+         <comment>Coulter chisel plow with sweeps</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.55</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Chisel plow, coulter, sweeps</path>
+         <name>Chisel plow, coulter, sweeps</name>
+         <comment>Coulter chisel plow with sweeps</comment>
+         <weppkey />
+         <mfo1>0.85</mfo1>
+         <mfo2>0.85</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0762</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.85</rmfo1>
+         <rmfo2>0.85</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1778</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>52.65</ostir><oenergyarea>12.160101</oenergyarea></wepstags></weppoperation>

@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Tillage, cultivator, row</path>
+<name>Cultivator, flame</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>.15</ostir><oenergyarea>9.353924</oenergyarea></wepstags></weppoperation>

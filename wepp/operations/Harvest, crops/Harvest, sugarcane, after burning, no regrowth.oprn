@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Harvest, crops</path>
+<name>Harvest, sugarcane, after burning, no regrowth</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir>.15</ostir><oenergyarea>33.674126</oenergyarea></wepstags></weppoperation>

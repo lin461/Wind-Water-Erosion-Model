@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Spader</path>
+   <name>Spader</name>
+   <comments>&amp;quot;'Reciprocating spader used as a full width primary tillage operation in growing weeds or cover, residue or previously tilled soil..  Speed is artifically set higher than actual ground speed  to account for the mixing action of the PTO driven spades.  Soil Disturbance is high similar to that of a roto tiller but the machine action is more like that of hand spading whereby the soil is lifted and fractured.  If used to till under weeds or growing cover, the management record needs to have initiated the cover or weed growth prior to use of this operation.  06-24-10 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Spader</path>
+         <name>Spader</name>
+         <comment>"Reciprocating spader used as a full width primary tillage operation in growing weeds or cover, residue or previously tilled soil. Speed is artificially set higher than actual ground speed to account for the mixing action of the PTO driven spades. Soil disturbance is high, similar to that of a rototiller but the machine action is more like that of hand spading whereby the soil is lifted and fractured. If used to till under weeds or growing cover, the management record needs to have initiated the cover or weed growth prior to use of this operation."</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1905</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>18.2</ostir><oenergyarea>14.030887</oenergyarea></wepstags></weppoperation>

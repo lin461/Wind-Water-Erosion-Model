@@ -1,0 +1,6 @@
+<weppoperation>
+<path>.\wepp\operations\Seeding, drill, other</path>
+<name>Sod installation</name>
+<weppkey />
+<comments>Initial setup no parameters, needs edit</comments>
+<wepstags><ostir /><oenergyarea /></wepstags></weppoperation>

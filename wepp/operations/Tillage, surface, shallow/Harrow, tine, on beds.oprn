@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Harrow, tine, on beds</path>
+   <name>Harrow, tine, on beds</name>
+   <comments>'Drag with light harrow or chain link fence panel on existing beds.  11/17/01 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Harrow, tine, on beds</path>
+         <name>Harrow, tine, on beds</name>
+         <comment>Drag with light harrow or chain link fence panel on existing beds</comment>
+         <weppkey />
+         <mfo1>0.25</mfo1>
+         <mfo2>0.25</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.2032</rho>
+         <rint>0.05</rint>
+         <rmfo1>0.25</rmfo1>
+         <rmfo2>0.25</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>0.60</surdis>
+         <tdmean>0.0508</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>7.8</ostir><oenergyarea>2.0578632</oenergyarea></wepstags></weppoperation>

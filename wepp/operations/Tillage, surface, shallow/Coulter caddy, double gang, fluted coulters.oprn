@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Coulter caddy, dbl gang w/ fluted coulters</path>
+   <name>Coulter caddy, dbl gang w/ fluted coulters</name>
+   <comments>'Coulter Caddy fluted coulters with two offset gangs on 10 inch spacing with effective spacing of 5 inches.  Typified by the Great Plains Turbo-till without attachments.  103107 DTL'</comments>
+   <process>
+      <tillage>
+         <path>operations\Coulter caddy, dbl gang w/ fluted coulters</path>
+         <name>Coulter caddy, dbl gang w/ fluted coulters</name>
+         <comment>Coulter Caddy fluted coulters with two offset gangs on 10 inch spacing with effective spacing of 5 inches. Typified by the Great Plains Turbo-till without attachments</comment>
+         <weppkey />
+         <mfo1>0.4</mfo1>
+         <mfo2>0.4</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.36</rint>
+         <rmfo1>0.4</rmfo1>
+         <rmfo2>0.4</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>15.6</ostir><oenergyarea>3.2738733</oenergyarea></wepstags></weppoperation>

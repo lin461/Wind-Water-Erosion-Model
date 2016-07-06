@@ -1,0 +1,10 @@
+<weppoperation>
+   <path>operations\Planting, broadcast seeder</path>
+   <name>Planting, broadcast seeder</name>
+   <comments>'Broadcast seeding. Begins growth .    11/30/01 DTL  Added 40 lbs. start storage biomass default for new veg.  022212 DTL'</comments>
+   <process>
+      <plant>
+         <name />
+      </plant>
+   </process>
+<wepstags><ostir>.15</ostir><oenergyarea>1.2160101</oenergyarea></wepstags></weppoperation>

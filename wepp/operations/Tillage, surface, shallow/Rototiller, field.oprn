@@ -1,0 +1,25 @@
+<weppoperation>
+   <path>operations\Rototiller, field</path>
+   <name>Rototiller, field</name>
+   <comments>&amp;quot;'Rototiller used as a full width tillage operation in growing weeds or cover, residue or previously tilled soil..  If used to till under weeds or growing cover, the management record needs to have initiated the cover or weed growth prior to use of this operation.  03-19-02 DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Rototiller, field</path>
+         <name>Rototiller, field</name>
+         <comment>"Rototiller used as a full width tillage operation in growing weeds or cover, residue or previously tilled soil. If used to till under weeds or growing cover, the mangement record needs to have intiated the cover or weed growth prior to use of this operation."</comment>
+         <weppkey>ROTO1</weppkey>
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0</rho>
+         <rint>0</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.1016</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>18.2</ostir><oenergyarea>19.64324</oenergyarea></wepstags></weppoperation>

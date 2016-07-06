@@ -1,0 +1,45 @@
+<weppoperation>
+   <path>operations\Harvest, peanut digger</path>
+   <name>Harvest, peanut digger</name>
+   <comments>&amp;quot;'Smooth soil surface (roughness) left after harvest like a peanut digger. Vee blades undercut the peanut rows but lateral fracturing and soil splash cause soil disturbance over the entire surface.  This operation digs the plant and lifts, inverts and windrows the plants. Also includes the harvest which occurs a few days later and spreads the residue back on the disturbed surface.  Rev110608  DTL'&amp;quot;</comments>
+   <process>
+      <tillage>
+         <path>operations\Harvest, peanut digger</path>
+         <name>Harvest, peanut digger</name>
+         <comment>"Smooth soil surface (roughness) left after harvest like a peanut digger. Vee blades undercut the peanut rows but lateral fracturing and soil splash cause soil disturbance over the entire surface. This operation digs the plants and lifts, inverts and windrows the plants. Also includes the harvest which occurs a few days later and spreads the residue back on the disturbed surface."</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.006096</rro>
+         <surdis>1</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+   <process>
+      <tillage>
+         <path>operations\Harvest, peanut digger</path>
+         <name>Harvest, peanut digger</name>
+         <comment>"Smooth soil surface (roughness) left after harvest like a peanut digger. Vee blades undercut the peanut rows but lateral fracturing and soil splash cause soil disturbance over the entire surface. This operation digs the plants and lifts, inverts and windrows the plants. Also includes the harvest which occurs a few days later and spreads the residue back on the disturbed surface."</comment>
+         <weppkey />
+         <mfo1>1</mfo1>
+         <mfo2>1</mfo2>
+         <numof>0</numof>
+         <pcode>Other</pcode>
+         <cltpos>Rear mounted</cltpos>
+         <rho>0.0508</rho>
+         <rint>0.3</rint>
+         <rmfo1>1</rmfo1>
+         <rmfo2>1</rmfo2>
+         <rro>0.00381</rro>
+         <surdis>0.02</surdis>
+         <tdmean>0.0762</tdmean>
+      </tillage>
+   </process>
+<wepstags><ostir>18.564 </ostir><oenergyarea>17.491838</oenergyarea></wepstags></weppoperation>
