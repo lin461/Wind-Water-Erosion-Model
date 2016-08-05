@@ -10,7 +10,6 @@ import java.io.*;
 
 
 
-
 public class XMLParser {
 
   final static String folderPath = "/Users/alex/Desktop/Wind-Water-Erosion-Model/wepp/operations";
@@ -23,19 +22,22 @@ public class XMLParser {
     ArrayList<String> WEPP_fileName = new ArrayList<>();
     ArrayList<String> WEPS_fileName = new ArrayList<>();
     ArrayList<String> WEPP_surdis = new ArrayList<>();
-    ArrayList<String> WEPP_tdmean = new ArrayList<>();
+    ArrayList<Double> WEPP_tdmean = new ArrayList<>();
     ArrayList<String> WEPS_gtilarea = new ArrayList<>();
     ArrayList<String> WEPS_gtdepth = new ArrayList<>();
 
+
+
     // Enter pattern to search
-    final String pattern = "<tdmean>";
+    final String pattern = "<surdis>";
 
     final File folder = new File(folderPath);
-    searchFile(folder, pattern, WEPP_fileName, WEPS_fileName);
+    searchFile(folder, pattern, WEPP_fileName, WEPS_fileName, WEPP_otherFile, WEPS_otherFile);
 
 
     SAXParserFactory parserFactor = SAXParserFactory.newInstance();
     parserFactor.setFeature("http://apache.org/xml/features/nonvalidating/load-external-dtd", false);
+    //parserFactor.setFeature("http://xml.org/sax/features/validation", false);
     SAXParser parser = parserFactor.newSAXParser();
     SAXHandler handler = new SAXHandler();
 
@@ -58,28 +60,29 @@ public class XMLParser {
       if (process.surdis != null && !process.surdis.isEmpty()) {
         WEPP_surdis.add(process.surdis);
       }
-      if (process.tdmean != null && !process.tdmean.isEmpty()) {
-        WEPP_tdmean.add(process.tdmean);
+      if (process.tdmean != 0) {
+        WEPP_tdmean.add(process.tdmean * 1000);
       }
     }
 
+
     //create output file.
     PrintWriter pw_WEPP = new PrintWriter("WEPP_output.txt", "UTF-8");
-    pw_WEPP.println("- - - - - - - - - - - - - - - - - - - -");
-    pw_WEPP.printf("%s\t%s\t%s%n", "FileName", "WEPP(surdis)", "WEPP(tdmean)");
-    pw_WEPP.println("- - - - - - - - - - - - - - - - - - - -");
+    //pw_WEPP.println("- - - - - - - - - - - - - - - - - - - -");
+    pw_WEPP.printf("%-120s\t%-120s\t%-120s%n", "FileName", "WEPP(surdis)", "WEPP(tdmean)");
+    //pw_WEPP.println("- - - - - - - - - - - - - - - - - - - -");
     for (int i = 0; i < WEPP_fileName.size(); i++) {
-      pw_WEPP.printf("%s;  %s;  %s%n", WEPP_fileName.get(i), WEPP_surdis.get(i), WEPP_tdmean.get(i));
+      pw_WEPP.printf("%-120s\t%-120s\t%-120s%n", WEPP_fileName.get(i), WEPP_surdis.get(i), WEPP_tdmean.get(i));
     }
     pw_WEPP.close();
 
-    PrintWriter pw_WEPS = new PrintWriter("WEPS_output.txt", "UTF-8");
-    pw_WEPS.println("- - - - - - - - - - - - - - - - - - - -");
-    pw_WEPS.printf("%s\t%s\t%s%n", "FileName", "WEPS(gtilArea)", "WEPS(gtdepth)");
-    pw_WEPS.println("- - - - - - - - - - - - - - - - - - - -");
 
+    PrintWriter pw_WEPS = new PrintWriter("WEPS_output.txt", "UTF-8");
+    //pw_WEPS.println("- - - - - - - - - - - - - - - - - - - -");
+    pw_WEPS.printf("%-120s\t%-120s\t%-120s%n", "FileName", "WEPS(gtilArea)", "WEPS(gtdepth)");
+    //pw_WEPS.println("- - - - - - - - - - - - - - - - - - - -");
     for (int i = 0; i < WEPS_fileName.size(); i++) {
-      pw_WEPS.printf("%s;  %s;  %s%n", WEPS_fileName.get(i), WEPS_gtilarea.get(i), WEPS_gtdepth.get(i));
+      pw_WEPS.printf("%-120s\t%-120s\t%-120s%n", WEPS_fileName.get(i), WEPS_gtilarea.get(i), WEPS_gtdepth.get(i));
     }
     pw_WEPS.close();
 
@@ -87,11 +90,13 @@ public class XMLParser {
 
   public static void searchFile(final File folder, final String pattern,
                                 ArrayList<String> WEPP_fileName,
-                                ArrayList<String> WEPS_fileName)
+                                ArrayList<String> WEPS_fileName,
+                                ArrayList<String> WEPP_otherFile,
+                                ArrayList<String> WEPS_otherFile)
                                 throws FileNotFoundException {
     for (final File fileEntry : folder.listFiles()) {
       if (fileEntry.isDirectory()) {
-        searchFile(fileEntry, pattern, WEPP_fileName, WEPS_fileName);
+        searchFile(fileEntry, pattern, WEPP_fileName, WEPS_fileName, WEPP_otherFile, WEPS_otherFile);
       } else {
 
         filePath.add(fileEntry.getAbsolutePath());
@@ -99,7 +104,7 @@ public class XMLParser {
         if (WEPP_searchPattern.matches("(.*)" + pattern + "(.*)")) {
           Scanner WEPP_scan = new Scanner(fileEntry);
           while (WEPP_scan.findWithinHorizon(pattern, 0) != null) {
-            WEPP_fileName.add(fileEntry.getName());
+            WEPP_fileName.add(fileEntry.getParentFile().getName() + "\\" + fileEntry.getName());
           }
           WEPP_scan.close();
         }
@@ -107,11 +112,10 @@ public class XMLParser {
         if (WEPS_searchPattern.matches("(.*)" + pattern + "(.*)")) {
           Scanner WEPS_scan = new Scanner(fileEntry);
           while (WEPS_scan.findWithinHorizon(pattern, 0) != null) {
-            WEPS_fileName.add(fileEntry.getName());
+            WEPS_fileName.add(fileEntry.getParentFile().getName() + "\\" + fileEntry.getName());
           }
           WEPS_scan.close();
         }
-
       }
     }
   }
@@ -175,7 +179,7 @@ class SAXHandler extends DefaultHandler {
        process.surdis = content;
        break;
      case "tdmean":
-       process.tdmean = content;
+       process.tdmean = Double.parseDouble(content);
        break;
    }
   }
@@ -201,7 +205,7 @@ class Param {
 
 class Process {
   String surdis;
-  String tdmean;
+  double tdmean;
 
   @Override
   public String toString() {
